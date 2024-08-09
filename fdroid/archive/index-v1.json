@@ -1,11 +1,11 @@
 {
   "repo": {
-    "timestamp": 1723195482000,
+    "timestamp": 1723197166000,
     "version": 20002,
     "name": "s3tupw1zard's F-Droid Archive",
     "icon": "icon.png",
     "description": "The repository of older versions of packages from the main demo repository. This only for my private use. Use it at your own risk.",
-    "address": "https://raw.githubusercontent.com/s3tupw1zard/fdroid/main/fdroid/archive"
+    "address": "https://s3tupw1zard.github.io/fdroid/archive"
   },
   "requests": {
     "install": [],
