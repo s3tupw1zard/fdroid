@@ -96,7 +96,7 @@ bunny-manager:
   categories: 
   - Phone & SMS, Connectivity
 
-MMRL:
+mmrl:
   git: https://github.com/DerGoogler/MMRL
   license: MIT
   authorname: DerGoogler
@@ -130,7 +130,7 @@ MMRL:
   categories: 
   - System, Root
 
-Revanced-Manager:
+revanced-manager:
   git: https://github.com/inotia00/revanced-manager
   license: GPL-3.0
   authorname: inotia00
@@ -165,7 +165,7 @@ Revanced-Manager:
   categories: 
   - System, Streaming
 
-GitNex:
+gitnex:
   git: https://codeberg.org/gitnex/GitNex
   license: GNU GENERAL PUBLIC LICENSE
   authorname: mmarif
@@ -197,7 +197,7 @@ GitNex:
   categories: 
   - Development
 
-Plex-MOD:
+plex-mod:
   git: https://git.mnlx.cc/fdroid-apps/Plex-MOD-Android
   license: MIT
   authorname: s3tupw1zard
