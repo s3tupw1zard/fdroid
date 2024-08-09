@@ -109,23 +109,23 @@ MMRL:
   description: |
     Introducing Magisk Module Repo Loader (MMRL) - the ultimate module manager for Magisk, KernelSU and APatch on Android. This highly configurable app allows users to manage modules effortlessly, all while being completely free of ads.
 
-    ## Requirements:
+    Requirements:
     - Android 8.0 or later
-    - (MMRL-CLI)[https://github.com/DerGoogler/MMRL-CLI]
+    - MMRL-CLI from https://github.com/DerGoogler/MMRL-CLI
     - 4-5 GB RAM (lower may possible)
-    ## Features:
+    Features:
     - Basics: Literally basics
-    - (ModFS)[https://github.com/DerGoogler/MMRL/tree/master/docs/ModFS.md]: Customizable Module Filesystem
-    - (ModConf)[https://github.com/DerGoogler/MMRL/blob/master/docs/ModConf/README.md]: Provide dynamic created pages for modules
+    - ModFS: Customizable Module Filesystem
+    - ModConf: Provide dynamic created pages for modules
     - Custom Repos: Load any repo that uses the MRepo or the GR Fork
 
-    Read the (documentation)[https://github.com/DerGoogler/MMRL/tree/master/docs] to explore more of our functions like Shell, SuFile and more
+    Read the documentation at https://github.com/DerGoogler/MMRL/tree/master/docs to explore more of our functions like Shell, SuFile and more
 
-    ### Supported root manager:
-    - [x] [Magisk](https://github.com/topjohnwu/Magisk)
-    - [x] [Magisk Delta](https://github.com/HuskyDG/magisk-files)
-    - [x] [KernelSU](https://github.com/tiann/KernelSU)
-    - [x] [APatch](https://github.com/bmax121/APatch)
+    Supported root manager:
+    - Magisk
+    - Magisk Delta
+    - KernelSU
+    - APatch
 
   categories: 
   - System, Root
@@ -141,18 +141,15 @@ Revanced-Manager:
 
   name: "Revanced Manager"
   description: |
-    # 💊 ReVanced Manager
-
-    ![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/ReVanced/revanced-manager/release.yml)
-    ![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)
+    💊 ReVanced Manager
 
     Application to use ReVanced on Android
 
-    ## ❓ About
+    ❓ About
 
-    ReVanced Manager is an application that uses [ReVanced Patcher](https://github.com/revanced/revanced-patcher) to patch Android apps.
+    ReVanced Manager is an application that uses ReVanced Patcher from https://github.com/revanced/revanced-patcher to patch Android apps.
 
-    ## 💪 Features
+    💪 Features
 
     Some of the features ReVanced Manager provides are:
 
@@ -161,14 +158,9 @@ Revanced-Manager:
     - 🤗 **Simple UI**: Quickly understand the ins and outs of ReVanced Manager
     - 🛠️ **Customization**: Configurable API, custom sources, language, signing keystore, theme and more
 
-    ## 🔽 Download
+    📄 Documentation
 
-    You can download the most recent version of ReVanced Manager at [revanced.app/download](https://revanced.app/download), from here or from [GitHub releases](https://github.com/ReVanced/revanced-manager/releases/latest).  
-    Learn how to use ReVanced Manager by following the [documentation](https://github.com/inotia00/revanced-manager/blob/main/docs).
-
-    ## 📄 Documentation
-
-  You can find the documentation for ReVanced Manager [here](https://github.com/inotia00/revanced-manager/blob/main/docs).
+  You can find the documentation for ReVanced Manager at https://github.com/inotia00/revanced-manager/blob/main/docs.
 
   categories: 
   - System, Streaming
