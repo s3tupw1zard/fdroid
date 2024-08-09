@@ -1,2 +1,27 @@
   # As described on https://f-droid.org/en/docs/Build_Metadata_Reference/#Categories,
   # you can use any name here, but you should look at the existing categories first
+grocy:
+  git: https://github.com/patzly/grocy-android
+  name: "Grocy"
+  description: |
+    Grocy Android is an open-source Android client for grocy (source code). Grocy is a self-hosted groceries & household management solution for your home.
+    Grocy Android uses grocy's official API to provide you a beautiful interface on your phone with powerful barcode scanning and intuitive batch processing, all what you need to efficiently manage your groceries.
+    This app requires a running self-hosted instance of the grocy server application. It is a companion app, therefore it cannot run standalone or manage products itself! You can try and test all features using the demo option available on the login screen.
+    Features:
+
+    - Stock overview
+    - Shopping lists with offline support
+    - In-store shopping mode (big UI elements)
+    - Fast barcode scanning
+    - OpenFoodFacts implementation
+    - Master data editing
+    - Dark mode
+    - No ads, analytics or in-app purchases
+
+  # As described on https://f-droid.org/en/docs/Build_Metadata_Reference/#Categories,
+  # you can use any name here, but you should look at the existing categories first
+  categories: 
+    - Sports & Health
+  
+  anti_features:
+    -
