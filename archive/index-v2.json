@@ -9,12 +9,12 @@
     "icon": {
       "en-US": {
         "name": "/icons/icon.png",
-        "sha256": "c03488b175b395dc272b09c9a2b2541759a83d690e76bc7e4be12775a67656e6",
-        "size": 960
+        "sha256": "c1892b872bd830137b313843a8c2033fb420747f713fb95d43f02abdbd2af85b",
+        "size": 733
       }
     },
-    "address": "https://raw.githubusercontent.com/s3tupw1zard/fdroid/main/fdroid/archive",
-    "timestamp": 1723195482000
+    "address": "https://s3tupw1zard.github.io/fdroid/archive",
+    "timestamp": 1723197166000
   },
   "packages": {
     "xyz.zedler.patrick.grocy": {
