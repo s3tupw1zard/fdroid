@@ -72,7 +72,7 @@ jobs:
           favicon: '<link rel="icon" type="image/png" sizes="32x32" href="favicon/favicon.png">'
 
       - name: Force use gnu-sed
-          run: |
+        run: |
             ln -s /usr/local/bin/gsed sed
             export PATH=$PWD:$PATH
 
