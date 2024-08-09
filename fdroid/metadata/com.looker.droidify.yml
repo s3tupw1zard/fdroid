@@ -1,0 +1,43 @@
+AuthorName: Droid-ify
+Categories:
+    - System
+CurrentVersion: 0.6.3
+CurrentVersionCode: 630
+Description: |
+    A quick material F-Droid client
+
+    Features:
+
+    * Material F-Droid style
+    * No cards or inappropriate animations
+    * Fast repository syncing
+    * Standard Android components and minimal dependencies
+
+    Available in:
+
+    - Brazillian Portugese
+    - English
+    - Finnish
+    - French
+    - German
+    - Greek
+    - Hungarian
+    - Italian
+    - Norwegian Bokmål
+    - Peninsular Arabic
+    - Polish
+    - Russian
+    - Simplified Chinese
+    - Spanish
+    - Turkish
+
+    A direct adaptation/modification of Foxy-Droid
+
+    Copylefted libre software, licensed GPLv3+. \
+    Use, study, change, and share; with all.
+IssueTracker: ""
+License: GPL-3.0
+Name: Droid-ify
+SourceCode: https://github.com/Droid-ify/client
+Summary: 'F-Droid client with Material UI. '
+WebSite: ""

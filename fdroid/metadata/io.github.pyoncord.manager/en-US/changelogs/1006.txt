@@ -1,0 +1,6 @@
+## What's Changed
+* fix discord link on about screen by @Rico040 in https://github.com/pyoncord/BunnyManager/pull/4
+* update LSPatch and their libs by @Rico040 in https://github.com/pyoncord/BunnyManager/pull/20
+
+
+**Full Changelog**: https://github.com/pyoncord/BunnyManager/compare/1005...1006

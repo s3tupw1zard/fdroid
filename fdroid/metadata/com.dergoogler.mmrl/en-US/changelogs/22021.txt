@@ -1,0 +1,4 @@
+Changelogs are readable [here](https://github.com/DerGoogler/MMRL/wiki/Changelog) or directly in the app.
+
+Web: https://mmrl.dergoogler.com
+Blog: 
