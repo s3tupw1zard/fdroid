@@ -77,7 +77,7 @@ jobs:
             export PATH=$PWD:$PATH
 
       - name: Fix icons path
-        run: sed -i "s/fdroid/repo/icons//repo/icons//g" fdroid/index.html
+        run: sed -i "s#fdroid/repo/icons/#repo/icons/#g" fdroid/index.html
 
       - name: Copy qrcode.png to fdroid folder and fix qrcode path
         run: mkdir -p fdroid/.github; cp .github/qrcode.png fdroid/.github/qrcode.png
