@@ -1,0 +1,2567 @@
+{
+  "METADATA_VERSION": 20002,
+  "allow_disabled_algorithms": false,
+  "grocy_v1.1.0.apk": {
+    "hash": "96f571b4e65ff824d98d88454b8add904cee40e7df0c6b2296bd7c5aed6d961b",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.CAMERA",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "xyz.zedler.patrick.grocy.6.png",
+      "480": "xyz.zedler.patrick.grocy.6.png",
+      "320": "xyz.zedler.patrick.grocy.6.png",
+      "240": "xyz.zedler.patrick.grocy.6.png",
+      "160": "xyz.zedler.patrick.grocy.6.png",
+      "0": "xyz.zedler.patrick.grocy.6.png"
+    },
+    "antiFeatures": [],
+    "packageName": "xyz.zedler.patrick.grocy",
+    "versionCode": 6,
+    "name": "Grocy",
+    "versionName": "1.1.0",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 29,
+    "sig": "729b324a7bda2063a68a108ed7a671a5",
+    "signer": "5c6c89e298e90b548b1ebc627aafb5c822e5d94b4b1c6c24c4028b85d23ced6f",
+    "size": 2834705,
+    "apkName": "grocy_v1.1.0.apk",
+    "icon": "xyz.zedler.patrick.grocy.6.png",
+    "added": 1723192432.632388
+  },
+  "grocy_v1.10.0.apk": {
+    "hash": "5cec9247861e83b1e931f9726938c5ed9d57c9d8608bd49fd135451226f9e5be",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.CAMERA",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "xyz.zedler.patrick.grocy.23.png",
+      "480": "xyz.zedler.patrick.grocy.23.png",
+      "320": "xyz.zedler.patrick.grocy.23.png",
+      "240": "xyz.zedler.patrick.grocy.23.png",
+      "160": "xyz.zedler.patrick.grocy.23.png",
+      "0": "xyz.zedler.patrick.grocy.23.png"
+    },
+    "antiFeatures": [],
+    "packageName": "xyz.zedler.patrick.grocy",
+    "versionCode": 23,
+    "name": "Grocy",
+    "versionName": "1.10.0",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 29,
+    "sig": "2dad45fb663fa75c698fe35dbb102950",
+    "signer": "17eefb619f645adc130dc2055a8a1f954e4ec334902e4c9cd09072c155722bce",
+    "size": 3254463,
+    "apkName": "grocy_v1.10.0.apk",
+    "icon": "xyz.zedler.patrick.grocy.23.png",
+    "added": 1723192433.472739
+  },
+  "grocy_v1.10.1.apk": {
+    "hash": "d63a5e3d89bf541c6ebe07ebed9fc7ac274b0f5feb234783e64009413d0c742c",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.CAMERA",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "xyz.zedler.patrick.grocy.24.png",
+      "480": "xyz.zedler.patrick.grocy.24.png",
+      "320": "xyz.zedler.patrick.grocy.24.png",
+      "240": "xyz.zedler.patrick.grocy.24.png",
+      "160": "xyz.zedler.patrick.grocy.24.png",
+      "0": "xyz.zedler.patrick.grocy.24.png"
+    },
+    "antiFeatures": [],
+    "packageName": "xyz.zedler.patrick.grocy",
+    "versionCode": 24,
+    "name": "Grocy",
+    "versionName": "1.10.1",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 29,
+    "sig": "2dad45fb663fa75c698fe35dbb102950",
+    "signer": "17eefb619f645adc130dc2055a8a1f954e4ec334902e4c9cd09072c155722bce",
+    "size": 3238079,
+    "apkName": "grocy_v1.10.1.apk",
+    "icon": "xyz.zedler.patrick.grocy.24.png",
+    "added": 1723192434.316896
+  },
+  "grocy_v1.2.0.apk": {
+    "hash": "2bc8686f4f614cb726eb254c02de41419620e9e305556b006461e747a3b6c981",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.CAMERA",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "xyz.zedler.patrick.grocy.7.png",
+      "480": "xyz.zedler.patrick.grocy.7.png",
+      "320": "xyz.zedler.patrick.grocy.7.png",
+      "240": "xyz.zedler.patrick.grocy.7.png",
+      "160": "xyz.zedler.patrick.grocy.7.png",
+      "0": "xyz.zedler.patrick.grocy.7.png"
+    },
+    "antiFeatures": [],
+    "packageName": "xyz.zedler.patrick.grocy",
+    "versionCode": 7,
+    "name": "Grocy",
+    "versionName": "1.2.0",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 29,
+    "sig": "729b324a7bda2063a68a108ed7a671a5",
+    "signer": "5c6c89e298e90b548b1ebc627aafb5c822e5d94b4b1c6c24c4028b85d23ced6f",
+    "size": 2928965,
+    "apkName": "grocy_v1.2.0.apk",
+    "icon": "xyz.zedler.patrick.grocy.7.png",
+    "added": 1723192435.008087
+  },
+  "grocy_v1.3.0.apk": {
+    "hash": "2a2595ed3e74c65891598690e8c9dbbf367158d4927dc133cfca51c51d901771",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.CAMERA",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "xyz.zedler.patrick.grocy.8.png",
+      "480": "xyz.zedler.patrick.grocy.8.png",
+      "320": "xyz.zedler.patrick.grocy.8.png",
+      "240": "xyz.zedler.patrick.grocy.8.png",
+      "160": "xyz.zedler.patrick.grocy.8.png",
+      "0": "xyz.zedler.patrick.grocy.8.png"
+    },
+    "antiFeatures": [],
+    "packageName": "xyz.zedler.patrick.grocy",
+    "versionCode": 8,
+    "name": "Grocy",
+    "versionName": "1.3.0",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 29,
+    "sig": "729b324a7bda2063a68a108ed7a671a5",
+    "signer": "5c6c89e298e90b548b1ebc627aafb5c822e5d94b4b1c6c24c4028b85d23ced6f",
+    "size": 2779816,
+    "apkName": "grocy_v1.3.0.apk",
+    "icon": "xyz.zedler.patrick.grocy.8.png",
+    "added": 1723192435.697228
+  },
+  "grocy_v1.4.0.apk": {
+    "hash": "971fcd136b88b69ed5cc79b73b5eb1c03e41e2d7fab2c85d28ae158a4290bce0",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.CAMERA",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "xyz.zedler.patrick.grocy.9.png",
+      "480": "xyz.zedler.patrick.grocy.9.png",
+      "320": "xyz.zedler.patrick.grocy.9.png",
+      "240": "xyz.zedler.patrick.grocy.9.png",
+      "160": "xyz.zedler.patrick.grocy.9.png",
+      "0": "xyz.zedler.patrick.grocy.9.png"
+    },
+    "antiFeatures": [],
+    "packageName": "xyz.zedler.patrick.grocy",
+    "versionCode": 9,
+    "name": "Grocy",
+    "versionName": "1.4.0",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 29,
+    "sig": "729b324a7bda2063a68a108ed7a671a5",
+    "signer": "5c6c89e298e90b548b1ebc627aafb5c822e5d94b4b1c6c24c4028b85d23ced6f",
+    "size": 3887997,
+    "apkName": "grocy_v1.4.0.apk",
+    "icon": "xyz.zedler.patrick.grocy.9.png",
+    "added": 1723192436.592443
+  },
+  "grocy_v1.4.1.apk": {
+    "hash": "47f368b5eebd4916f08e6aae1f3c2accebb9a8c713acfe2a6085d498ccd9866d",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.CAMERA",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "xyz.zedler.patrick.grocy.10.png",
+      "480": "xyz.zedler.patrick.grocy.10.png",
+      "320": "xyz.zedler.patrick.grocy.10.png",
+      "240": "xyz.zedler.patrick.grocy.10.png",
+      "160": "xyz.zedler.patrick.grocy.10.png",
+      "0": "xyz.zedler.patrick.grocy.10.png"
+    },
+    "antiFeatures": [],
+    "packageName": "xyz.zedler.patrick.grocy",
+    "versionCode": 10,
+    "name": "Grocy",
+    "versionName": "1.4.1",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 29,
+    "sig": "729b324a7bda2063a68a108ed7a671a5",
+    "signer": "5c6c89e298e90b548b1ebc627aafb5c822e5d94b4b1c6c24c4028b85d23ced6f",
+    "size": 2999172,
+    "apkName": "grocy_v1.4.1.apk",
+    "icon": "xyz.zedler.patrick.grocy.10.png",
+    "added": 1723192437.294065
+  },
+  "grocy_v1.4.2.apk": {
+    "hash": "82efea9c223bff9dd9a5e885de316fd7f12cdd170438256bf8f44d8194af71a3",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.CAMERA",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "xyz.zedler.patrick.grocy.11.png",
+      "480": "xyz.zedler.patrick.grocy.11.png",
+      "320": "xyz.zedler.patrick.grocy.11.png",
+      "240": "xyz.zedler.patrick.grocy.11.png",
+      "160": "xyz.zedler.patrick.grocy.11.png",
+      "0": "xyz.zedler.patrick.grocy.11.png"
+    },
+    "antiFeatures": [],
+    "packageName": "xyz.zedler.patrick.grocy",
+    "versionCode": 11,
+    "name": "Grocy",
+    "versionName": "1.4.2",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 29,
+    "sig": "729b324a7bda2063a68a108ed7a671a5",
+    "signer": "5c6c89e298e90b548b1ebc627aafb5c822e5d94b4b1c6c24c4028b85d23ced6f",
+    "size": 3017528,
+    "apkName": "grocy_v1.4.2.apk",
+    "icon": "xyz.zedler.patrick.grocy.11.png",
+    "added": 1723192438.02635
+  },
+  "grocy_v1.5.0.apk": {
+    "hash": "6a81017d48477da0959120a104ddc72f3157aeb230b9cb894182f6249726d9f0",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.CAMERA",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "xyz.zedler.patrick.grocy.12.png",
+      "480": "xyz.zedler.patrick.grocy.12.png",
+      "320": "xyz.zedler.patrick.grocy.12.png",
+      "240": "xyz.zedler.patrick.grocy.12.png",
+      "160": "xyz.zedler.patrick.grocy.12.png",
+      "0": "xyz.zedler.patrick.grocy.12.png"
+    },
+    "antiFeatures": [],
+    "packageName": "xyz.zedler.patrick.grocy",
+    "versionCode": 12,
+    "name": "Grocy",
+    "versionName": "1.5.0",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 29,
+    "sig": "729b324a7bda2063a68a108ed7a671a5",
+    "signer": "5c6c89e298e90b548b1ebc627aafb5c822e5d94b4b1c6c24c4028b85d23ced6f",
+    "size": 3071131,
+    "apkName": "grocy_v1.5.0.apk",
+    "icon": "xyz.zedler.patrick.grocy.12.png",
+    "added": 1723192438.765893
+  },
+  "grocy_v1.6.0.apk": {
+    "hash": "627a54af681632e0bdd0dd9463fd2cb5406675df2e5a2030fbdd717d849ea7b4",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.CAMERA",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "xyz.zedler.patrick.grocy.13.png",
+      "480": "xyz.zedler.patrick.grocy.13.png",
+      "320": "xyz.zedler.patrick.grocy.13.png",
+      "240": "xyz.zedler.patrick.grocy.13.png",
+      "160": "xyz.zedler.patrick.grocy.13.png",
+      "0": "xyz.zedler.patrick.grocy.13.png"
+    },
+    "antiFeatures": [],
+    "packageName": "xyz.zedler.patrick.grocy",
+    "versionCode": 13,
+    "name": "Grocy",
+    "versionName": "1.6.0",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 29,
+    "sig": "729b324a7bda2063a68a108ed7a671a5",
+    "signer": "5c6c89e298e90b548b1ebc627aafb5c822e5d94b4b1c6c24c4028b85d23ced6f",
+    "size": 3082021,
+    "apkName": "grocy_v1.6.0.apk",
+    "icon": "xyz.zedler.patrick.grocy.13.png",
+    "added": 1723192439.464456
+  },
+  "grocy_v1.7.0.apk": {
+    "hash": "cea278e60d07c2b81dec1ce95e367d5c19bd7f935f59aa22659a1ac070c2117e",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.CAMERA",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "xyz.zedler.patrick.grocy.14.png",
+      "480": "xyz.zedler.patrick.grocy.14.png",
+      "320": "xyz.zedler.patrick.grocy.14.png",
+      "240": "xyz.zedler.patrick.grocy.14.png",
+      "160": "xyz.zedler.patrick.grocy.14.png",
+      "0": "xyz.zedler.patrick.grocy.14.png"
+    },
+    "antiFeatures": [],
+    "packageName": "xyz.zedler.patrick.grocy",
+    "versionCode": 14,
+    "name": "Grocy",
+    "versionName": "1.7.0",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 29,
+    "sig": "729b324a7bda2063a68a108ed7a671a5",
+    "signer": "5c6c89e298e90b548b1ebc627aafb5c822e5d94b4b1c6c24c4028b85d23ced6f",
+    "size": 3240796,
+    "apkName": "grocy_v1.7.0.apk",
+    "icon": "xyz.zedler.patrick.grocy.14.png",
+    "added": 1723192440.247918
+  },
+  "grocy_v1.8.0.apk": {
+    "hash": "07d37484377fcd56e6d4847cf3c5a17717ecf168b9dbfb4f16c5bb3f1448335a",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.CAMERA",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "xyz.zedler.patrick.grocy.15.png",
+      "480": "xyz.zedler.patrick.grocy.15.png",
+      "320": "xyz.zedler.patrick.grocy.15.png",
+      "240": "xyz.zedler.patrick.grocy.15.png",
+      "160": "xyz.zedler.patrick.grocy.15.png",
+      "0": "xyz.zedler.patrick.grocy.15.png"
+    },
+    "antiFeatures": [],
+    "packageName": "xyz.zedler.patrick.grocy",
+    "versionCode": 15,
+    "name": "Grocy",
+    "versionName": "1.8.0",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 29,
+    "sig": "729b324a7bda2063a68a108ed7a671a5",
+    "signer": "5c6c89e298e90b548b1ebc627aafb5c822e5d94b4b1c6c24c4028b85d23ced6f",
+    "size": 3261276,
+    "apkName": "grocy_v1.8.0.apk",
+    "icon": "xyz.zedler.patrick.grocy.15.png",
+    "added": 1723192441.017907
+  },
+  "grocy_v1.8.1.apk": {
+    "hash": "049991a9d693246bea70a0f43eac03f43b3650d78c61de899a98d606b5cbbdfb",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.CAMERA",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "xyz.zedler.patrick.grocy.16.png",
+      "480": "xyz.zedler.patrick.grocy.16.png",
+      "320": "xyz.zedler.patrick.grocy.16.png",
+      "240": "xyz.zedler.patrick.grocy.16.png",
+      "160": "xyz.zedler.patrick.grocy.16.png",
+      "0": "xyz.zedler.patrick.grocy.16.png"
+    },
+    "antiFeatures": [],
+    "packageName": "xyz.zedler.patrick.grocy",
+    "versionCode": 16,
+    "name": "Grocy",
+    "versionName": "1.8.1",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 29,
+    "sig": "729b324a7bda2063a68a108ed7a671a5",
+    "signer": "5c6c89e298e90b548b1ebc627aafb5c822e5d94b4b1c6c24c4028b85d23ced6f",
+    "size": 3265446,
+    "apkName": "grocy_v1.8.1.apk",
+    "icon": "xyz.zedler.patrick.grocy.16.png",
+    "added": 1723192441.794221
+  },
+  "grocy_v1.8.2.apk": {
+    "hash": "149047b9f7f5ae9a1f328a34ca39bed1432f5a8cd3351963e365720cd396348b",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.CAMERA",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "xyz.zedler.patrick.grocy.17.png",
+      "480": "xyz.zedler.patrick.grocy.17.png",
+      "320": "xyz.zedler.patrick.grocy.17.png",
+      "240": "xyz.zedler.patrick.grocy.17.png",
+      "160": "xyz.zedler.patrick.grocy.17.png",
+      "0": "xyz.zedler.patrick.grocy.17.png"
+    },
+    "antiFeatures": [],
+    "packageName": "xyz.zedler.patrick.grocy",
+    "versionCode": 17,
+    "name": "Grocy",
+    "versionName": "1.8.2",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 29,
+    "sig": "729b324a7bda2063a68a108ed7a671a5",
+    "signer": "5c6c89e298e90b548b1ebc627aafb5c822e5d94b4b1c6c24c4028b85d23ced6f",
+    "size": 3131852,
+    "apkName": "grocy_v1.8.2.apk",
+    "icon": "xyz.zedler.patrick.grocy.17.png",
+    "added": 1723192442.561979
+  },
+  "grocy_v1.8.3.apk": {
+    "hash": "2221a9c8c9c63d5449467c9c1a83657bba05131a207599715f33134a3b738c47",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.CAMERA",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "xyz.zedler.patrick.grocy.18.png",
+      "480": "xyz.zedler.patrick.grocy.18.png",
+      "320": "xyz.zedler.patrick.grocy.18.png",
+      "240": "xyz.zedler.patrick.grocy.18.png",
+      "160": "xyz.zedler.patrick.grocy.18.png",
+      "0": "xyz.zedler.patrick.grocy.18.png"
+    },
+    "antiFeatures": [],
+    "packageName": "xyz.zedler.patrick.grocy",
+    "versionCode": 18,
+    "name": "Grocy",
+    "versionName": "1.8.3",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 29,
+    "sig": "729b324a7bda2063a68a108ed7a671a5",
+    "signer": "5c6c89e298e90b548b1ebc627aafb5c822e5d94b4b1c6c24c4028b85d23ced6f",
+    "size": 3131852,
+    "apkName": "grocy_v1.8.3.apk",
+    "icon": "xyz.zedler.patrick.grocy.18.png",
+    "added": 1723192443.331794
+  },
+  "grocy_v1.8.4.apk": {
+    "hash": "41f66c8a8dcd3a3cee13211007c47be4d241c63b1bc632a52a53d832fa8ce1d3",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.CAMERA",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "xyz.zedler.patrick.grocy.19.png",
+      "480": "xyz.zedler.patrick.grocy.19.png",
+      "320": "xyz.zedler.patrick.grocy.19.png",
+      "240": "xyz.zedler.patrick.grocy.19.png",
+      "160": "xyz.zedler.patrick.grocy.19.png",
+      "0": "xyz.zedler.patrick.grocy.19.png"
+    },
+    "antiFeatures": [],
+    "packageName": "xyz.zedler.patrick.grocy",
+    "versionCode": 19,
+    "name": "Grocy",
+    "versionName": "1.8.4",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 29,
+    "sig": "729b324a7bda2063a68a108ed7a671a5",
+    "signer": "5c6c89e298e90b548b1ebc627aafb5c822e5d94b4b1c6c24c4028b85d23ced6f",
+    "size": 3164620,
+    "apkName": "grocy_v1.8.4.apk",
+    "icon": "xyz.zedler.patrick.grocy.19.png",
+    "added": 1723192444.131487
+  },
+  "grocy_v1.8.5.apk": {
+    "hash": "01c59ef8f2e3df6cc25a395fb8bfc2dd6f150a6725cd7ed7418867efd1cf4d47",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.CAMERA",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "xyz.zedler.patrick.grocy.20.png",
+      "480": "xyz.zedler.patrick.grocy.20.png",
+      "320": "xyz.zedler.patrick.grocy.20.png",
+      "240": "xyz.zedler.patrick.grocy.20.png",
+      "160": "xyz.zedler.patrick.grocy.20.png",
+      "0": "xyz.zedler.patrick.grocy.20.png"
+    },
+    "antiFeatures": [],
+    "packageName": "xyz.zedler.patrick.grocy",
+    "versionCode": 20,
+    "name": "Grocy",
+    "versionName": "1.8.5",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 29,
+    "sig": "2dad45fb663fa75c698fe35dbb102950",
+    "signer": "17eefb619f645adc130dc2055a8a1f954e4ec334902e4c9cd09072c155722bce",
+    "size": 3164297,
+    "apkName": "grocy_v1.8.5.apk",
+    "icon": "xyz.zedler.patrick.grocy.20.png",
+    "added": 1723192444.941512
+  },
+  "grocy_v1.8.7.apk": {
+    "hash": "ce5247d240605c9420d3f7660d59bb3045db7d4021627ee095a0994764f8b045",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.CAMERA",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "xyz.zedler.patrick.grocy.21.png",
+      "480": "xyz.zedler.patrick.grocy.21.png",
+      "320": "xyz.zedler.patrick.grocy.21.png",
+      "240": "xyz.zedler.patrick.grocy.21.png",
+      "160": "xyz.zedler.patrick.grocy.21.png",
+      "0": "xyz.zedler.patrick.grocy.21.png"
+    },
+    "antiFeatures": [],
+    "packageName": "xyz.zedler.patrick.grocy",
+    "versionCode": 21,
+    "name": "Grocy",
+    "versionName": "1.8.7",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 29,
+    "sig": "2dad45fb663fa75c698fe35dbb102950",
+    "signer": "17eefb619f645adc130dc2055a8a1f954e4ec334902e4c9cd09072c155722bce",
+    "size": 3172299,
+    "apkName": "grocy_v1.8.7.apk",
+    "icon": "xyz.zedler.patrick.grocy.21.png",
+    "added": 1723192445.741461
+  },
+  "grocy_v1.9.0.apk": {
+    "hash": "9935a364bdd9000235910f9d1df0a4c7c2122d9446fdb40245fc4a4b117b5bea",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.CAMERA",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "xyz.zedler.patrick.grocy.22.png",
+      "480": "xyz.zedler.patrick.grocy.22.png",
+      "320": "xyz.zedler.patrick.grocy.22.png",
+      "240": "xyz.zedler.patrick.grocy.22.png",
+      "160": "xyz.zedler.patrick.grocy.22.png",
+      "0": "xyz.zedler.patrick.grocy.22.png"
+    },
+    "antiFeatures": [],
+    "packageName": "xyz.zedler.patrick.grocy",
+    "versionCode": 22,
+    "name": "Grocy",
+    "versionName": "1.9.0",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 29,
+    "sig": "2dad45fb663fa75c698fe35dbb102950",
+    "signer": "17eefb619f645adc130dc2055a8a1f954e4ec334902e4c9cd09072c155722bce",
+    "size": 3188746,
+    "apkName": "grocy_v1.9.0.apk",
+    "icon": "xyz.zedler.patrick.grocy.22.png",
+    "added": 1723192446.58085
+  },
+  "grocy_v2.0.0.apk": {
+    "hash": "e6146bb85510a8fd7be4785dbe596e90d6dc2cac5445d2e09e2e1590491b7acc",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.CAMERA",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "xyz.zedler.patrick.grocy.37.png",
+      "480": "xyz.zedler.patrick.grocy.37.png",
+      "320": "xyz.zedler.patrick.grocy.37.png",
+      "240": "xyz.zedler.patrick.grocy.37.png",
+      "160": "xyz.zedler.patrick.grocy.37.png",
+      "0": "xyz.zedler.patrick.grocy.37.png"
+    },
+    "antiFeatures": [],
+    "packageName": "xyz.zedler.patrick.grocy",
+    "versionCode": 37,
+    "name": "Grocy",
+    "versionName": "2.0.0",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 31,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86",
+      "x86_64"
+    ],
+    "sig": "2dad45fb663fa75c698fe35dbb102950",
+    "signer": "17eefb619f645adc130dc2055a8a1f954e4ec334902e4c9cd09072c155722bce",
+    "size": 15594483,
+    "apkName": "grocy_v2.0.0.apk",
+    "icon": "xyz.zedler.patrick.grocy.37.png",
+    "added": 1723192447.860449
+  },
+  "grocy_v2.1.0.apk": {
+    "hash": "afebb05f6385dd44d51b11916b56ee72ab1b0036e3999805bb99c0beb28ddc1c",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.CAMERA",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "xyz.zedler.patrick.grocy.38.png",
+      "480": "xyz.zedler.patrick.grocy.38.png",
+      "320": "xyz.zedler.patrick.grocy.38.png",
+      "240": "xyz.zedler.patrick.grocy.38.png",
+      "160": "xyz.zedler.patrick.grocy.38.png",
+      "0": "xyz.zedler.patrick.grocy.38.png"
+    },
+    "antiFeatures": [],
+    "packageName": "xyz.zedler.patrick.grocy",
+    "versionCode": 38,
+    "name": "Grocy",
+    "versionName": "2.1.0",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 31,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86",
+      "x86_64"
+    ],
+    "sig": "2dad45fb663fa75c698fe35dbb102950",
+    "signer": "17eefb619f645adc130dc2055a8a1f954e4ec334902e4c9cd09072c155722bce",
+    "size": 15698666,
+    "apkName": "grocy_v2.1.0.apk",
+    "icon": "xyz.zedler.patrick.grocy.38.png",
+    "added": 1723192449.167989
+  },
+  "grocy_v2.1.1.apk": {
+    "hash": "9362d1478efbcc360ccb32ad2193716da9e43ea2c579af15e654ae3987f52722",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.CAMERA",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "xyz.zedler.patrick.grocy.39.png",
+      "480": "xyz.zedler.patrick.grocy.39.png",
+      "320": "xyz.zedler.patrick.grocy.39.png",
+      "240": "xyz.zedler.patrick.grocy.39.png",
+      "160": "xyz.zedler.patrick.grocy.39.png",
+      "0": "xyz.zedler.patrick.grocy.39.png"
+    },
+    "antiFeatures": [],
+    "packageName": "xyz.zedler.patrick.grocy",
+    "versionCode": 39,
+    "name": "Grocy",
+    "versionName": "2.1.1",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 31,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86",
+      "x86_64"
+    ],
+    "sig": "2dad45fb663fa75c698fe35dbb102950",
+    "signer": "17eefb619f645adc130dc2055a8a1f954e4ec334902e4c9cd09072c155722bce",
+    "size": 15925418,
+    "apkName": "grocy_v2.1.1.apk",
+    "icon": "xyz.zedler.patrick.grocy.39.png",
+    "added": 1723192450.489284
+  },
+  "grocy_v2.2.0.apk": {
+    "hash": "20944c3eae85333912e1ac4748b5e6ceeeefdc024996134d8666ef14735ae75e",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.CAMERA",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "xyz.zedler.patrick.grocy.40.png",
+      "480": "xyz.zedler.patrick.grocy.40.png",
+      "320": "xyz.zedler.patrick.grocy.40.png",
+      "240": "xyz.zedler.patrick.grocy.40.png",
+      "160": "xyz.zedler.patrick.grocy.40.png",
+      "0": "xyz.zedler.patrick.grocy.40.png"
+    },
+    "antiFeatures": [],
+    "packageName": "xyz.zedler.patrick.grocy",
+    "versionCode": 40,
+    "name": "Grocy",
+    "versionName": "2.2.0",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 31,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86",
+      "x86_64"
+    ],
+    "sig": "2dad45fb663fa75c698fe35dbb102950",
+    "signer": "17eefb619f645adc130dc2055a8a1f954e4ec334902e4c9cd09072c155722bce",
+    "size": 17691609,
+    "apkName": "grocy_v2.2.0.apk",
+    "icon": "xyz.zedler.patrick.grocy.40.png",
+    "added": 1723192451.839455
+  },
+  "grocy_v2.2.1.apk": {
+    "hash": "ab17234f47c30f697b2087cdf31b3a56ca3a61950596a0bdbf866d05dbeb69ed",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.CAMERA",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "xyz.zedler.patrick.grocy.41.png",
+      "480": "xyz.zedler.patrick.grocy.41.png",
+      "320": "xyz.zedler.patrick.grocy.41.png",
+      "240": "xyz.zedler.patrick.grocy.41.png",
+      "160": "xyz.zedler.patrick.grocy.41.png",
+      "0": "xyz.zedler.patrick.grocy.41.png"
+    },
+    "antiFeatures": [],
+    "packageName": "xyz.zedler.patrick.grocy",
+    "versionCode": 41,
+    "name": "Grocy",
+    "versionName": "2.2.1",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 31,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86",
+      "x86_64"
+    ],
+    "sig": "2dad45fb663fa75c698fe35dbb102950",
+    "signer": "17eefb619f645adc130dc2055a8a1f954e4ec334902e4c9cd09072c155722bce",
+    "size": 17754067,
+    "apkName": "grocy_v2.2.1.apk",
+    "icon": "xyz.zedler.patrick.grocy.41.png",
+    "added": 1723192453.167462
+  },
+  "grocy_v2.3.0.apk": {
+    "hash": "5368fc4475d1b8a6023bed75a4a7ac6e691584e6924094d3c27be09a9a41ca60",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.CAMERA",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.GET_ACCOUNTS",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "xyz.zedler.patrick.grocy.42.png",
+      "480": "xyz.zedler.patrick.grocy.42.png",
+      "320": "xyz.zedler.patrick.grocy.42.png",
+      "240": "xyz.zedler.patrick.grocy.42.png",
+      "160": "xyz.zedler.patrick.grocy.42.png",
+      "0": "xyz.zedler.patrick.grocy.42.png"
+    },
+    "antiFeatures": [],
+    "packageName": "xyz.zedler.patrick.grocy",
+    "versionCode": 42,
+    "name": "Grocy",
+    "versionName": "2.3.0",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 32,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86",
+      "x86_64"
+    ],
+    "sig": "2dad45fb663fa75c698fe35dbb102950",
+    "signer": "17eefb619f645adc130dc2055a8a1f954e4ec334902e4c9cd09072c155722bce",
+    "size": 18762571,
+    "apkName": "grocy_v2.3.0.apk",
+    "icon": "xyz.zedler.patrick.grocy.42.png",
+    "added": 1723192454.630346
+  },
+  "grocy_v3.0.0.apk": {
+    "hash": "1e760e4d9aa07f04f3b9220ecc446410eb6657f8a514e123fee244981ff18f06",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.CAMERA",
+        null
+      ],
+      [
+        "android.permission.POST_NOTIFICATIONS",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "xyz.zedler.patrick.grocy.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "xyz.zedler.patrick.grocy.43.png",
+      "480": "xyz.zedler.patrick.grocy.43.png",
+      "320": "xyz.zedler.patrick.grocy.43.png",
+      "240": "xyz.zedler.patrick.grocy.43.png",
+      "160": "xyz.zedler.patrick.grocy.43.png",
+      "0": "xyz.zedler.patrick.grocy.43.png"
+    },
+    "antiFeatures": [],
+    "packageName": "xyz.zedler.patrick.grocy",
+    "versionCode": 43,
+    "name": "Grocy",
+    "versionName": "3.0.0",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 33,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86",
+      "x86_64"
+    ],
+    "sig": "2dad45fb663fa75c698fe35dbb102950",
+    "signer": "17eefb619f645adc130dc2055a8a1f954e4ec334902e4c9cd09072c155722bce",
+    "size": 18526146,
+    "apkName": "grocy_v3.0.0.apk",
+    "icon": "xyz.zedler.patrick.grocy.43.png",
+    "added": 1723192455.890577
+  },
+  "grocy_v3.1.0.apk": {
+    "hash": "ca512b1df49c850e36b746267154505f3eb9bf0183a0c8de6d8e61a262f0b0e5",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.CAMERA",
+        null
+      ],
+      [
+        "android.permission.POST_NOTIFICATIONS",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "xyz.zedler.patrick.grocy.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "xyz.zedler.patrick.grocy.44.png",
+      "480": "xyz.zedler.patrick.grocy.44.png",
+      "320": "xyz.zedler.patrick.grocy.44.png",
+      "240": "xyz.zedler.patrick.grocy.44.png",
+      "160": "xyz.zedler.patrick.grocy.44.png",
+      "0": "xyz.zedler.patrick.grocy.44.png"
+    },
+    "antiFeatures": [],
+    "packageName": "xyz.zedler.patrick.grocy",
+    "versionCode": 44,
+    "name": "Grocy",
+    "versionName": "3.1.0",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 33,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86",
+      "x86_64"
+    ],
+    "sig": "2dad45fb663fa75c698fe35dbb102950",
+    "signer": "17eefb619f645adc130dc2055a8a1f954e4ec334902e4c9cd09072c155722bce",
+    "size": 18583393,
+    "apkName": "grocy_v3.1.0.apk",
+    "icon": "xyz.zedler.patrick.grocy.44.png",
+    "added": 1723192457.163516
+  },
+  "grocy_v3.1.1.apk": {
+    "hash": "d7422581c902b38feabece55db072d0ea2869c3b0a9285ec781c2f7fb3693165",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.CAMERA",
+        null
+      ],
+      [
+        "android.permission.POST_NOTIFICATIONS",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "xyz.zedler.patrick.grocy.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "xyz.zedler.patrick.grocy.45.png",
+      "480": "xyz.zedler.patrick.grocy.45.png",
+      "320": "xyz.zedler.patrick.grocy.45.png",
+      "240": "xyz.zedler.patrick.grocy.45.png",
+      "160": "xyz.zedler.patrick.grocy.45.png",
+      "0": "xyz.zedler.patrick.grocy.45.png"
+    },
+    "antiFeatures": [],
+    "packageName": "xyz.zedler.patrick.grocy",
+    "versionCode": 45,
+    "name": "Grocy",
+    "versionName": "3.1.1",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 33,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86",
+      "x86_64"
+    ],
+    "sig": "2dad45fb663fa75c698fe35dbb102950",
+    "signer": "17eefb619f645adc130dc2055a8a1f954e4ec334902e4c9cd09072c155722bce",
+    "size": 18587489,
+    "apkName": "grocy_v3.1.1.apk",
+    "icon": "xyz.zedler.patrick.grocy.45.png",
+    "added": 1723192458.440403
+  },
+  "grocy_v3.2.0.apk": {
+    "hash": "2d6e7cb67f08c1244e5b009a22a42e93cd3ecc58ff7c3274eaf41fbb55e5342f",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.CAMERA",
+        null
+      ],
+      [
+        "android.permission.POST_NOTIFICATIONS",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.NFC",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "xyz.zedler.patrick.grocy.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "xyz.zedler.patrick.grocy.46.png",
+      "480": "xyz.zedler.patrick.grocy.46.png",
+      "320": "xyz.zedler.patrick.grocy.46.png",
+      "240": "xyz.zedler.patrick.grocy.46.png",
+      "160": "xyz.zedler.patrick.grocy.46.png",
+      "0": "xyz.zedler.patrick.grocy.46.png"
+    },
+    "antiFeatures": [],
+    "packageName": "xyz.zedler.patrick.grocy",
+    "versionCode": 46,
+    "name": "Grocy",
+    "versionName": "3.2.0",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 33,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86",
+      "x86_64"
+    ],
+    "sig": "2dad45fb663fa75c698fe35dbb102950",
+    "signer": "17eefb619f645adc130dc2055a8a1f954e4ec334902e4c9cd09072c155722bce",
+    "size": 18723218,
+    "apkName": "grocy_v3.2.0.apk",
+    "icon": "xyz.zedler.patrick.grocy.46.png",
+    "added": 1723192459.748408
+  },
+  "grocy_v3.2.1.apk": {
+    "hash": "9e3c569f415e24d8f06b11309a7b726414f21622a718b8a7c1e99090923f0a38",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.CAMERA",
+        null
+      ],
+      [
+        "android.permission.POST_NOTIFICATIONS",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.NFC",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "xyz.zedler.patrick.grocy.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "xyz.zedler.patrick.grocy.47.png",
+      "480": "xyz.zedler.patrick.grocy.47.png",
+      "320": "xyz.zedler.patrick.grocy.47.png",
+      "240": "xyz.zedler.patrick.grocy.47.png",
+      "160": "xyz.zedler.patrick.grocy.47.png",
+      "0": "xyz.zedler.patrick.grocy.47.png"
+    },
+    "antiFeatures": [],
+    "packageName": "xyz.zedler.patrick.grocy",
+    "versionCode": 47,
+    "name": "Grocy",
+    "versionName": "3.2.1",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 33,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86",
+      "x86_64"
+    ],
+    "sig": "2dad45fb663fa75c698fe35dbb102950",
+    "signer": "17eefb619f645adc130dc2055a8a1f954e4ec334902e4c9cd09072c155722bce",
+    "size": 19042706,
+    "apkName": "grocy_v3.2.1.apk",
+    "icon": "xyz.zedler.patrick.grocy.47.png",
+    "added": 1723192461.068855
+  },
+  "grocy_v3.3.0.apk": {
+    "hash": "e6dfe03c7df14b281f96e701e90c01a22f06d9f2042e7ccb68df9fb1b54c447e",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.CAMERA",
+        null
+      ],
+      [
+        "android.permission.POST_NOTIFICATIONS",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.NFC",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "xyz.zedler.patrick.grocy.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "xyz.zedler.patrick.grocy.48.png",
+      "480": "xyz.zedler.patrick.grocy.48.png",
+      "320": "xyz.zedler.patrick.grocy.48.png",
+      "240": "xyz.zedler.patrick.grocy.48.png",
+      "160": "xyz.zedler.patrick.grocy.48.png",
+      "0": "xyz.zedler.patrick.grocy.48.png"
+    },
+    "antiFeatures": [],
+    "packageName": "xyz.zedler.patrick.grocy",
+    "versionCode": 48,
+    "name": "Grocy",
+    "versionName": "3.3.0",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 33,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86",
+      "x86_64"
+    ],
+    "sig": "2dad45fb663fa75c698fe35dbb102950",
+    "signer": "17eefb619f645adc130dc2055a8a1f954e4ec334902e4c9cd09072c155722bce",
+    "size": 19315553,
+    "apkName": "grocy_v3.3.0.apk",
+    "icon": "xyz.zedler.patrick.grocy.48.png",
+    "added": 1723192462.544283
+  },
+  "grocy_v3.3.1.apk": {
+    "hash": "e81a11089b64613408516e92e0c4e177759e3f8f06cd0803b808421ddec57e93",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.CAMERA",
+        null
+      ],
+      [
+        "android.permission.POST_NOTIFICATIONS",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.NFC",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "xyz.zedler.patrick.grocy.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "xyz.zedler.patrick.grocy.49.png",
+      "480": "xyz.zedler.patrick.grocy.49.png",
+      "320": "xyz.zedler.patrick.grocy.49.png",
+      "240": "xyz.zedler.patrick.grocy.49.png",
+      "160": "xyz.zedler.patrick.grocy.49.png",
+      "0": "xyz.zedler.patrick.grocy.49.png"
+    },
+    "antiFeatures": [],
+    "packageName": "xyz.zedler.patrick.grocy",
+    "versionCode": 49,
+    "name": "Grocy",
+    "versionName": "3.3.1",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 34,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86",
+      "x86_64"
+    ],
+    "sig": "2dad45fb663fa75c698fe35dbb102950",
+    "signer": "17eefb619f645adc130dc2055a8a1f954e4ec334902e4c9cd09072c155722bce",
+    "size": 19344601,
+    "apkName": "grocy_v3.3.1.apk",
+    "icon": "xyz.zedler.patrick.grocy.49.png",
+    "added": 1723192463.922732
+  },
+  "grocy_v3.3.2.apk": {
+    "hash": "98155cde4f6f6bc726703deaf6e883676312d600bc9a13c015fd9c0d52e82c21",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.CAMERA",
+        null
+      ],
+      [
+        "android.permission.POST_NOTIFICATIONS",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.NFC",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "xyz.zedler.patrick.grocy.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "xyz.zedler.patrick.grocy.50.png",
+      "480": "xyz.zedler.patrick.grocy.50.png",
+      "320": "xyz.zedler.patrick.grocy.50.png",
+      "240": "xyz.zedler.patrick.grocy.50.png",
+      "160": "xyz.zedler.patrick.grocy.50.png",
+      "0": "xyz.zedler.patrick.grocy.50.png"
+    },
+    "antiFeatures": [],
+    "packageName": "xyz.zedler.patrick.grocy",
+    "versionCode": 50,
+    "name": "Grocy",
+    "versionName": "3.3.2",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 34,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86",
+      "x86_64"
+    ],
+    "sig": "2dad45fb663fa75c698fe35dbb102950",
+    "signer": "17eefb619f645adc130dc2055a8a1f954e4ec334902e4c9cd09072c155722bce",
+    "size": 19262681,
+    "apkName": "grocy_v3.3.2.apk",
+    "icon": "xyz.zedler.patrick.grocy.50.png",
+    "added": 1723192465.400681
+  },
+  "grocy_v3.4.0.apk": {
+    "hash": "cc62bcf79fe33c6ea6a45cd911bfdf3c392dd5649ad3b8a87d62426acb613c92",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.CAMERA",
+        null
+      ],
+      [
+        "android.permission.POST_NOTIFICATIONS",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.NFC",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "xyz.zedler.patrick.grocy.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "xyz.zedler.patrick.grocy.51.png",
+      "480": "xyz.zedler.patrick.grocy.51.png",
+      "320": "xyz.zedler.patrick.grocy.51.png",
+      "240": "xyz.zedler.patrick.grocy.51.png",
+      "160": "xyz.zedler.patrick.grocy.51.png",
+      "0": "xyz.zedler.patrick.grocy.51.png"
+    },
+    "antiFeatures": [],
+    "packageName": "xyz.zedler.patrick.grocy",
+    "versionCode": 51,
+    "name": "Grocy",
+    "versionName": "3.4.0",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 34,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86",
+      "x86_64"
+    ],
+    "sig": "2dad45fb663fa75c698fe35dbb102950",
+    "signer": "17eefb619f645adc130dc2055a8a1f954e4ec334902e4c9cd09072c155722bce",
+    "size": 19517374,
+    "apkName": "grocy_v3.4.0.apk",
+    "icon": "xyz.zedler.patrick.grocy.51.png",
+    "added": 1723192466.78948
+  },
+  "grocy_v3.4.1.apk": {
+    "hash": "51f73250286aa405c90a026365217efcca616e3a2fc448452092773bde0cf30a",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.CAMERA",
+        null
+      ],
+      [
+        "android.permission.POST_NOTIFICATIONS",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.NFC",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "xyz.zedler.patrick.grocy.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "xyz.zedler.patrick.grocy.52.png",
+      "480": "xyz.zedler.patrick.grocy.52.png",
+      "320": "xyz.zedler.patrick.grocy.52.png",
+      "240": "xyz.zedler.patrick.grocy.52.png",
+      "160": "xyz.zedler.patrick.grocy.52.png",
+      "0": "xyz.zedler.patrick.grocy.52.png"
+    },
+    "antiFeatures": [],
+    "packageName": "xyz.zedler.patrick.grocy",
+    "versionCode": 52,
+    "name": "Grocy",
+    "versionName": "3.4.1",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 34,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86",
+      "x86_64"
+    ],
+    "sig": "2dad45fb663fa75c698fe35dbb102950",
+    "signer": "17eefb619f645adc130dc2055a8a1f954e4ec334902e4c9cd09072c155722bce",
+    "size": 19517374,
+    "apkName": "grocy_v3.4.1.apk",
+    "icon": "xyz.zedler.patrick.grocy.52.png",
+    "added": 1723192468.209293
+  },
+  "grocy_v3.4.2.apk": {
+    "hash": "107d9e30e11ab9e8352776b01c26154ab0909ed50f273bbf8bbbf4d08a336f13",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.CAMERA",
+        null
+      ],
+      [
+        "android.permission.POST_NOTIFICATIONS",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.NFC",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "xyz.zedler.patrick.grocy.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "xyz.zedler.patrick.grocy.53.png",
+      "480": "xyz.zedler.patrick.grocy.53.png",
+      "320": "xyz.zedler.patrick.grocy.53.png",
+      "240": "xyz.zedler.patrick.grocy.53.png",
+      "160": "xyz.zedler.patrick.grocy.53.png",
+      "0": "xyz.zedler.patrick.grocy.53.png"
+    },
+    "antiFeatures": [],
+    "packageName": "xyz.zedler.patrick.grocy",
+    "versionCode": 53,
+    "name": "Grocy",
+    "versionName": "3.4.2",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 34,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86",
+      "x86_64"
+    ],
+    "sig": "2dad45fb663fa75c698fe35dbb102950",
+    "signer": "17eefb619f645adc130dc2055a8a1f954e4ec334902e4c9cd09072c155722bce",
+    "size": 19591408,
+    "apkName": "grocy_v3.4.2.apk",
+    "icon": "xyz.zedler.patrick.grocy.53.png",
+    "added": 1723192469.618073
+  },
+  "grocy_v3.5.0.apk": {
+    "hash": "92f31069df435a6d4ed7948ad0a3ce0f4dbd496da0952b62165964311e4d013a",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.CAMERA",
+        null
+      ],
+      [
+        "android.permission.POST_NOTIFICATIONS",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.NFC",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "xyz.zedler.patrick.grocy.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "xyz.zedler.patrick.grocy.54.png",
+      "480": "xyz.zedler.patrick.grocy.54.png",
+      "320": "xyz.zedler.patrick.grocy.54.png",
+      "240": "xyz.zedler.patrick.grocy.54.png",
+      "160": "xyz.zedler.patrick.grocy.54.png",
+      "0": "xyz.zedler.patrick.grocy.54.png"
+    },
+    "antiFeatures": [],
+    "packageName": "xyz.zedler.patrick.grocy",
+    "versionCode": 54,
+    "name": "Grocy",
+    "versionName": "3.5.0",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 34,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86",
+      "x86_64"
+    ],
+    "sig": "2dad45fb663fa75c698fe35dbb102950",
+    "signer": "17eefb619f645adc130dc2055a8a1f954e4ec334902e4c9cd09072c155722bce",
+    "size": 19658974,
+    "apkName": "grocy_v3.5.0.apk",
+    "icon": "xyz.zedler.patrick.grocy.54.png",
+    "added": 1723192471.000836
+  },
+  "grocy_v3.5.1.apk": {
+    "hash": "e5caec9f63ddc4087116cfc3d4fe27613c239a7926306807ccb1f9a6cff58fb8",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.CAMERA",
+        null
+      ],
+      [
+        "android.permission.POST_NOTIFICATIONS",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.NFC",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "xyz.zedler.patrick.grocy.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "xyz.zedler.patrick.grocy.55.png",
+      "480": "xyz.zedler.patrick.grocy.55.png",
+      "320": "xyz.zedler.patrick.grocy.55.png",
+      "240": "xyz.zedler.patrick.grocy.55.png",
+      "160": "xyz.zedler.patrick.grocy.55.png",
+      "0": "xyz.zedler.patrick.grocy.55.png"
+    },
+    "antiFeatures": [],
+    "packageName": "xyz.zedler.patrick.grocy",
+    "versionCode": 55,
+    "name": "Grocy",
+    "versionName": "3.5.1",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 34,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86",
+      "x86_64"
+    ],
+    "sig": "2dad45fb663fa75c698fe35dbb102950",
+    "signer": "17eefb619f645adc130dc2055a8a1f954e4ec334902e4c9cd09072c155722bce",
+    "size": 19678980,
+    "apkName": "grocy_v3.5.1.apk",
+    "icon": "xyz.zedler.patrick.grocy.55.png",
+    "added": 1723192472.419672
+  },
+  "grocy_v3.5.2.apk": {
+    "hash": "1f22a84a5e69a353e5e647a49e502baee29740789290d61fa8a3cc781b6f00de",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.CAMERA",
+        null
+      ],
+      [
+        "android.permission.POST_NOTIFICATIONS",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.NFC",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "xyz.zedler.patrick.grocy.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "xyz.zedler.patrick.grocy.56.png",
+      "480": "xyz.zedler.patrick.grocy.56.png",
+      "320": "xyz.zedler.patrick.grocy.56.png",
+      "240": "xyz.zedler.patrick.grocy.56.png",
+      "160": "xyz.zedler.patrick.grocy.56.png",
+      "0": "xyz.zedler.patrick.grocy.56.png"
+    },
+    "antiFeatures": [],
+    "packageName": "xyz.zedler.patrick.grocy",
+    "versionCode": 56,
+    "name": "Grocy",
+    "versionName": "3.5.2",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 34,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86",
+      "x86_64"
+    ],
+    "sig": "2dad45fb663fa75c698fe35dbb102950",
+    "signer": "17eefb619f645adc130dc2055a8a1f954e4ec334902e4c9cd09072c155722bce",
+    "size": 19552071,
+    "apkName": "grocy_v3.5.2.apk",
+    "icon": "xyz.zedler.patrick.grocy.56.png",
+    "added": 1723192473.7964
+  }
+}

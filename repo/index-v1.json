@@ -1,0 +1,1033 @@
+{
+  "repo": {
+    "timestamp": 1723192492000,
+    "version": 20002,
+    "name": "My First F-Droid Repo Demo",
+    "icon": "icon.png",
+    "address": "https://raw.githubusercontent.com/s3tupw1zard/fdroid/main/fdroid/repo",
+    "description": "This is a repository of apps to be used with F-Droid. Applications in this repository are either official binaries built by the original application developers, or are binaries built from source by the admin of f-droid.org using the tools on https://gitlab.com/fdroid."
+  },
+  "requests": {
+    "install": [],
+    "uninstall": []
+  },
+  "apps": [
+    {
+      "authorName": "patzly",
+      "categories": [
+        "Sports & Health"
+      ],
+      "suggestedVersionName": "3.5.2",
+      "suggestedVersionCode": "56",
+      "description": "Grocy Android is an open-source Android client for grocy (source code). Grocy is a self-hosted groceries & household management solution for your home.\nGrocy Android uses grocy's official API to provide you a beautiful interface on your phone with powerful barcode scanning and intuitive batch processing, all what you need to efficiently manage your groceries.\nThis app requires a running self-hosted instance of the grocy server application. It is a companion app, therefore it cannot run standalone or manage products itself! You can try and test all features using the demo option available on the login screen.\nFeatures:\n\n- Stock overview\n- Shopping lists with offline support\n- In-store shopping mode (big UI elements)\n- Fast barcode scanning\n- OpenFoodFacts implementation\n- Master data editing\n- Dark mode\n- No ads, analytics or in-app purchases\n",
+      "license": "GPL-3.0",
+      "name": "Grocy",
+      "sourceCode": "https://github.com/patzly/grocy-android",
+      "summary": "ERP beyond your fridge, now on your phone \u2013 An awesome companion app for grocy",
+      "added": 1723192432000,
+      "icon": "xyz.zedler.patrick.grocy.56.png",
+      "packageName": "xyz.zedler.patrick.grocy",
+      "lastUpdated": 1723192473000,
+      "localized": {
+        "en-US": {
+          "phoneScreenshots": [
+            "1.jpg",
+            "2.jpg",
+            "3.jpg",
+            "4.jpg",
+            "5.jpg"
+          ],
+          "whatsNew": "- **New:** Compatibility for server version 4.1.0 (#837)\n- **Improved:** Added option to disable auto sync on shopping mode page (e.g. disable it when you have bad mobile data connection) (#816)\n- **Fixed:** Crash when navigating to another page while keyboard animation is running (#831)\n- **Fixed:** Crash on purchase page or on shopping list item edit page with some invalid objects (#835)\n- **Fixed:** Incorrect recipe total count on start page when meal plan is used (#827)"
+        }
+      }
+    }
+  ],
+  "packages": {
+    "xyz.zedler.patrick.grocy": [
+      {
+        "added": 1723192473000,
+        "apkName": "grocy_v3.5.2.apk",
+        "hash": "1f22a84a5e69a353e5e647a49e502baee29740789290d61fa8a3cc781b6f00de",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "xyz.zedler.patrick.grocy",
+        "sig": "2dad45fb663fa75c698fe35dbb102950",
+        "signer": "17eefb619f645adc130dc2055a8a1f954e4ec334902e4c9cd09072c155722bce",
+        "size": 19552071,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.CAMERA",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.NFC",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "xyz.zedler.patrick.grocy.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 56,
+        "versionName": "3.5.2"
+      },
+      {
+        "added": 1723192472000,
+        "apkName": "grocy_v3.5.1.apk",
+        "hash": "e5caec9f63ddc4087116cfc3d4fe27613c239a7926306807ccb1f9a6cff58fb8",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "xyz.zedler.patrick.grocy",
+        "sig": "2dad45fb663fa75c698fe35dbb102950",
+        "signer": "17eefb619f645adc130dc2055a8a1f954e4ec334902e4c9cd09072c155722bce",
+        "size": 19678980,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.CAMERA",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.NFC",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "xyz.zedler.patrick.grocy.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 55,
+        "versionName": "3.5.1"
+      },
+      {
+        "added": 1723192471000,
+        "apkName": "grocy_v3.5.0.apk",
+        "hash": "92f31069df435a6d4ed7948ad0a3ce0f4dbd496da0952b62165964311e4d013a",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "xyz.zedler.patrick.grocy",
+        "sig": "2dad45fb663fa75c698fe35dbb102950",
+        "signer": "17eefb619f645adc130dc2055a8a1f954e4ec334902e4c9cd09072c155722bce",
+        "size": 19658974,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.CAMERA",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.NFC",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "xyz.zedler.patrick.grocy.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 54,
+        "versionName": "3.5.0"
+      },
+      {
+        "added": 1723192469000,
+        "apkName": "grocy_v3.4.2.apk",
+        "hash": "107d9e30e11ab9e8352776b01c26154ab0909ed50f273bbf8bbbf4d08a336f13",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "xyz.zedler.patrick.grocy",
+        "sig": "2dad45fb663fa75c698fe35dbb102950",
+        "signer": "17eefb619f645adc130dc2055a8a1f954e4ec334902e4c9cd09072c155722bce",
+        "size": 19591408,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.CAMERA",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.NFC",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "xyz.zedler.patrick.grocy.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 53,
+        "versionName": "3.4.2"
+      },
+      {
+        "added": 1723192468000,
+        "apkName": "grocy_v3.4.1.apk",
+        "hash": "51f73250286aa405c90a026365217efcca616e3a2fc448452092773bde0cf30a",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "xyz.zedler.patrick.grocy",
+        "sig": "2dad45fb663fa75c698fe35dbb102950",
+        "signer": "17eefb619f645adc130dc2055a8a1f954e4ec334902e4c9cd09072c155722bce",
+        "size": 19517374,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.CAMERA",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.NFC",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "xyz.zedler.patrick.grocy.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 52,
+        "versionName": "3.4.1"
+      },
+      {
+        "added": 1723192466000,
+        "apkName": "grocy_v3.4.0.apk",
+        "hash": "cc62bcf79fe33c6ea6a45cd911bfdf3c392dd5649ad3b8a87d62426acb613c92",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "xyz.zedler.patrick.grocy",
+        "sig": "2dad45fb663fa75c698fe35dbb102950",
+        "signer": "17eefb619f645adc130dc2055a8a1f954e4ec334902e4c9cd09072c155722bce",
+        "size": 19517374,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.CAMERA",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.NFC",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "xyz.zedler.patrick.grocy.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 51,
+        "versionName": "3.4.0"
+      },
+      {
+        "added": 1723192465000,
+        "apkName": "grocy_v3.3.2.apk",
+        "hash": "98155cde4f6f6bc726703deaf6e883676312d600bc9a13c015fd9c0d52e82c21",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "xyz.zedler.patrick.grocy",
+        "sig": "2dad45fb663fa75c698fe35dbb102950",
+        "signer": "17eefb619f645adc130dc2055a8a1f954e4ec334902e4c9cd09072c155722bce",
+        "size": 19262681,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.CAMERA",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.NFC",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "xyz.zedler.patrick.grocy.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 50,
+        "versionName": "3.3.2"
+      },
+      {
+        "added": 1723192463000,
+        "apkName": "grocy_v3.3.1.apk",
+        "hash": "e81a11089b64613408516e92e0c4e177759e3f8f06cd0803b808421ddec57e93",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "xyz.zedler.patrick.grocy",
+        "sig": "2dad45fb663fa75c698fe35dbb102950",
+        "signer": "17eefb619f645adc130dc2055a8a1f954e4ec334902e4c9cd09072c155722bce",
+        "size": 19344601,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.CAMERA",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.NFC",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "xyz.zedler.patrick.grocy.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 49,
+        "versionName": "3.3.1"
+      },
+      {
+        "added": 1723192462000,
+        "apkName": "grocy_v3.3.0.apk",
+        "hash": "e6dfe03c7df14b281f96e701e90c01a22f06d9f2042e7ccb68df9fb1b54c447e",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "xyz.zedler.patrick.grocy",
+        "sig": "2dad45fb663fa75c698fe35dbb102950",
+        "signer": "17eefb619f645adc130dc2055a8a1f954e4ec334902e4c9cd09072c155722bce",
+        "size": 19315553,
+        "targetSdkVersion": 33,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.CAMERA",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.NFC",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "xyz.zedler.patrick.grocy.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 48,
+        "versionName": "3.3.0"
+      },
+      {
+        "added": 1723192461000,
+        "apkName": "grocy_v3.2.1.apk",
+        "hash": "9e3c569f415e24d8f06b11309a7b726414f21622a718b8a7c1e99090923f0a38",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "xyz.zedler.patrick.grocy",
+        "sig": "2dad45fb663fa75c698fe35dbb102950",
+        "signer": "17eefb619f645adc130dc2055a8a1f954e4ec334902e4c9cd09072c155722bce",
+        "size": 19042706,
+        "targetSdkVersion": 33,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.CAMERA",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.NFC",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "xyz.zedler.patrick.grocy.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 47,
+        "versionName": "3.2.1"
+      },
+      {
+        "added": 1723192459000,
+        "apkName": "grocy_v3.2.0.apk",
+        "hash": "2d6e7cb67f08c1244e5b009a22a42e93cd3ecc58ff7c3274eaf41fbb55e5342f",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "xyz.zedler.patrick.grocy",
+        "sig": "2dad45fb663fa75c698fe35dbb102950",
+        "signer": "17eefb619f645adc130dc2055a8a1f954e4ec334902e4c9cd09072c155722bce",
+        "size": 18723218,
+        "targetSdkVersion": 33,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.CAMERA",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.NFC",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "xyz.zedler.patrick.grocy.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 46,
+        "versionName": "3.2.0"
+      },
+      {
+        "added": 1723192458000,
+        "apkName": "grocy_v3.1.1.apk",
+        "hash": "d7422581c902b38feabece55db072d0ea2869c3b0a9285ec781c2f7fb3693165",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "xyz.zedler.patrick.grocy",
+        "sig": "2dad45fb663fa75c698fe35dbb102950",
+        "signer": "17eefb619f645adc130dc2055a8a1f954e4ec334902e4c9cd09072c155722bce",
+        "size": 18587489,
+        "targetSdkVersion": 33,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.CAMERA",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "xyz.zedler.patrick.grocy.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 45,
+        "versionName": "3.1.1"
+      },
+      {
+        "added": 1723192457000,
+        "apkName": "grocy_v3.1.0.apk",
+        "hash": "ca512b1df49c850e36b746267154505f3eb9bf0183a0c8de6d8e61a262f0b0e5",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "xyz.zedler.patrick.grocy",
+        "sig": "2dad45fb663fa75c698fe35dbb102950",
+        "signer": "17eefb619f645adc130dc2055a8a1f954e4ec334902e4c9cd09072c155722bce",
+        "size": 18583393,
+        "targetSdkVersion": 33,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.CAMERA",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "xyz.zedler.patrick.grocy.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 44,
+        "versionName": "3.1.0"
+      },
+      {
+        "added": 1723192455000,
+        "apkName": "grocy_v3.0.0.apk",
+        "hash": "1e760e4d9aa07f04f3b9220ecc446410eb6657f8a514e123fee244981ff18f06",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "xyz.zedler.patrick.grocy",
+        "sig": "2dad45fb663fa75c698fe35dbb102950",
+        "signer": "17eefb619f645adc130dc2055a8a1f954e4ec334902e4c9cd09072c155722bce",
+        "size": 18526146,
+        "targetSdkVersion": 33,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.CAMERA",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "xyz.zedler.patrick.grocy.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 43,
+        "versionName": "3.0.0"
+      },
+      {
+        "added": 1723192454000,
+        "apkName": "grocy_v2.3.0.apk",
+        "hash": "5368fc4475d1b8a6023bed75a4a7ac6e691584e6924094d3c27be09a9a41ca60",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "xyz.zedler.patrick.grocy",
+        "sig": "2dad45fb663fa75c698fe35dbb102950",
+        "signer": "17eefb619f645adc130dc2055a8a1f954e4ec334902e4c9cd09072c155722bce",
+        "size": 18762571,
+        "targetSdkVersion": 32,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.CAMERA",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.GET_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ]
+        ],
+        "versionCode": 42,
+        "versionName": "2.3.0"
+      },
+      {
+        "added": 1723192453000,
+        "apkName": "grocy_v2.2.1.apk",
+        "hash": "ab17234f47c30f697b2087cdf31b3a56ca3a61950596a0bdbf866d05dbeb69ed",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "xyz.zedler.patrick.grocy",
+        "sig": "2dad45fb663fa75c698fe35dbb102950",
+        "signer": "17eefb619f645adc130dc2055a8a1f954e4ec334902e4c9cd09072c155722bce",
+        "size": 17754067,
+        "targetSdkVersion": 31,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.CAMERA",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ]
+        ],
+        "versionCode": 41,
+        "versionName": "2.2.1"
+      }
+    ]
+  }
+}

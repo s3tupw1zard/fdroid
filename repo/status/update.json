@@ -1,0 +1,25 @@
+{
+  "/etc/issue.net": "Ubuntu 22.04.4 LTS",
+  "antiFeatures": {},
+  "apksigner": "/usr/bin/apksigner",
+  "archivePolicy0": [],
+  "commandLine": [
+    "/usr/bin/fdroid update",
+    "--pretty",
+    "--delete-unknown"
+  ],
+  "disabled": [],
+  "endTimestamp": 1723192496573,
+  "failedBuilds": {},
+  "jarsigner": "/usr/lib/jvm/default-java/bin/jarsigner",
+  "keytool": "/usr/lib/jvm/default-java/bin/keytool",
+  "needsUpdate": [],
+  "noPackages": [
+    "xyz.zedler.patrick.grocy"
+  ],
+  "noUpdateCheck": [
+    "xyz.zedler.patrick.grocy"
+  ],
+  "startTimestamp": 1723192486000,
+  "subcommand": "update"
+}

@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fdroid>
+	<repo icon="icon.png" name="My First F-Droid Archive Demo" pubkey="308204f5308202dda003020102020452117297300d06092a864886f70d01010b0500302a3110300e060355040b1307462d44726f6964311630140603550403130d616e64726f69642d6275696c643020170d3234303830393034353934335a180f32303531313232363034353934335a302a3110300e060355040b1307462d44726f6964311630140603550403130d616e64726f69642d6275696c6430820222300d06092a864886f70d01010105000382020f003082020a02820201008f426bc8b3c8c0d7e0b57c9e6dbd39f334c109ed9c22f7def55c91a38eece773d8cd644816fafd1108904857e88d07fab16e746300a2c9e774351baa1c96a5420c1be2478bb80bc869aafb9bcc1e2d439004ea2aaece420389f708d98d9e521ac59abed1b0b68118b0db0b1d504dc082882e2380048525d404faabaf895619a79c97d90b1eab9ce50a83f2e53cf955588174ee19ab69fd2c47c7c3388ea7a8f663d1841479d1bdfe18084dcfeeb0e8210ac1973a60eff3827e6717b2ba87d6ffdd6c2ddb88f16aeb21edbbd23ff9577ea830171163ab28bc2d1640e07892a71370001051ccba28a79769e0164eb4e9a49bdfe0e62a54570810471a37b2f1a95213f89b864e88977ae20fe3d9b71cccf9562c9383b4ef08d265b225e4312f702ac8b2b939b84aa0592c3b2d5bb2d66dd6c07ca83536283788f5bcb207f6b13fabbc1eb4f76b5e11c4c6d0b85dd63e9e4e77eee9455e7dbaa81bd68d90dc9672c4f2993dc0add14f5819280a0399cb6046fd10b5a67fc05eb4be4da19cf90c8228ebf327dc6d507087d4b7ce1e235c87e7467013d1e16c5ad94750b1e8cd519b9563a498ef5cf5cd0a1a282033415ac125590041aeb4ce8528890c1dd7a535c3be8b8219663e014a7edac4d109bef4785044292e29484f454b434319cc114a5398e62f2621d9924127b06f90de72512e9fdc1e1e9594b11f063fe64473e294c7a30203010001a321301f301d0603551d0e041604144c0499dcbb3d016d4a91fe15890ba8edc897a17f300d06092a864886f70d01010b05000382020100509afd1b88085c1951f03594264b744c0f4a7603b5b7c52e8041d2e854bfd691a6d3ca84e0f2d01e2dc5bdfa9024f9a3b97f8dfc12da8b85b0d52e6339a821683b1171ac1ac9679cc6879ef4bcb23f02d615ffe43ff64ac245118169f3222a1f46f7d6a8aa7ca80eb47528400a0c2e49960ade8c8cdb4fcc359d236193d2093df355193b4b64abe5531adaae4ce4a7108f9ce6ade29b57bfa72becb947f30d52831c82eed7800b3217e0af2d473479cc530b1ab69226c213530c96173904f1c68f4cc5500fc87b0fb88f3a8a70de7abbee15610b28e62a67d627e3b8ca714151fa1e34c484c25aeab661f3fa81b896b20a8e4ef8791a69ffcc9d4137ee66589b2eff3ce3641c7f8f1e9c6b46a9ee4faff60064c299156b5ef20f70dd1a29056a843bcc30e9b3315431a98c982ec8ff807b91712b36952e12daa7dcb1880b33cfff7e6df5dc1df8320eba3ba4098637b1a785d23ba2756d2fb34341ba2f20ef5cc2f095ab7da6dbd9cb78aa0e0384448ec3294e377b66c6b17ffc0f150bf0a4523cf5122644205fb59251f5107e0a3a561c37388b508d43d2c13d0cbc3e3cf40529fee60f5a3b929ded92ecf9f9aebec4cac38461c0c4cc226b44c9c13ad91fc7f32f2d721a8a8190e4b0a85786e359d69af3fbf8acf6f4b3ac658f9c7bf111cc4c303385595cf8d87a3796ef334755052138342d7d781cd88108840fa3e623d3" timestamp="1723192488" url="https://raw.githubusercontent.com/s3tupw1zard/fdroid/main/fdroid/archive" version="20002">
+		<description>These are the apps that have been archived from the main repo.</description>
+	</repo>
+	<application id="xyz.zedler.patrick.grocy">
+		<id>xyz.zedler.patrick.grocy</id>
+		<added>2024-08-09</added>
+		<lastupdated>2024-08-09</lastupdated>
+		<name>Grocy</name>
+		<summary>ERP beyond your fridge, now on your phone – An awesome companion app for grocy</summary>
+		<icon>xyz.zedler.patrick.grocy.40.png</icon>
+		<desc>Grocy Android is an open-source Android client for grocy (source code). Grocy is a self-hosted groceries &amp; household management solution for your home.
+Grocy Android uses grocy's official API to provide you a beautiful interface on your phone with powerful barcode scanning and intuitive batch processing, all what you need to efficiently manage your groceries.
+This app requires a running self-hosted instance of the grocy server application. It is a companion app, therefore it cannot run standalone or manage products itself! You can try and test all features using the demo option available on the login screen.
+Features:
+
+- Stock overview
+- Shopping lists with offline support
+- In-store shopping mode (big UI elements)
+- Fast barcode scanning
+- OpenFoodFacts implementation
+- Master data editing
+- Dark mode
+- No ads, analytics or in-app purchases
+</desc>
+		<license>GPL-3.0</license>
+		<categories>Sports &amp; Health</categories>
+		<category>Sports &amp; Health</category>
+		<web></web>
+		<source>https://github.com/patzly/grocy-android</source>
+		<tracker></tracker>
+		<author>patzly</author>
+		<marketversion>3.5.2</marketversion>
+		<marketvercode>56</marketvercode>
+		<package>
+			<version>2.2.0</version>
+			<versioncode>40</versioncode>
+			<apkname>grocy_v2.2.0.apk</apkname>
+			<hash type="sha256">20944c3eae85333912e1ac4748b5e6ceeeefdc024996134d8666ef14735ae75e</hash>
+			<size>17691609</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>31</targetSdkVersion>
+			<added>2024-08-09</added>
+			<sig>2dad45fb663fa75c698fe35dbb102950</sig>
+			<permissions>ACCESS_NETWORK_STATE,CAMERA,INTERNET,VIBRATE</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>2.1.1</version>
+			<versioncode>39</versioncode>
+			<apkname>grocy_v2.1.1.apk</apkname>
+			<hash type="sha256">9362d1478efbcc360ccb32ad2193716da9e43ea2c579af15e654ae3987f52722</hash>
+			<size>15925418</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>31</targetSdkVersion>
+			<added>2024-08-09</added>
+			<sig>2dad45fb663fa75c698fe35dbb102950</sig>
+			<permissions>ACCESS_NETWORK_STATE,CAMERA,INTERNET,VIBRATE</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>2.1.0</version>
+			<versioncode>38</versioncode>
+			<apkname>grocy_v2.1.0.apk</apkname>
+			<hash type="sha256">afebb05f6385dd44d51b11916b56ee72ab1b0036e3999805bb99c0beb28ddc1c</hash>
+			<size>15698666</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>31</targetSdkVersion>
+			<added>2024-08-09</added>
+			<sig>2dad45fb663fa75c698fe35dbb102950</sig>
+			<permissions>ACCESS_NETWORK_STATE,CAMERA,INTERNET,VIBRATE</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>2.0.0</version>
+			<versioncode>37</versioncode>
+			<apkname>grocy_v2.0.0.apk</apkname>
+			<hash type="sha256">e6146bb85510a8fd7be4785dbe596e90d6dc2cac5445d2e09e2e1590491b7acc</hash>
+			<size>15594483</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>31</targetSdkVersion>
+			<added>2024-08-09</added>
+			<sig>2dad45fb663fa75c698fe35dbb102950</sig>
+			<permissions>ACCESS_NETWORK_STATE,CAMERA,INTERNET,VIBRATE</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>1.10.1</version>
+			<versioncode>24</versioncode>
+			<apkname>grocy_v1.10.1.apk</apkname>
+			<hash type="sha256">d63a5e3d89bf541c6ebe07ebed9fc7ac274b0f5feb234783e64009413d0c742c</hash>
+			<size>3238079</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2024-08-09</added>
+			<sig>2dad45fb663fa75c698fe35dbb102950</sig>
+			<permissions>ACCESS_NETWORK_STATE,CAMERA,INTERNET,VIBRATE</permissions>
+		</package>
+		<package>
+			<version>1.10.0</version>
+			<versioncode>23</versioncode>
+			<apkname>grocy_v1.10.0.apk</apkname>
+			<hash type="sha256">5cec9247861e83b1e931f9726938c5ed9d57c9d8608bd49fd135451226f9e5be</hash>
+			<size>3254463</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2024-08-09</added>
+			<sig>2dad45fb663fa75c698fe35dbb102950</sig>
+			<permissions>ACCESS_NETWORK_STATE,CAMERA,INTERNET,VIBRATE</permissions>
+		</package>
+		<package>
+			<version>1.9.0</version>
+			<versioncode>22</versioncode>
+			<apkname>grocy_v1.9.0.apk</apkname>
+			<hash type="sha256">9935a364bdd9000235910f9d1df0a4c7c2122d9446fdb40245fc4a4b117b5bea</hash>
+			<size>3188746</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2024-08-09</added>
+			<sig>2dad45fb663fa75c698fe35dbb102950</sig>
+			<permissions>ACCESS_NETWORK_STATE,CAMERA,INTERNET,VIBRATE</permissions>
+		</package>
+		<package>
+			<version>1.8.7</version>
+			<versioncode>21</versioncode>
+			<apkname>grocy_v1.8.7.apk</apkname>
+			<hash type="sha256">ce5247d240605c9420d3f7660d59bb3045db7d4021627ee095a0994764f8b045</hash>
+			<size>3172299</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2024-08-09</added>
+			<sig>2dad45fb663fa75c698fe35dbb102950</sig>
+			<permissions>ACCESS_NETWORK_STATE,CAMERA,INTERNET,VIBRATE</permissions>
+		</package>
+		<package>
+			<version>1.8.5</version>
+			<versioncode>20</versioncode>
+			<apkname>grocy_v1.8.5.apk</apkname>
+			<hash type="sha256">01c59ef8f2e3df6cc25a395fb8bfc2dd6f150a6725cd7ed7418867efd1cf4d47</hash>
+			<size>3164297</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2024-08-09</added>
+			<sig>2dad45fb663fa75c698fe35dbb102950</sig>
+			<permissions>ACCESS_NETWORK_STATE,CAMERA,INTERNET,VIBRATE</permissions>
+		</package>
+		<package>
+			<version>1.8.4</version>
+			<versioncode>19</versioncode>
+			<apkname>grocy_v1.8.4.apk</apkname>
+			<hash type="sha256">41f66c8a8dcd3a3cee13211007c47be4d241c63b1bc632a52a53d832fa8ce1d3</hash>
+			<size>3164620</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2024-08-09</added>
+			<sig>729b324a7bda2063a68a108ed7a671a5</sig>
+			<permissions>ACCESS_NETWORK_STATE,CAMERA,INTERNET,VIBRATE</permissions>
+		</package>
+		<package>
+			<version>1.8.3</version>
+			<versioncode>18</versioncode>
+			<apkname>grocy_v1.8.3.apk</apkname>
+			<hash type="sha256">2221a9c8c9c63d5449467c9c1a83657bba05131a207599715f33134a3b738c47</hash>
+			<size>3131852</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2024-08-09</added>
+			<sig>729b324a7bda2063a68a108ed7a671a5</sig>
+			<permissions>ACCESS_NETWORK_STATE,CAMERA,INTERNET,VIBRATE</permissions>
+		</package>
+		<package>
+			<version>1.8.2</version>
+			<versioncode>17</versioncode>
+			<apkname>grocy_v1.8.2.apk</apkname>
+			<hash type="sha256">149047b9f7f5ae9a1f328a34ca39bed1432f5a8cd3351963e365720cd396348b</hash>
+			<size>3131852</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2024-08-09</added>
+			<sig>729b324a7bda2063a68a108ed7a671a5</sig>
+			<permissions>ACCESS_NETWORK_STATE,CAMERA,INTERNET,VIBRATE</permissions>
+		</package>
+		<package>
+			<version>1.8.1</version>
+			<versioncode>16</versioncode>
+			<apkname>grocy_v1.8.1.apk</apkname>
+			<hash type="sha256">049991a9d693246bea70a0f43eac03f43b3650d78c61de899a98d606b5cbbdfb</hash>
+			<size>3265446</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2024-08-09</added>
+			<sig>729b324a7bda2063a68a108ed7a671a5</sig>
+			<permissions>ACCESS_NETWORK_STATE,CAMERA,INTERNET,VIBRATE</permissions>
+		</package>
+		<package>
+			<version>1.8.0</version>
+			<versioncode>15</versioncode>
+			<apkname>grocy_v1.8.0.apk</apkname>
+			<hash type="sha256">07d37484377fcd56e6d4847cf3c5a17717ecf168b9dbfb4f16c5bb3f1448335a</hash>
+			<size>3261276</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2024-08-09</added>
+			<sig>729b324a7bda2063a68a108ed7a671a5</sig>
+			<permissions>ACCESS_NETWORK_STATE,CAMERA,INTERNET,VIBRATE</permissions>
+		</package>
+		<package>
+			<version>1.7.0</version>
+			<versioncode>14</versioncode>
+			<apkname>grocy_v1.7.0.apk</apkname>
+			<hash type="sha256">cea278e60d07c2b81dec1ce95e367d5c19bd7f935f59aa22659a1ac070c2117e</hash>
+			<size>3240796</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2024-08-09</added>
+			<sig>729b324a7bda2063a68a108ed7a671a5</sig>
+			<permissions>ACCESS_NETWORK_STATE,CAMERA,INTERNET,VIBRATE</permissions>
+		</package>
+		<package>
+			<version>1.6.0</version>
+			<versioncode>13</versioncode>
+			<apkname>grocy_v1.6.0.apk</apkname>
+			<hash type="sha256">627a54af681632e0bdd0dd9463fd2cb5406675df2e5a2030fbdd717d849ea7b4</hash>
+			<size>3082021</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2024-08-09</added>
+			<sig>729b324a7bda2063a68a108ed7a671a5</sig>
+			<permissions>ACCESS_NETWORK_STATE,CAMERA,INTERNET,VIBRATE</permissions>
+		</package>
+		<package>
+			<version>1.5.0</version>
+			<versioncode>12</versioncode>
+			<apkname>grocy_v1.5.0.apk</apkname>
+			<hash type="sha256">6a81017d48477da0959120a104ddc72f3157aeb230b9cb894182f6249726d9f0</hash>
+			<size>3071131</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2024-08-09</added>
+			<sig>729b324a7bda2063a68a108ed7a671a5</sig>
+			<permissions>ACCESS_NETWORK_STATE,CAMERA,INTERNET,VIBRATE</permissions>
+		</package>
+		<package>
+			<version>1.4.2</version>
+			<versioncode>11</versioncode>
+			<apkname>grocy_v1.4.2.apk</apkname>
+			<hash type="sha256">82efea9c223bff9dd9a5e885de316fd7f12cdd170438256bf8f44d8194af71a3</hash>
+			<size>3017528</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2024-08-09</added>
+			<sig>729b324a7bda2063a68a108ed7a671a5</sig>
+			<permissions>ACCESS_NETWORK_STATE,CAMERA,INTERNET,VIBRATE</permissions>
+		</package>
+		<package>
+			<version>1.4.1</version>
+			<versioncode>10</versioncode>
+			<apkname>grocy_v1.4.1.apk</apkname>
+			<hash type="sha256">47f368b5eebd4916f08e6aae1f3c2accebb9a8c713acfe2a6085d498ccd9866d</hash>
+			<size>2999172</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2024-08-09</added>
+			<sig>729b324a7bda2063a68a108ed7a671a5</sig>
+			<permissions>ACCESS_NETWORK_STATE,CAMERA,INTERNET,VIBRATE</permissions>
+		</package>
+		<package>
+			<version>1.4.0</version>
+			<versioncode>9</versioncode>
+			<apkname>grocy_v1.4.0.apk</apkname>
+			<hash type="sha256">971fcd136b88b69ed5cc79b73b5eb1c03e41e2d7fab2c85d28ae158a4290bce0</hash>
+			<size>3887997</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2024-08-09</added>
+			<sig>729b324a7bda2063a68a108ed7a671a5</sig>
+			<permissions>ACCESS_NETWORK_STATE,CAMERA,INTERNET,VIBRATE</permissions>
+		</package>
+		<package>
+			<version>1.3.0</version>
+			<versioncode>8</versioncode>
+			<apkname>grocy_v1.3.0.apk</apkname>
+			<hash type="sha256">2a2595ed3e74c65891598690e8c9dbbf367158d4927dc133cfca51c51d901771</hash>
+			<size>2779816</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2024-08-09</added>
+			<sig>729b324a7bda2063a68a108ed7a671a5</sig>
+			<permissions>ACCESS_NETWORK_STATE,CAMERA,INTERNET,VIBRATE</permissions>
+		</package>
+		<package>
+			<version>1.2.0</version>
+			<versioncode>7</versioncode>
+			<apkname>grocy_v1.2.0.apk</apkname>
+			<hash type="sha256">2bc8686f4f614cb726eb254c02de41419620e9e305556b006461e747a3b6c981</hash>
+			<size>2928965</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2024-08-09</added>
+			<sig>729b324a7bda2063a68a108ed7a671a5</sig>
+			<permissions>ACCESS_NETWORK_STATE,CAMERA,INTERNET,VIBRATE</permissions>
+		</package>
+		<package>
+			<version>1.1.0</version>
+			<versioncode>6</versioncode>
+			<apkname>grocy_v1.1.0.apk</apkname>
+			<hash type="sha256">96f571b4e65ff824d98d88454b8add904cee40e7df0c6b2296bd7c5aed6d961b</hash>
+			<size>2834705</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2024-08-09</added>
+			<sig>729b324a7bda2063a68a108ed7a671a5</sig>
+			<permissions>ACCESS_NETWORK_STATE,CAMERA,INTERNET,VIBRATE</permissions>
+		</package>
+	</application>
+</fdroid>
