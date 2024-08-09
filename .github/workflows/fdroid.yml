@@ -76,11 +76,13 @@ jobs:
             ln -s /usr/local/bin/gsed sed
             export PATH=$PWD:$PATH
 
-      - name: Fix icons path
-        run: sed -i "s#fdroid/repo/icons/#repo/icons/#g" fdroid/index.html
+      - name: Fix icons and qrcode.png path
+        run: |
+            sed -i "s#fdroid/repo/icons/#repo/icons/#g" fdroid/index.html
+            sed -i "s#.github/qrcode.png#qrcode.png#g" fdroid/index.html
 
-      - name: Copy qrcode.png to fdroid folder and fix qrcode path
-        run: mkdir -p fdroid/.github; cp .github/qrcode.png fdroid/.github/qrcode.png
+      - name: Copy qrcode.png to fdroid folder
+        run: cp .github/qrcode.png fdroid/qrcode.png
 
       - name: Remove saved secrets
         run: rm fdroid/keystore.p12; rm fdroid/config.yml
