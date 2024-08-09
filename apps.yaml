@@ -79,3 +79,19 @@ droid-ify-client:
 
   categories: 
     - System
+
+bunny-manager:
+  git: https://github.com/pyoncord/BunnyManager
+  license: OSL v3.0
+  authorname: pyoncord
+  website: https://github.com/pyoncord/BunnyManager
+  sourcecode: https://github.com/pyoncord/BunnyManager
+  issuetracker: https://github.com/pyoncord/BunnyManager/issues
+  changelog: https://github.com/pyoncord/BunnyManager/releases
+
+  name: "Bunny-Manager"
+  description: |
+    Bunny Manager install a Discord mod that supports themes and plugins.
+
+  categories: 
+  - Phone & SMS, Connectivity
