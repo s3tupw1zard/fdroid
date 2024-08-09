@@ -43,6 +43,8 @@ jobs:
         run: bash update.sh 2>&1
         env:
           GH_ACCESS_TOKEN: ${{ secrets.GH_ACCESS_TOKEN }}
+      - name: Remove saved secrets
+        run: rm fdroid/keystore.p12; rm fdroid/config.yml
       - name: Deploy to GH Pages
         uses: peaceiris/actions-gh-pages@v4
         # If you're changing the branch from main,
