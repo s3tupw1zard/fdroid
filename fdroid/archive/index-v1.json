@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1723202281000,
+    "timestamp": 1723214561000,
     "version": 20002,
     "name": "s3tupw1zard's F-Droid Archive",
     "icon": "icon.png",
@@ -12,6 +12,22 @@
     "uninstall": []
   },
   "apps": [
+    {
+      "authorName": "Droid-ify",
+      "categories": [
+        "System"
+      ],
+      "suggestedVersionName": "0.6.3",
+      "suggestedVersionCode": "630",
+      "description": "A quick material F-Droid client\n\nFeatures:\n\n* Material F-Droid style\n* No cards or inappropriate animations\n* Fast repository syncing\n* Standard Android components and minimal dependencies\n\nAvailable in:\n\n- Brazillian Portugese\n- English\n- Finnish\n- French\n- German\n- Greek\n- Hungarian\n- Italian\n- Norwegian Bokm\u00e5l\n- Peninsular Arabic\n- Polish\n- Russian\n- Simplified Chinese\n- Spanish\n- Turkish\n\nA direct adaptation/modification of Foxy-Droid\n\nCopylefted libre software, licensed GPLv3+. \\\nUse, study, change, and share; with all.\n",
+      "license": "GPL-3.0",
+      "name": "Droid-ify",
+      "sourceCode": "https://github.com/Droid-ify/client",
+      "summary": "F-Droid client with Material UI. ",
+      "added": 1723214484000,
+      "packageName": "com.looker.droidify",
+      "lastUpdated": 1723214505000
+    },
     {
       "authorName": "patzly",
       "categories": [
@@ -28,9 +44,2508 @@
       "icon": "xyz.zedler.patrick.grocy.50.png",
       "packageName": "xyz.zedler.patrick.grocy",
       "lastUpdated": 1723161600000
+    },
+    {
+      "authorName": "DerGoogler",
+      "categories": [
+        "System, Root"
+      ],
+      "suggestedVersionName": "2.20.21",
+      "suggestedVersionCode": "22021",
+      "description": "Introducing Magisk Module Repo Loader (MMRL) - the ultimate module manager for Magisk, KernelSU and APatch on Android. This highly configurable app allows users to manage modules effortlessly, all while being completely free of ads.\n\n## Requirements:\n- Android 8.0 or later\n- (MMRL-CLI)[https://github.com/DerGoogler/MMRL-CLI]\n- 4-5 GB RAM (lower may possible)\n## Features:\n- Basics: Literally basics\n- (ModFS)[https://github.com/DerGoogler/MMRL/tree/master/docs/ModFS.md]: Customizable Module Filesystem\n- (ModConf)[https://github.com/DerGoogler/MMRL/blob/master/docs/ModConf/README.md]: Provide dynamic created pages for modules\n- Custom Repos: Load any repo that uses the MRepo or the GR Fork\n\nRead the (documentation)[https://github.com/DerGoogler/MMRL/tree/master/docs] to explore more of our functions like Shell, SuFile and more\n\n### Supported root manager:\n- [x] [Magisk](https://github.com/topjohnwu/Magisk)\n- [x] [Magisk Delta](https://github.com/HuskyDG/magisk-files)\n- [x] [KernelSU](https://github.com/tiann/KernelSU)\n- [x] [APatch](https://github.com/bmax121/APatch)\n",
+      "license": "MIT",
+      "name": "MMRL",
+      "sourceCode": "https://github.com/DerGoogler/MMRL",
+      "summary": "Introducing Magisk Module Repo Loader (MMRL) - the ultimate module manager fo...",
+      "added": 1723214467000,
+      "packageName": "com.dergoogler.mmrl",
+      "lastUpdated": 1723214479000
     }
   ],
   "packages": {
+    "com.dergoogler.mmrl": [
+      {
+        "added": 1723214477000,
+        "apkName": "MMRL_v2.17.15.apk",
+        "hash": "7905ee718201f20d508ad41b1574596e2cd4b904d16b2ba33622391aadb83061",
+        "hashType": "sha256",
+        "minSdkVersion": 26,
+        "packageName": "com.dergoogler.mmrl",
+        "sig": "540480bcf62aea562549755418702e5b",
+        "signer": "102c2579a177579073dfc69bdf889ad04de9e7c53726a99d65873ec122183860",
+        "size": 5863382,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ]
+        ],
+        "versionCode": 21715,
+        "versionName": "2.17.15"
+      },
+      {
+        "added": 1723214477000,
+        "apkName": "MMRL_v2.16.13.apk",
+        "hash": "17a4717a3d636b50c527d5e4d5d7a0ee10199ebb1b2460a92338bd5de473e72e",
+        "hashType": "sha256",
+        "minSdkVersion": 26,
+        "packageName": "com.dergoogler.mmrl",
+        "sig": "540480bcf62aea562549755418702e5b",
+        "signer": "102c2579a177579073dfc69bdf889ad04de9e7c53726a99d65873ec122183860",
+        "size": 5739233,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "com.dergoogler.mmrl.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 21613,
+        "versionName": "2.16.13"
+      },
+      {
+        "added": 1723214476000,
+        "apkName": "MMRL_v2.15.12.apk",
+        "hash": "54527160befb7540d1604a646a02fdbdada3c61f9172ba993947354bb9ec8ce2",
+        "hashType": "sha256",
+        "minSdkVersion": 26,
+        "packageName": "com.dergoogler.mmrl",
+        "sig": "540480bcf62aea562549755418702e5b",
+        "signer": "102c2579a177579073dfc69bdf889ad04de9e7c53726a99d65873ec122183860",
+        "size": 5652858,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "com.dergoogler.mmrl.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 21512,
+        "versionName": "2.15.12"
+      },
+      {
+        "added": 1723214476000,
+        "apkName": "MMRL_v2.15.11.apk",
+        "hash": "4413790efa704643934cb55e2c10bc34b64d1c11b1473b11f0bbca07a33579bc",
+        "hashType": "sha256",
+        "minSdkVersion": 26,
+        "packageName": "com.dergoogler.mmrl",
+        "sig": "540480bcf62aea562549755418702e5b",
+        "signer": "102c2579a177579073dfc69bdf889ad04de9e7c53726a99d65873ec122183860",
+        "size": 5652542,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "com.dergoogler.mmrl.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 21511,
+        "versionName": "2.15.11"
+      },
+      {
+        "added": 1723214476000,
+        "apkName": "MMRL_v2.15.10.apk",
+        "hash": "751c641581d14721d12cb33bd822b6fce3e792ae67f569b84628257031b6fbf9",
+        "hashType": "sha256",
+        "minSdkVersion": 26,
+        "packageName": "com.dergoogler.mmrl",
+        "sig": "540480bcf62aea562549755418702e5b",
+        "signer": "102c2579a177579073dfc69bdf889ad04de9e7c53726a99d65873ec122183860",
+        "size": 5651626,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "com.dergoogler.mmrl.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 21510,
+        "versionName": "2.15.10"
+      },
+      {
+        "added": 1723214475000,
+        "apkName": "MMRL_v2.14.10.apk",
+        "hash": "ce8ad468c66ceb2ffa6e6030dac63de1871aa72990b24250393bf7b679e0df3f",
+        "hashType": "sha256",
+        "minSdkVersion": 26,
+        "packageName": "com.dergoogler.mmrl",
+        "sig": "540480bcf62aea562549755418702e5b",
+        "signer": "102c2579a177579073dfc69bdf889ad04de9e7c53726a99d65873ec122183860",
+        "size": 5638452,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "com.dergoogler.mmrl.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 21410,
+        "versionName": "2.14.10"
+      },
+      {
+        "added": 1723214475000,
+        "apkName": "MMRL_v2.13.9.apk",
+        "hash": "4d2579317e1b36d6a75c286130951237d33307553a8d942d2b061dd781ee2de8",
+        "hashType": "sha256",
+        "minSdkVersion": 26,
+        "packageName": "com.dergoogler.mmrl",
+        "sig": "540480bcf62aea562549755418702e5b",
+        "signer": "102c2579a177579073dfc69bdf889ad04de9e7c53726a99d65873ec122183860",
+        "size": 5510792,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "com.dergoogler.mmrl.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 2139,
+        "versionName": "2.13.9"
+      },
+      {
+        "added": 1723214470000,
+        "apkName": "MMRL_v1.13.9.apk",
+        "hash": "120d667edbaa72f838a1aee6b437b3530994e2b44886a2f0e3e28fe4472b526d",
+        "hashType": "sha256",
+        "minSdkVersion": 26,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "com.dergoogler.mmrl",
+        "sig": "540480bcf62aea562549755418702e5b",
+        "signer": "102c2579a177579073dfc69bdf889ad04de9e7c53726a99d65873ec122183860",
+        "size": 12349816,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            32
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            32
+          ],
+          [
+            "com.dergoogler.mmrl.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 1139,
+        "versionName": "1.13.9"
+      },
+      {
+        "added": 1723214470000,
+        "apkName": "MMRL_v1.13.8.apk",
+        "hash": "f9908fc21e4acb098edf30d93a0c2e564b5a83e6a1046735c5cf16b4d4c98dd1",
+        "hashType": "sha256",
+        "minSdkVersion": 26,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "com.dergoogler.mmrl",
+        "sig": "540480bcf62aea562549755418702e5b",
+        "signer": "102c2579a177579073dfc69bdf889ad04de9e7c53726a99d65873ec122183860",
+        "size": 12349840,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            32
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            32
+          ],
+          [
+            "com.dergoogler.mmrl.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 1138,
+        "versionName": "1.13.8"
+      },
+      {
+        "added": 1723214469000,
+        "apkName": "MMRL_v1.12.8.apk",
+        "hash": "7289e7c2b75698419f33ac0667ecbe3f9f4bfe61c8b99104fa9a8df5edc6575f",
+        "hashType": "sha256",
+        "minSdkVersion": 26,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "com.dergoogler.mmrl",
+        "sig": "540480bcf62aea562549755418702e5b",
+        "signer": "102c2579a177579073dfc69bdf889ad04de9e7c53726a99d65873ec122183860",
+        "size": 12223846,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            32
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            32
+          ],
+          [
+            "com.dergoogler.mmrl.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 1128,
+        "versionName": "1.12.8"
+      },
+      {
+        "added": 1723214469000,
+        "apkName": "MMRL_v1.11.8.apk",
+        "hash": "2758d496ba73d11548b4c5697e4c5a8589aff9969301c8fe2fe13b581531bc8f",
+        "hashType": "sha256",
+        "minSdkVersion": 26,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "com.dergoogler.mmrl",
+        "sig": "540480bcf62aea562549755418702e5b",
+        "signer": "102c2579a177579073dfc69bdf889ad04de9e7c53726a99d65873ec122183860",
+        "size": 12223814,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            32
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            32
+          ],
+          [
+            "com.dergoogler.mmrl.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 1118,
+        "versionName": "1.11.8"
+      },
+      {
+        "added": 1723214469000,
+        "apkName": "MMRL_v1.10.7.apk",
+        "hash": "9df36007fc197088c0d27f01a73dbf1699e8fe952b92b19095f260a2fce237f7",
+        "hashType": "sha256",
+        "minSdkVersion": 26,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "com.dergoogler.mmrl",
+        "sig": "540480bcf62aea562549755418702e5b",
+        "signer": "102c2579a177579073dfc69bdf889ad04de9e7c53726a99d65873ec122183860",
+        "size": 12223442,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            32
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            32
+          ],
+          [
+            "com.dergoogler.mmrl.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 1107,
+        "versionName": "1.10.7"
+      },
+      {
+        "added": 1723214468000,
+        "apkName": "MMRL_v1.10.6.apk",
+        "hash": "3ea9b9a45a61a9cde87b4dcec01c1bee210cd09225845a976f5e8ee42ace4a90",
+        "hashType": "sha256",
+        "minSdkVersion": 26,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "com.dergoogler.mmrl",
+        "sig": "540480bcf62aea562549755418702e5b",
+        "signer": "102c2579a177579073dfc69bdf889ad04de9e7c53726a99d65873ec122183860",
+        "size": 12231046,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            32
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            32
+          ],
+          [
+            "com.dergoogler.mmrl.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 1106,
+        "versionName": "1.10.6"
+      },
+      {
+        "added": 1723214475000,
+        "apkName": "MMRL_v1.9.6.apk",
+        "hash": "af6b441a0c96bbec80faf0ac2c6ea6dd8149db18e9c0dfa58fcaa3fdb7b61086",
+        "hashType": "sha256",
+        "minSdkVersion": 26,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "com.dergoogler.mmrl",
+        "sig": "540480bcf62aea562549755418702e5b",
+        "signer": "102c2579a177579073dfc69bdf889ad04de9e7c53726a99d65873ec122183860",
+        "size": 12195534,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            32
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            32
+          ],
+          [
+            "com.dergoogler.mmrl.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 196,
+        "versionName": "1.9.6"
+      },
+      {
+        "added": 1723214474000,
+        "apkName": "MMRL_v1.9.5.apk",
+        "hash": "e0beee46d508d30627f9ab17f9c17be847236379f1b9bbba87eb051984a80b40",
+        "hashType": "sha256",
+        "minSdkVersion": 26,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "com.dergoogler.mmrl",
+        "sig": "540480bcf62aea562549755418702e5b",
+        "signer": "102c2579a177579073dfc69bdf889ad04de9e7c53726a99d65873ec122183860",
+        "size": 12195490,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            32
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            32
+          ],
+          [
+            "com.dergoogler.mmrl.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 195,
+        "versionName": "1.9.5"
+      },
+      {
+        "added": 1723214474000,
+        "apkName": "MMRL_v1.8.5.apk",
+        "hash": "e6d5e2a47dc0aa7f8aa833c5a407b4b5f21958e3a200af29992b4ea871eb2c3e",
+        "hashType": "sha256",
+        "minSdkVersion": 26,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "com.dergoogler.mmrl",
+        "sig": "540480bcf62aea562549755418702e5b",
+        "signer": "102c2579a177579073dfc69bdf889ad04de9e7c53726a99d65873ec122183860",
+        "size": 14301546,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "com.dergoogler.mmrl.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 185,
+        "versionName": "1.8.5"
+      },
+      {
+        "added": 1723214473000,
+        "apkName": "MMRL_v1.7.5.apk",
+        "hash": "0b71efdd0f31395d607bc4ff7ca28e00c60c865b2bddbaa9a78ae790de14eeed",
+        "hashType": "sha256",
+        "minSdkVersion": 26,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "com.dergoogler.mmrl",
+        "sig": "540480bcf62aea562549755418702e5b",
+        "signer": "102c2579a177579073dfc69bdf889ad04de9e7c53726a99d65873ec122183860",
+        "size": 10583059,
+        "targetSdkVersion": 26,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "com.dergoogler.mmrl.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 175,
+        "versionName": "1.7.5"
+      },
+      {
+        "added": 1723214473000,
+        "apkName": "MMRL_v1.7.4.apk",
+        "hash": "420163e4871d3c52fa43efc2783b738402cda60d278acc42befc39edd1a4bee6",
+        "hashType": "sha256",
+        "minSdkVersion": 26,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "com.dergoogler.mmrl",
+        "sig": "540480bcf62aea562549755418702e5b",
+        "signer": "102c2579a177579073dfc69bdf889ad04de9e7c53726a99d65873ec122183860",
+        "size": 10581729,
+        "targetSdkVersion": 26,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "com.dergoogler.mmrl.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 174,
+        "versionName": "1.7.4"
+      },
+      {
+        "added": 1723214473000,
+        "apkName": "MMRL_v1.7.3.apk",
+        "hash": "4a7329fc3dafeb02a68c80d734887ae5ec576f150cad537cc2e9c803ed3e5ce8",
+        "hashType": "sha256",
+        "minSdkVersion": 33,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "com.dergoogler.mmrl",
+        "sig": "540480bcf62aea562549755418702e5b",
+        "signer": "102c2579a177579073dfc69bdf889ad04de9e7c53726a99d65873ec122183860",
+        "size": 10589913,
+        "targetSdkVersion": 33,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "com.dergoogler.mmrl.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 173,
+        "versionName": "1.7.3"
+      },
+      {
+        "added": 1723214473000,
+        "apkName": "MMRL_v1.7.1.apk",
+        "hash": "3daaf247967e42873352a2b58860015c665c81e50fa18ad9a78643b85f0af204",
+        "hashType": "sha256",
+        "minSdkVersion": 26,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "com.dergoogler.mmrl",
+        "sig": "540480bcf62aea562549755418702e5b",
+        "signer": "102c2579a177579073dfc69bdf889ad04de9e7c53726a99d65873ec122183860",
+        "size": 9882841,
+        "targetSdkVersion": 26,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.MANAGE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "com.dergoogler.mmrl.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 171,
+        "versionName": "1.7.1"
+      },
+      {
+        "added": 1723214472000,
+        "apkName": "MMRL_v1.7.0.apk",
+        "hash": "38e63572595349ab1859a93761e385ab15134bf5735190e89e3868a45cfb4f89",
+        "hashType": "sha256",
+        "minSdkVersion": 26,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "com.dergoogler.mmrl",
+        "sig": "540480bcf62aea562549755418702e5b",
+        "signer": "102c2579a177579073dfc69bdf889ad04de9e7c53726a99d65873ec122183860",
+        "size": 11737632,
+        "targetSdkVersion": 33,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.MANAGE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "com.dergoogler.mmrl.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 170,
+        "versionName": "1.7.0"
+      },
+      {
+        "added": 1723214472000,
+        "apkName": "MMRL_v1.6.5.apk",
+        "hash": "05be842f2b2ce2af46a79e5454b273e28300cb7d9b96036b0f6edbdfa493c2f3",
+        "hashType": "sha256",
+        "minSdkVersion": 26,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "com.dergoogler.mmrl",
+        "sig": "540480bcf62aea562549755418702e5b",
+        "signer": "102c2579a177579073dfc69bdf889ad04de9e7c53726a99d65873ec122183860",
+        "size": 11735261,
+        "targetSdkVersion": 33,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.MANAGE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "com.dergoogler.mmrl.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 165,
+        "versionName": "1.6.5"
+      },
+      {
+        "added": 1723214472000,
+        "apkName": "MMRL_v1.6.4.apk",
+        "hash": "77750fbabfc732ca99b1360950db2480ffc95cd1c453bf8ea27be279cc69596f",
+        "hashType": "sha256",
+        "minSdkVersion": 26,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.dergoogler.mmrl",
+        "sig": "540480bcf62aea562549755418702e5b",
+        "signer": "102c2579a177579073dfc69bdf889ad04de9e7c53726a99d65873ec122183860",
+        "size": 28301714,
+        "targetSdkVersion": 33,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.MANAGE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "com.dergoogler.mmrl.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 164,
+        "versionName": "1.6.4"
+      },
+      {
+        "added": 1723214471000,
+        "apkName": "MMRL_v1.6.3.apk",
+        "hash": "296e52646b0ad0fc69276c7948a39ea0ec029f5ce68191b37365c3d6cca558fc",
+        "hashType": "sha256",
+        "minSdkVersion": 26,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.dergoogler.mmrl",
+        "sig": "540480bcf62aea562549755418702e5b",
+        "signer": "102c2579a177579073dfc69bdf889ad04de9e7c53726a99d65873ec122183860",
+        "size": 28300106,
+        "targetSdkVersion": 33,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.MANAGE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "com.dergoogler.mmrl.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 163,
+        "versionName": "1.6.3"
+      },
+      {
+        "added": 1723214471000,
+        "apkName": "MMRL_v1.6.2.apk",
+        "hash": "04d15ea5976835ca4c1370318d7f2247ebd55bd21ddd229009ee7307cd7c5b19",
+        "hashType": "sha256",
+        "minSdkVersion": 26,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.dergoogler.mmrl",
+        "sig": "540480bcf62aea562549755418702e5b",
+        "signer": "102c2579a177579073dfc69bdf889ad04de9e7c53726a99d65873ec122183860",
+        "size": 28490702,
+        "targetSdkVersion": 33,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.MANAGE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "com.dergoogler.mmrl.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 162,
+        "versionName": "1.6.2"
+      },
+      {
+        "added": 1723214470000,
+        "apkName": "MMRL_v1.6.1.apk",
+        "hash": "88d7c75d37ecb2bfd61d496d6e06aaf33f8fe447d39d8e3f03edcd1d576301c3",
+        "hashType": "sha256",
+        "minSdkVersion": 26,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.dergoogler.mmrl",
+        "sig": "540480bcf62aea562549755418702e5b",
+        "signer": "102c2579a177579073dfc69bdf889ad04de9e7c53726a99d65873ec122183860",
+        "size": 28489898,
+        "targetSdkVersion": 33,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.MANAGE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "com.dergoogler.mmrl.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 161,
+        "versionName": "1.6.1"
+      },
+      {
+        "added": 1723214468000,
+        "apkName": "MMRL_1.6.0-beta.apk",
+        "hash": "eacafb746ca7d86bf94575eaaf71c87dd6a73521de27ed66c41003abce6c42ac",
+        "hashType": "sha256",
+        "minSdkVersion": 26,
+        "packageName": "com.dergoogler.mmrl",
+        "sig": "540480bcf62aea562549755418702e5b",
+        "signer": "102c2579a177579073dfc69bdf889ad04de9e7c53726a99d65873ec122183860",
+        "size": 6658178,
+        "targetSdkVersion": 33,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.MANAGE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "com.dergoogler.mmrl.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 160,
+        "versionName": "1.6.0"
+      },
+      {
+        "added": 1723214468000,
+        "apkName": "MMRL_1.4.1-141.apk",
+        "hash": "5e5abc0d440824cff5abc73259f267a8217da41ade32040b5bf4bfa466e80f1d",
+        "hashType": "sha256",
+        "minSdkVersion": 26,
+        "packageName": "com.dergoogler.mmrl",
+        "sig": "540480bcf62aea562549755418702e5b",
+        "signer": "102c2579a177579073dfc69bdf889ad04de9e7c53726a99d65873ec122183860",
+        "size": 3451691,
+        "targetSdkVersion": 32,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.MANAGE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 141,
+        "versionName": "1.4.1"
+      },
+      {
+        "added": 1723214467000,
+        "apkName": "MMRL_1.4.0Alpha-2.apk",
+        "hash": "c9ada775a912827393ce74fc7054b51b930d4387616f04039a600b7b03d3e025",
+        "hashType": "sha256",
+        "minSdkVersion": 28,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.dergoogler.mmrl",
+        "sig": "540480bcf62aea562549755418702e5b",
+        "signer": "102c2579a177579073dfc69bdf889ad04de9e7c53726a99d65873ec122183860",
+        "size": 27349956,
+        "targetSdkVersion": 32,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.MANAGE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "com.dergoogler.mmrl.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 140,
+        "versionName": "1.4.0@alpha-2"
+      },
+      {
+        "added": 1723214468000,
+        "apkName": "MMRL_1.4.0Alpha-3.apk",
+        "hash": "23ebd3225b207345a1d8a7d8c78f05d77d56699c6a8856cc94b50bab51b88046",
+        "hashType": "sha256",
+        "minSdkVersion": 26,
+        "packageName": "com.dergoogler.mmrl",
+        "sig": "540480bcf62aea562549755418702e5b",
+        "signer": "102c2579a177579073dfc69bdf889ad04de9e7c53726a99d65873ec122183860",
+        "size": 3663130,
+        "targetSdkVersion": 32,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.MANAGE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 140,
+        "versionName": "1.4.0@alpha-3"
+      }
+    ],
+    "com.looker.droidify": [
+      {
+        "added": 1723214487000,
+        "apkName": "droid-ify-client_v0.4.9.apk",
+        "hash": "50dc07ddf7c137e5cc005053274f89b7514bfb8f0b68a2ae3208f1f9a81451f7",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "packageName": "com.looker.droidify",
+        "sig": "59b39d5cc79794aa98aab5f7c7d6fbfa",
+        "signer": "5418db910e7fbaa7112789b3115802f559e0cf960d60206b0bb6ed211b76ad28",
+        "size": 3467848,
+        "targetSdkVersion": 32,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION",
+            null
+          ],
+          [
+            "moe.shizuku.manager.permission.API_V23",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ]
+        ],
+        "versionCode": 49,
+        "versionName": "0.4.9"
+      },
+      {
+        "added": 1723214487000,
+        "apkName": "droid-ify-client_v0.4.8.apk",
+        "hash": "abaf67b0892554ab7dc6f2e7b4e110088538e778f5a3dc120445116a76f77421",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "packageName": "com.looker.droidify",
+        "sig": "59b39d5cc79794aa98aab5f7c7d6fbfa",
+        "signer": "5418db910e7fbaa7112789b3115802f559e0cf960d60206b0bb6ed211b76ad28",
+        "size": 3469049,
+        "targetSdkVersion": 32,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION",
+            null
+          ],
+          [
+            "moe.shizuku.manager.permission.API_V23",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ]
+        ],
+        "versionCode": 48,
+        "versionName": "0.4.8"
+      },
+      {
+        "added": 1723214486000,
+        "apkName": "droid-ify-client_v0.4.7.apk",
+        "hash": "020732519f9ed3dbab647577f1ebef1a0990e6f5bd9089b2583bf0c1c77b8830",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "packageName": "com.looker.droidify",
+        "sig": "59b39d5cc79794aa98aab5f7c7d6fbfa",
+        "signer": "5418db910e7fbaa7112789b3115802f559e0cf960d60206b0bb6ed211b76ad28",
+        "size": 3063148,
+        "targetSdkVersion": 32,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION",
+            null
+          ],
+          [
+            "moe.shizuku.manager.permission.API_V23",
+            null
+          ]
+        ],
+        "versionCode": 47,
+        "versionName": "0.4.7"
+      },
+      {
+        "added": 1723214485000,
+        "apkName": "droid-ify-client_v0.4.6.apk",
+        "hash": "6476c54ae13002c4933e3a6918957cd23a5bd7eea8c7757edc71e7dc58d37eba",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "packageName": "com.looker.droidify",
+        "sig": "59b39d5cc79794aa98aab5f7c7d6fbfa",
+        "signer": "5418db910e7fbaa7112789b3115802f559e0cf960d60206b0bb6ed211b76ad28",
+        "size": 3066268,
+        "targetSdkVersion": 31,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION",
+            null
+          ]
+        ],
+        "versionCode": 46,
+        "versionName": "0.4.6"
+      },
+      {
+        "added": 1723214485000,
+        "apkName": "droid-ify-client_v0.4.5.apk",
+        "hash": "a480960973156f5de2449036f2c846c4b2508ab28b0204e275c380156299bce5",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "packageName": "com.looker.droidify",
+        "sig": "59b39d5cc79794aa98aab5f7c7d6fbfa",
+        "signer": "5418db910e7fbaa7112789b3115802f559e0cf960d60206b0bb6ed211b76ad28",
+        "size": 3058715,
+        "targetSdkVersion": 31,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION",
+            null
+          ]
+        ],
+        "versionCode": 45,
+        "versionName": "0.4.5"
+      },
+      {
+        "added": 1723214484000,
+        "apkName": "droid-ify-client_v0.4.4.apk",
+        "hash": "6e130e79fe6dfdeef239a802045758ac6f984d2173ac900271339400103d4645",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "packageName": "com.looker.droidify",
+        "sig": "59b39d5cc79794aa98aab5f7c7d6fbfa",
+        "signer": "5418db910e7fbaa7112789b3115802f559e0cf960d60206b0bb6ed211b76ad28",
+        "size": 3052802,
+        "targetSdkVersion": 31,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION",
+            null
+          ]
+        ],
+        "versionCode": 44,
+        "versionName": "0.4.4"
+      },
+      {
+        "added": 1723214499000,
+        "apkName": "droid-ify-client_v0.5.9.3.apk",
+        "hash": "f5f3ba0edd511df1be1831199e17b4eb7595bab32c6efc2c7d6c2148c9040b1b",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "packageName": "com.looker.droidify",
+        "sig": "e773f35bff238ef8b5b8761022716c08",
+        "signer": "ed8859c55af311162658b94af982b9f091dcd27628d4de3486d1217ebf3c9935",
+        "size": 4213527,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.RUN_USER_INITIATED_JOBS",
+            null
+          ],
+          [
+            "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "com.looker.droidify.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ],
+          [
+            "moe.shizuku.manager.permission.API_V23",
+            null
+          ]
+        ],
+        "versionCode": 593,
+        "versionName": "0.5.9 Patch 3"
+      },
+      {
+        "added": 1723214499000,
+        "apkName": "droid-ify-client_v0.5.9.2.apk",
+        "hash": "fb43b3b1d2c0e3c6f81c765476b2148aee05a53dff2ac1cda7fab3321b8ec5a8",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "packageName": "com.looker.droidify",
+        "sig": "e773f35bff238ef8b5b8761022716c08",
+        "signer": "ed8859c55af311162658b94af982b9f091dcd27628d4de3486d1217ebf3c9935",
+        "size": 4213527,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.RUN_USER_INITIATED_JOBS",
+            null
+          ],
+          [
+            "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "com.looker.droidify.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ],
+          [
+            "moe.shizuku.manager.permission.API_V23",
+            null
+          ]
+        ],
+        "versionCode": 592,
+        "versionName": "0.5.9 Patch 2"
+      },
+      {
+        "added": 1723214498000,
+        "apkName": "droid-ify-client_v0.5.9.1.apk",
+        "hash": "195950eb7a8439439a1c097f328d0aa3f568aa39850eeb363340fd4afa47ba9c",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "packageName": "com.looker.droidify",
+        "sig": "e773f35bff238ef8b5b8761022716c08",
+        "signer": "ed8859c55af311162658b94af982b9f091dcd27628d4de3486d1217ebf3c9935",
+        "size": 3702387,
+        "targetSdkVersion": 33,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "com.looker.droidify.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ],
+          [
+            "moe.shizuku.manager.permission.API_V23",
+            null
+          ]
+        ],
+        "versionCode": 591,
+        "versionName": "0.5.9 Patch 1"
+      },
+      {
+        "added": 1723214502000,
+        "apkName": "droid-ify-client_v0.5.9.apk",
+        "hash": "77aea93b968c942c9bb8857c00057ec17158ce11e8b064976cfd7746ceacdf1a",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "packageName": "com.looker.droidify",
+        "sig": "e773f35bff238ef8b5b8761022716c08",
+        "signer": "ed8859c55af311162658b94af982b9f091dcd27628d4de3486d1217ebf3c9935",
+        "size": 3695725,
+        "targetSdkVersion": 33,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "com.looker.droidify.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ],
+          [
+            "moe.shizuku.manager.permission.API_V23",
+            null
+          ]
+        ],
+        "versionCode": 590,
+        "versionName": "0.5.9"
+      },
+      {
+        "added": 1723214496000,
+        "apkName": "droid-ify-client_v0.5.8.4.apk",
+        "hash": "2ac8cc7a7266535ddda78c695a0bbdc850a0df62e53bbcba5419ede880bd767a",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "packageName": "com.looker.droidify",
+        "sig": "e773f35bff238ef8b5b8761022716c08",
+        "signer": "ed8859c55af311162658b94af982b9f091dcd27628d4de3486d1217ebf3c9935",
+        "size": 3586471,
+        "targetSdkVersion": 33,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "com.looker.droidify.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ],
+          [
+            "moe.shizuku.manager.permission.API_V23",
+            null
+          ]
+        ],
+        "versionCode": 584,
+        "versionName": "0.5.8.4"
+      },
+      {
+        "added": 1723214496000,
+        "apkName": "droid-ify-client_v0.5.8.3.apk",
+        "hash": "6b08f679c2a8b7859706891ca025184ac3aab2f897672ef2d4438858c8c79cd1",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "packageName": "com.looker.droidify",
+        "sig": "e773f35bff238ef8b5b8761022716c08",
+        "signer": "ed8859c55af311162658b94af982b9f091dcd27628d4de3486d1217ebf3c9935",
+        "size": 3657719,
+        "targetSdkVersion": 33,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "com.looker.droidify.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ],
+          [
+            "moe.shizuku.manager.permission.API_V23",
+            null
+          ]
+        ],
+        "versionCode": 583,
+        "versionName": "0.5.8.3"
+      },
+      {
+        "added": 1723214495000,
+        "apkName": "droid-ify-client_v0.5.8.2.apk",
+        "hash": "9ef4958f86b7600a01a965bda3597b58b3ead52c5a37d31f609d3c9f86aabf0a",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "packageName": "com.looker.droidify",
+        "sig": "e773f35bff238ef8b5b8761022716c08",
+        "signer": "ed8859c55af311162658b94af982b9f091dcd27628d4de3486d1217ebf3c9935",
+        "size": 3655167,
+        "targetSdkVersion": 33,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "com.looker.droidify.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ],
+          [
+            "moe.shizuku.manager.permission.API_V23",
+            null
+          ]
+        ],
+        "versionCode": 582,
+        "versionName": "0.5.8.2"
+      },
+      {
+        "added": 1723214494000,
+        "apkName": "droid-ify-client_v0.5.8.1.apk",
+        "hash": "306762862e0a41b4dc9ab267ddf9908403f91bc401dec9f237a29a81c8a8ed3b",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "packageName": "com.looker.droidify",
+        "sig": "e773f35bff238ef8b5b8761022716c08",
+        "signer": "ed8859c55af311162658b94af982b9f091dcd27628d4de3486d1217ebf3c9935",
+        "size": 3360413,
+        "targetSdkVersion": 33,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "com.looker.droidify.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ],
+          [
+            "moe.shizuku.manager.permission.API_V23",
+            null
+          ]
+        ],
+        "versionCode": 581,
+        "versionName": "0.5.8.1"
+      },
+      {
+        "added": 1723214497000,
+        "apkName": "droid-ify-client_v0.5.8.apk",
+        "hash": "abdd8f2dd3cdf55a1451f67ff54f4f739f942eedbd5b726d4c4dab1f78c4e45e",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "packageName": "com.looker.droidify",
+        "sig": "e773f35bff238ef8b5b8761022716c08",
+        "signer": "ed8859c55af311162658b94af982b9f091dcd27628d4de3486d1217ebf3c9935",
+        "size": 3360467,
+        "targetSdkVersion": 33,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "com.looker.droidify.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ],
+          [
+            "moe.shizuku.manager.permission.API_V23",
+            null
+          ]
+        ],
+        "versionCode": 58,
+        "versionName": "0.5.8"
+      },
+      {
+        "added": 1723214493000,
+        "apkName": "droid-ify-client_v0.5.7.apk",
+        "hash": "ba87575c9a492d933a2590c2d693d655fe252d29496049fc3193f7939301c111",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "packageName": "com.looker.droidify",
+        "sig": "e773f35bff238ef8b5b8761022716c08",
+        "signer": "ed8859c55af311162658b94af982b9f091dcd27628d4de3486d1217ebf3c9935",
+        "size": 3679585,
+        "targetSdkVersion": 33,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "com.looker.droidify.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ],
+          [
+            "moe.shizuku.manager.permission.API_V23",
+            null
+          ]
+        ],
+        "versionCode": 57,
+        "versionName": "0.5.7"
+      },
+      {
+        "added": 1723214493000,
+        "apkName": "droid-ify-client_v0.5.6.apk",
+        "hash": "eacc9e88a82e2d46350b8bdb67b67b6c6d4b7353ebcb549955ce440377667763",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "packageName": "com.looker.droidify",
+        "sig": "e773f35bff238ef8b5b8761022716c08",
+        "signer": "ed8859c55af311162658b94af982b9f091dcd27628d4de3486d1217ebf3c9935",
+        "size": 3829795,
+        "targetSdkVersion": 33,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "com.looker.droidify.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ],
+          [
+            "moe.shizuku.manager.permission.API_V23",
+            null
+          ]
+        ],
+        "versionCode": 56,
+        "versionName": "0.5.6"
+      },
+      {
+        "added": 1723214492000,
+        "apkName": "droid-ify-client_v0.5.5.apk",
+        "hash": "0fb142919b8c8630932e600c105a6490f49a3e339655c4ada22ac238d1fd3251",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "packageName": "com.looker.droidify",
+        "sig": "e773f35bff238ef8b5b8761022716c08",
+        "signer": "ed8859c55af311162658b94af982b9f091dcd27628d4de3486d1217ebf3c9935",
+        "size": 3785040,
+        "targetSdkVersion": 33,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "com.looker.droidify.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ],
+          [
+            "moe.shizuku.manager.permission.API_V23",
+            null
+          ]
+        ],
+        "versionCode": 55,
+        "versionName": "0.5.5"
+      },
+      {
+        "added": 1723214490000,
+        "apkName": "droid-ify-client_v0.5.3-fix.apk",
+        "hash": "8e18828b63b3ba3e2ebe94924c97a64f1f714a9aa14cadc6a1c860575e2314c9",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "packageName": "com.looker.droidify",
+        "sig": "e773f35bff238ef8b5b8761022716c08",
+        "signer": "ed8859c55af311162658b94af982b9f091dcd27628d4de3486d1217ebf3c9935",
+        "size": 3730951,
+        "targetSdkVersion": 33,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "com.looker.droidify.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ],
+          [
+            "moe.shizuku.manager.permission.API_V23",
+            null
+          ]
+        ],
+        "versionCode": 53,
+        "versionName": "0.5.3"
+      },
+      {
+        "added": 1723214491000,
+        "apkName": "droid-ify-client_v0.5.4.apk",
+        "hash": "63ca8e880b32faea63abc5fa99041edb82fba26c4e3c5f8f5bd1a97c4b32e2c5",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "packageName": "com.looker.droidify",
+        "sig": "e773f35bff238ef8b5b8761022716c08",
+        "signer": "ed8859c55af311162658b94af982b9f091dcd27628d4de3486d1217ebf3c9935",
+        "size": 3785092,
+        "targetSdkVersion": 33,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "com.looker.droidify.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ],
+          [
+            "moe.shizuku.manager.permission.API_V23",
+            null
+          ]
+        ],
+        "versionCode": 53,
+        "versionName": "0.5.4"
+      },
+      {
+        "added": 1723214490000,
+        "apkName": "droid-ify-client_v0.5.2.apk",
+        "hash": "0b956463bd0474dc6a818e1625200eafaeec1e03d9832779e09af3ffa846f4db",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "packageName": "com.looker.droidify",
+        "sig": "e773f35bff238ef8b5b8761022716c08",
+        "signer": "ed8859c55af311162658b94af982b9f091dcd27628d4de3486d1217ebf3c9935",
+        "size": 3507580,
+        "targetSdkVersion": 33,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "com.looker.droidify.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ],
+          [
+            "moe.shizuku.manager.permission.API_V23",
+            null
+          ]
+        ],
+        "versionCode": 52,
+        "versionName": "0.5.2"
+      },
+      {
+        "added": 1723214489000,
+        "apkName": "droid-ify-client_v0.5.1.apk",
+        "hash": "72cdfc4624d63b49615d3da2848286a32b33d41c42f92e6a8ec147230f319740",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "packageName": "com.looker.droidify",
+        "sig": "e773f35bff238ef8b5b8761022716c08",
+        "signer": "ed8859c55af311162658b94af982b9f091dcd27628d4de3486d1217ebf3c9935",
+        "size": 3547124,
+        "targetSdkVersion": 33,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "com.looker.droidify.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ],
+          [
+            "moe.shizuku.manager.permission.API_V23",
+            null
+          ]
+        ],
+        "versionCode": 51,
+        "versionName": "0.5.1"
+      },
+      {
+        "added": 1723214488000,
+        "apkName": "droid-ify-client_v0.5.0.apk",
+        "hash": "6e76a1b6da5f780e9d39575a48a7ad587b16f7e58ab94977141b2ff7c0ae5a3d",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "packageName": "com.looker.droidify",
+        "sig": "e773f35bff238ef8b5b8761022716c08",
+        "signer": "ed8859c55af311162658b94af982b9f091dcd27628d4de3486d1217ebf3c9935",
+        "size": 3523833,
+        "targetSdkVersion": 33,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "com.looker.droidify.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ],
+          [
+            "moe.shizuku.manager.permission.API_V23",
+            null
+          ]
+        ],
+        "versionCode": 50,
+        "versionName": "0.5.0"
+      }
+    ],
     "xyz.zedler.patrick.grocy": [
       {
         "added": 1723161600000,

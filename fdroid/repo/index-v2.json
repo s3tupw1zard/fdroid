@@ -14,9 +14,1245 @@
       }
     },
     "address": "https://s3tupw1zard.github.io/fdroid/repo",
-    "timestamp": 1723202284000
+    "timestamp": 1723214572000
   },
   "packages": {
+    "com.dergoogler.mmrl": {
+      "metadata": {
+        "added": 1723214467000,
+        "categories": [
+          "System, Root"
+        ],
+        "lastUpdated": 1723214479000,
+        "license": "MIT",
+        "sourceCode": "https://github.com/DerGoogler/MMRL",
+        "screenshots": {
+          "phone": {
+            "en-US": [
+              {
+                "name": "/com.dergoogler.mmrl/en-US/phoneScreenshots/1.png",
+                "sha256": "5809aaec10970f74df459a75699ec91341a51132fab8b7002dbbd2659b7014ab",
+                "size": 362488
+              },
+              {
+                "name": "/com.dergoogler.mmrl/en-US/phoneScreenshots/2.png",
+                "sha256": "72484d9b7e010016280a13f4ad7968d9774da48ed3cfa0f34e97156775a6aa71",
+                "size": 359763
+              },
+              {
+                "name": "/com.dergoogler.mmrl/en-US/phoneScreenshots/3.png",
+                "sha256": "272e0f0a766ec9b91fa5813d84bdefceecdc9cb80935505eeecc2ea2b29205d3",
+                "size": 303777
+              },
+              {
+                "name": "/com.dergoogler.mmrl/en-US/phoneScreenshots/4.png",
+                "sha256": "48477901adfc15602cc94e19a2fccbabdf2a08b860803da80b7026301cc4304d",
+                "size": 259533
+              },
+              {
+                "name": "/com.dergoogler.mmrl/en-US/phoneScreenshots/5.png",
+                "sha256": "67c952c8c7513c1fde363c20d4773eecada25efe27abde2d2e3cbe5a898b1ba2",
+                "size": 313772
+              },
+              {
+                "name": "/com.dergoogler.mmrl/en-US/phoneScreenshots/6.png",
+                "sha256": "ee14cf161a152da8875d01a48c77e2c23c1157a059360d256d2d16374e770b77",
+                "size": 331977
+              },
+              {
+                "name": "/com.dergoogler.mmrl/en-US/phoneScreenshots/7.png",
+                "sha256": "9d14ac3fef9166e449c19fec347be22698c723c8f44f16f113c5c401ce75d2e3",
+                "size": 255004
+              }
+            ]
+          }
+        },
+        "authorName": "DerGoogler",
+        "name": {
+          "en-US": "MMRL"
+        },
+        "summary": {
+          "en-US": "Introducing Magisk Module Repo Loader (MMRL) - the ultimate module manager fo..."
+        },
+        "description": {
+          "en-US": "Introducing Magisk Module Repo Loader (MMRL) - the ultimate module manager for Magisk, KernelSU and APatch on Android. This highly configurable app allows users to manage modules effortlessly, all while being completely free of ads.\n\n## Requirements:\n- Android 8.0 or later\n- (MMRL-CLI)[https://github.com/DerGoogler/MMRL-CLI]\n- 4-5 GB RAM (lower may possible)\n## Features:\n- Basics: Literally basics\n- (ModFS)[https://github.com/DerGoogler/MMRL/tree/master/docs/ModFS.md]: Customizable Module Filesystem\n- (ModConf)[https://github.com/DerGoogler/MMRL/blob/master/docs/ModConf/README.md]: Provide dynamic created pages for modules\n- Custom Repos: Load any repo that uses the MRepo or the GR Fork\n\nRead the (documentation)[https://github.com/DerGoogler/MMRL/tree/master/docs] to explore more of our functions like Shell, SuFile and more\n\n### Supported root manager:\n- [x] [Magisk](https://github.com/topjohnwu/Magisk)\n- [x] [Magisk Delta](https://github.com/HuskyDG/magisk-files)\n- [x] [KernelSU](https://github.com/tiann/KernelSU)\n- [x] [APatch](https://github.com/bmax121/APatch)\n"
+        },
+        "preferredSigner": "102c2579a177579073dfc69bdf889ad04de9e7c53726a99d65873ec122183860"
+      },
+      "versions": {
+        "8221cca71071d4ddc5eb81c107dc12b01f55609aadfa7c44bb041855f05c0d33": {
+          "added": 1723214479000,
+          "file": {
+            "name": "/MMRL_v2.20.21.apk",
+            "sha256": "8221cca71071d4ddc5eb81c107dc12b01f55609aadfa7c44bb041855f05c0d33",
+            "size": 5871850
+          },
+          "manifest": {
+            "versionName": "2.20.21",
+            "versionCode": 22021,
+            "usesSdk": {
+              "minSdkVersion": 26,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "102c2579a177579073dfc69bdf889ad04de9e7c53726a99d65873ec122183860"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              }
+            ]
+          }
+        },
+        "de2e8f04af74ca241cb1906b42b921d2a391230786edd0546d5ab834e4b6ffc8": {
+          "added": 1723214478000,
+          "file": {
+            "name": "/MMRL_v2.20.20.apk",
+            "sha256": "de2e8f04af74ca241cb1906b42b921d2a391230786edd0546d5ab834e4b6ffc8",
+            "size": 5869010
+          },
+          "manifest": {
+            "versionName": "2.20.20",
+            "versionCode": 22020,
+            "usesSdk": {
+              "minSdkVersion": 26,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "102c2579a177579073dfc69bdf889ad04de9e7c53726a99d65873ec122183860"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              }
+            ]
+          }
+        },
+        "efc838454f264fdbf992a8b16bbc5d8206f3f6a1bbc5c5b4bc91f22a480fae7b": {
+          "added": 1723214478000,
+          "file": {
+            "name": "/MMRL_v2.19.18.apk",
+            "sha256": "efc838454f264fdbf992a8b16bbc5d8206f3f6a1bbc5c5b4bc91f22a480fae7b",
+            "size": 5867706
+          },
+          "manifest": {
+            "versionName": "2.19.18",
+            "versionCode": 21918,
+            "usesSdk": {
+              "minSdkVersion": 26,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "102c2579a177579073dfc69bdf889ad04de9e7c53726a99d65873ec122183860"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              }
+            ]
+          }
+        },
+        "0747c812ddbf4ac7a5c762e3f042e5c287f2b5f3358e5e26d52be9ed761ef38b": {
+          "added": 1723214478000,
+          "file": {
+            "name": "/MMRL_v2.19.17-bump.apk",
+            "sha256": "0747c812ddbf4ac7a5c762e3f042e5c287f2b5f3358e5e26d52be9ed761ef38b",
+            "size": 5867714
+          },
+          "manifest": {
+            "versionName": "2.19.17",
+            "versionCode": 21917,
+            "usesSdk": {
+              "minSdkVersion": 26,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "102c2579a177579073dfc69bdf889ad04de9e7c53726a99d65873ec122183860"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              }
+            ]
+          }
+        },
+        "cc4311d814bcba4771a6d25407817a3a696a73d8788b11798a52f38c88130e42": {
+          "added": 1723214477000,
+          "file": {
+            "name": "/MMRL_v2.18.17.apk",
+            "sha256": "cc4311d814bcba4771a6d25407817a3a696a73d8788b11798a52f38c88130e42",
+            "size": 5865158
+          },
+          "manifest": {
+            "versionName": "2.18.17",
+            "versionCode": 21817,
+            "usesSdk": {
+              "minSdkVersion": 26,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "102c2579a177579073dfc69bdf889ad04de9e7c53726a99d65873ec122183860"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              }
+            ]
+          }
+        },
+        "685ea23d05b1e65a5356789d6ba366ffbe3a9f59470c7b5936e6a5bd9e25c087": {
+          "added": 1723214477000,
+          "file": {
+            "name": "/MMRL_v2.17.16.apk",
+            "sha256": "685ea23d05b1e65a5356789d6ba366ffbe3a9f59470c7b5936e6a5bd9e25c087",
+            "size": 5863334
+          },
+          "manifest": {
+            "versionName": "2.17.16",
+            "versionCode": 21716,
+            "usesSdk": {
+              "minSdkVersion": 26,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "102c2579a177579073dfc69bdf889ad04de9e7c53726a99d65873ec122183860"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "com.looker.droidify": {
+      "metadata": {
+        "added": 1723214484000,
+        "categories": [
+          "System"
+        ],
+        "lastUpdated": 1723214505000,
+        "license": "GPL-3.0",
+        "sourceCode": "https://github.com/Droid-ify/client",
+        "screenshots": {
+          "phone": {
+            "en-US": [
+              {
+                "name": "/com.looker.droidify/en-US/phoneScreenshots/1.png",
+                "sha256": "ce7aeecb6c10b262e71ad40f309c0b3a90a43a456e53069d11b9247e21171b8a",
+                "size": 399312
+              },
+              {
+                "name": "/com.looker.droidify/en-US/phoneScreenshots/2.png",
+                "sha256": "dcb85214887907b61bcd3fc26096d1399e660faf087d3f53c537b0d94d872609",
+                "size": 483866
+              },
+              {
+                "name": "/com.looker.droidify/en-US/phoneScreenshots/3.png",
+                "sha256": "cebd6f889156c6f8cb0f7171617575ab6a9476d475a804fb29fffce95d78925f",
+                "size": 758660
+              },
+              {
+                "name": "/com.looker.droidify/en-US/phoneScreenshots/4.png",
+                "sha256": "b242a582968a8598074a23d69c1d6c9aa3032db787a2dfbbb29f7f9a8714314e",
+                "size": 346144
+              }
+            ]
+          }
+        },
+        "authorName": "Droid-ify",
+        "name": {
+          "en-US": "Droid-ify"
+        },
+        "summary": {
+          "en-US": "F-Droid client with Material UI. "
+        },
+        "description": {
+          "en-US": "A quick material F-Droid client\n\nFeatures:\n\n* Material F-Droid style\n* No cards or inappropriate animations\n* Fast repository syncing\n* Standard Android components and minimal dependencies\n\nAvailable in:\n\n- Brazillian Portugese\n- English\n- Finnish\n- French\n- German\n- Greek\n- Hungarian\n- Italian\n- Norwegian Bokmål\n- Peninsular Arabic\n- Polish\n- Russian\n- Simplified Chinese\n- Spanish\n- Turkish\n\nA direct adaptation/modification of Foxy-Droid\n\nCopylefted libre software, licensed GPLv3+. \\\nUse, study, change, and share; with all.\n"
+        },
+        "preferredSigner": "ed8859c55af311162658b94af982b9f091dcd27628d4de3486d1217ebf3c9935"
+      },
+      "versions": {
+        "22724e21732e19d8cd71d650adc2833c97d24132c52e34354198548d9a69ba44": {
+          "added": 1723214505000,
+          "file": {
+            "name": "/droid-ify-client_v0.6.3.apk",
+            "sha256": "22724e21732e19d8cd71d650adc2833c97d24132c52e34354198548d9a69ba44",
+            "size": 4173596
+          },
+          "manifest": {
+            "versionName": "0.6.3",
+            "versionCode": 630,
+            "usesSdk": {
+              "minSdkVersion": 23,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "ed8859c55af311162658b94af982b9f091dcd27628d4de3486d1217ebf3c9935"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_DATA_SYNC"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.REQUEST_INSTALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.REQUEST_DELETE_PACKAGES"
+              },
+              {
+                "name": "android.permission.RUN_USER_INITIATED_JOBS"
+              },
+              {
+                "name": "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION"
+              },
+              {
+                "name": "android.permission.ENFORCE_UPDATE_OWNERSHIP"
+              },
+              {
+                "name": "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS"
+              },
+              {
+                "name": "android.permission.QUERY_ALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "com.looker.droidify.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "moe.shizuku.manager.permission.API_V23"
+              }
+            ]
+          }
+        },
+        "9134613b1d6aab3675aaf7624760d2c287124dab430f803662e567871edbd8e3": {
+          "added": 1723214504000,
+          "file": {
+            "name": "/droid-ify-client_v0.6.2.apk",
+            "sha256": "9134613b1d6aab3675aaf7624760d2c287124dab430f803662e567871edbd8e3",
+            "size": 4173596
+          },
+          "manifest": {
+            "versionName": "0.6.2",
+            "versionCode": 620,
+            "usesSdk": {
+              "minSdkVersion": 23,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "ed8859c55af311162658b94af982b9f091dcd27628d4de3486d1217ebf3c9935"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_DATA_SYNC"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.REQUEST_INSTALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.REQUEST_DELETE_PACKAGES"
+              },
+              {
+                "name": "android.permission.RUN_USER_INITIATED_JOBS"
+              },
+              {
+                "name": "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION"
+              },
+              {
+                "name": "android.permission.ENFORCE_UPDATE_OWNERSHIP"
+              },
+              {
+                "name": "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS"
+              },
+              {
+                "name": "android.permission.QUERY_ALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "com.looker.droidify.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "moe.shizuku.manager.permission.API_V23"
+              }
+            ]
+          }
+        },
+        "30dca3f548f40bdafe6221298654d6ca719fe212e63c22000b945b96a89b2839": {
+          "added": 1723214503000,
+          "file": {
+            "name": "/droid-ify-client_v0.6.1.apk",
+            "sha256": "30dca3f548f40bdafe6221298654d6ca719fe212e63c22000b945b96a89b2839",
+            "size": 4378512
+          },
+          "manifest": {
+            "versionName": "0.6.1",
+            "versionCode": 610,
+            "usesSdk": {
+              "minSdkVersion": 23,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "ed8859c55af311162658b94af982b9f091dcd27628d4de3486d1217ebf3c9935"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_DATA_SYNC"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.REQUEST_INSTALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.REQUEST_DELETE_PACKAGES"
+              },
+              {
+                "name": "android.permission.RUN_USER_INITIATED_JOBS"
+              },
+              {
+                "name": "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION"
+              },
+              {
+                "name": "android.permission.QUERY_ALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "com.looker.droidify.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "moe.shizuku.manager.permission.API_V23"
+              }
+            ]
+          }
+        },
+        "c45e82d2de37b993d58fb4c8a60e009495cdfb16bcacc57d8819e4b32c05d8b7": {
+          "added": 1723214502000,
+          "file": {
+            "name": "/droid-ify-client_v0.6.0.apk",
+            "sha256": "c45e82d2de37b993d58fb4c8a60e009495cdfb16bcacc57d8819e4b32c05d8b7",
+            "size": 4378512
+          },
+          "manifest": {
+            "versionName": "0.6.0",
+            "versionCode": 600,
+            "usesSdk": {
+              "minSdkVersion": 23,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "ed8859c55af311162658b94af982b9f091dcd27628d4de3486d1217ebf3c9935"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_DATA_SYNC"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.REQUEST_INSTALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.REQUEST_DELETE_PACKAGES"
+              },
+              {
+                "name": "android.permission.RUN_USER_INITIATED_JOBS"
+              },
+              {
+                "name": "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION"
+              },
+              {
+                "name": "android.permission.QUERY_ALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "com.looker.droidify.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "moe.shizuku.manager.permission.API_V23"
+              }
+            ]
+          }
+        },
+        "7cd140dfa2d848f8d1f63cac8427dc6b17917797ba5a5c0a888a78890eb60720": {
+          "added": 1723214501000,
+          "file": {
+            "name": "/droid-ify-client_v0.5.9.5.apk",
+            "sha256": "7cd140dfa2d848f8d1f63cac8427dc6b17917797ba5a5c0a888a78890eb60720",
+            "size": 4320023
+          },
+          "manifest": {
+            "versionName": "0.5.9 Patch 5",
+            "versionCode": 595,
+            "usesSdk": {
+              "minSdkVersion": 23,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "ed8859c55af311162658b94af982b9f091dcd27628d4de3486d1217ebf3c9935"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_DATA_SYNC"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.REQUEST_INSTALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.REQUEST_DELETE_PACKAGES"
+              },
+              {
+                "name": "android.permission.RUN_USER_INITIATED_JOBS"
+              },
+              {
+                "name": "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION"
+              },
+              {
+                "name": "android.permission.QUERY_ALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "com.looker.droidify.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "moe.shizuku.manager.permission.API_V23"
+              }
+            ]
+          }
+        },
+        "5ef7cedd78b1fbfa4be64a4d07cfe5f78520ee74d99c3bb62ab512da0065c2b9": {
+          "added": 1723214500000,
+          "file": {
+            "name": "/droid-ify-client_v0.5.9.4.apk",
+            "sha256": "5ef7cedd78b1fbfa4be64a4d07cfe5f78520ee74d99c3bb62ab512da0065c2b9",
+            "size": 4299543
+          },
+          "manifest": {
+            "versionName": "0.5.9 Patch 4",
+            "versionCode": 594,
+            "usesSdk": {
+              "minSdkVersion": 23,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "ed8859c55af311162658b94af982b9f091dcd27628d4de3486d1217ebf3c9935"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_DATA_SYNC"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.REQUEST_INSTALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.REQUEST_DELETE_PACKAGES"
+              },
+              {
+                "name": "android.permission.RUN_USER_INITIATED_JOBS"
+              },
+              {
+                "name": "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION"
+              },
+              {
+                "name": "android.permission.QUERY_ALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "com.looker.droidify.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "moe.shizuku.manager.permission.API_V23"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "io.github.pyoncord.manager": {
+      "metadata": {
+        "added": 1723214480000,
+        "categories": [
+          "Phone & SMS, Connectivity"
+        ],
+        "lastUpdated": 1723214483000,
+        "license": "OSL-3.0",
+        "sourceCode": "https://github.com/pyoncord/BunnyManager",
+        "screenshots": {
+          "phone": {
+            "en-US": [
+              {
+                "name": "/io.github.pyoncord.manager/en-US/phoneScreenshots/1.jpg",
+                "sha256": "cb7e95d22042f778ece048ac0efc1b58fcfe2114f9e2f24c30f0ad7401a7e5c5",
+                "size": 117804
+              }
+            ]
+          }
+        },
+        "authorName": "pyoncord",
+        "name": {
+          "en-US": "Bunny-Manager"
+        },
+        "summary": {
+          "en-US": "Install Bunny on an Android device with ease!"
+        },
+        "description": {
+          "en-US": "Bunny Manager install a Discord mod that supports themes and plugins.\n"
+        },
+        "preferredSigner": "2dcb257d6e11be54beac2f2175279f96aac6fd44c2fda5016e72921a387c7066"
+      },
+      "versions": {
+        "64025be4c11d7d4666d7363f890341c37622aa312bd19c21ea2b82a65d5cd35a": {
+          "added": 1723214483000,
+          "file": {
+            "name": "/bunny-manager_1006.apk",
+            "sha256": "64025be4c11d7d4666d7363f890341c37622aa312bd19c21ea2b82a65d5cd35a",
+            "size": 11833701
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "1.0.6",
+            "versionCode": 1006,
+            "usesSdk": {
+              "minSdkVersion": 28,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "2dcb257d6e11be54beac2f2175279f96aac6fd44c2fda5016e72921a387c7066"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.REQUEST_INSTALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE",
+                "maxSdkVersion": 32
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE",
+                "maxSdkVersion": 32
+              },
+              {
+                "name": "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION"
+              },
+              {
+                "name": "android.permission.MANAGE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.REQUEST_DELETE_PACKAGES"
+              },
+              {
+                "name": "android.permission.DELETE_PACKAGES"
+              },
+              {
+                "name": "android.permission.QUERY_ALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "io.github.pyoncord.manager.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "moe.shizuku.manager.permission.API_V23"
+              }
+            ]
+          }
+        },
+        "6c13ffe8583729902d7b1d373cde2dffbb1ee61e1f11ec150b54d0d13bea7f78": {
+          "added": 1723214483000,
+          "file": {
+            "name": "/bunny-manager_1005.apk",
+            "sha256": "6c13ffe8583729902d7b1d373cde2dffbb1ee61e1f11ec150b54d0d13bea7f78",
+            "size": 11825509
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "1.0.5",
+            "versionCode": 1005,
+            "usesSdk": {
+              "minSdkVersion": 28,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "2dcb257d6e11be54beac2f2175279f96aac6fd44c2fda5016e72921a387c7066"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.REQUEST_INSTALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE",
+                "maxSdkVersion": 32
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE",
+                "maxSdkVersion": 32
+              },
+              {
+                "name": "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION"
+              },
+              {
+                "name": "android.permission.MANAGE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.REQUEST_DELETE_PACKAGES"
+              },
+              {
+                "name": "android.permission.DELETE_PACKAGES"
+              },
+              {
+                "name": "android.permission.QUERY_ALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "io.github.pyoncord.manager.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "moe.shizuku.manager.permission.API_V23"
+              }
+            ]
+          }
+        },
+        "bcebbead665ebded1fcc0add0f52e989400450b628bcf5dc34579260a26bfaa1": {
+          "added": 1723214482000,
+          "file": {
+            "name": "/bunny-manager_1004.apk",
+            "sha256": "bcebbead665ebded1fcc0add0f52e989400450b628bcf5dc34579260a26bfaa1",
+            "size": 12362363
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "1.0.4",
+            "versionCode": 1004,
+            "usesSdk": {
+              "minSdkVersion": 28,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "2dcb257d6e11be54beac2f2175279f96aac6fd44c2fda5016e72921a387c7066"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.REQUEST_INSTALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE",
+                "maxSdkVersion": 32
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE",
+                "maxSdkVersion": 32
+              },
+              {
+                "name": "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION"
+              },
+              {
+                "name": "android.permission.MANAGE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.REQUEST_DELETE_PACKAGES"
+              },
+              {
+                "name": "android.permission.DELETE_PACKAGES"
+              },
+              {
+                "name": "android.permission.QUERY_ALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "io.github.pyoncord.manager.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "moe.shizuku.manager.permission.API_V23"
+              }
+            ]
+          }
+        },
+        "e7387fd43552585e0fe28f3542945c2d74b43732cba24daabb3325f9a242acd2": {
+          "added": 1723214481000,
+          "file": {
+            "name": "/bunny-manager_1003.apk",
+            "sha256": "e7387fd43552585e0fe28f3542945c2d74b43732cba24daabb3325f9a242acd2",
+            "size": 12362363
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "1.0.3",
+            "versionCode": 1003,
+            "usesSdk": {
+              "minSdkVersion": 28,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "2dcb257d6e11be54beac2f2175279f96aac6fd44c2fda5016e72921a387c7066"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.REQUEST_INSTALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE",
+                "maxSdkVersion": 32
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE",
+                "maxSdkVersion": 32
+              },
+              {
+                "name": "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION"
+              },
+              {
+                "name": "android.permission.MANAGE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.REQUEST_DELETE_PACKAGES"
+              },
+              {
+                "name": "android.permission.DELETE_PACKAGES"
+              },
+              {
+                "name": "android.permission.QUERY_ALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "io.github.pyoncord.manager.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "moe.shizuku.manager.permission.API_V23"
+              }
+            ]
+          }
+        },
+        "533658e4ff3eb4449aca7e4f17772def2a95b8dfb73fdc2e8b905bfefe8a933f": {
+          "added": 1723214480000,
+          "file": {
+            "name": "/bunny-manager_1002.apk",
+            "sha256": "533658e4ff3eb4449aca7e4f17772def2a95b8dfb73fdc2e8b905bfefe8a933f",
+            "size": 12362363
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "1.0.2",
+            "versionCode": 1002,
+            "usesSdk": {
+              "minSdkVersion": 28,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "2dcb257d6e11be54beac2f2175279f96aac6fd44c2fda5016e72921a387c7066"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.REQUEST_INSTALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE",
+                "maxSdkVersion": 32
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE",
+                "maxSdkVersion": 32
+              },
+              {
+                "name": "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION"
+              },
+              {
+                "name": "android.permission.MANAGE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.REQUEST_DELETE_PACKAGES"
+              },
+              {
+                "name": "android.permission.DELETE_PACKAGES"
+              },
+              {
+                "name": "android.permission.QUERY_ALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "io.github.pyoncord.manager.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "moe.shizuku.manager.permission.API_V23"
+              }
+            ]
+          }
+        },
+        "b685db0ea130dbaa7e04ed26c1978a99fda9446a692f531c6bb263ceeacade1a": {
+          "added": 1723214480000,
+          "file": {
+            "name": "/bunny-manager_1000.apk",
+            "sha256": "b685db0ea130dbaa7e04ed26c1978a99fda9446a692f531c6bb263ceeacade1a",
+            "size": 12362363
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "1.0.0",
+            "versionCode": 1000,
+            "usesSdk": {
+              "minSdkVersion": 28,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "2dcb257d6e11be54beac2f2175279f96aac6fd44c2fda5016e72921a387c7066"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.REQUEST_INSTALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE",
+                "maxSdkVersion": 32
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE",
+                "maxSdkVersion": 32
+              },
+              {
+                "name": "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION"
+              },
+              {
+                "name": "android.permission.MANAGE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.REQUEST_DELETE_PACKAGES"
+              },
+              {
+                "name": "android.permission.DELETE_PACKAGES"
+              },
+              {
+                "name": "android.permission.QUERY_ALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "io.github.pyoncord.manager.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "moe.shizuku.manager.permission.API_V23"
+              }
+            ]
+          }
+        }
+      }
+    },
     "xyz.zedler.patrick.grocy": {
       "metadata": {
         "added": 1723161600000,

@@ -14,7 +14,10 @@ This repository is a template for an [F-Droid](https://f-droid.org) repo using G
 <!-- This table is auto-generated. Do not edit -->
 | Icon | Name | Description | Version |
 | --- | --- | --- | --- |
+| <a href="https://github.com/pyoncord/BunnyManager"><img src="fdroid/repo/icons/" alt="Bunny-Manager icon" width="36px" height="36px"></a> | [**Bunny-Manager**](https://github.com/pyoncord/BunnyManager) | Install Bunny on an Android device with ease! | 1.0.6 (1006) |
+| <a href="https://github.com/Droid-ify/client"><img src="fdroid/repo/icons/" alt="Droid-ify icon" width="36px" height="36px"></a> | [**Droid-ify**](https://github.com/Droid-ify/client) | F-Droid client with Material UI.  | 0.6.3 (630) |
 | <a href="https://github.com/patzly/grocy-android"><img src="fdroid/repo/icons/xyz.zedler.patrick.grocy.56.png" alt="Grocy icon" width="36px" height="36px"></a> | [**Grocy**](https://github.com/patzly/grocy-android) | ERP beyond your fridge, now on your phone – An awesome companion app for grocy | 3.5.2 (56) |
+| <a href="https://github.com/DerGoogler/MMRL"><img src="fdroid/repo/icons/" alt="MMRL icon" width="36px" height="36px"></a> | [**MMRL**](https://github.com/DerGoogler/MMRL) | Introducing Magisk Module Repo Loader (MMRL) - the ultimate module manager fo... | 2.20.21 (22021) |
 <!-- end apps table -->
 
 ### How to use
