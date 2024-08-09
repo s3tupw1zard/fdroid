@@ -71,8 +71,13 @@ jobs:
           github-corners: https://github.com/jaywcjlove/markdown-to-html-cli
           favicon: '<link rel="icon" type="image/png" sizes="32x32" href="favicon/favicon.png">'
 
+      - name: Force use gnu-sed
+          run: |
+            ln -s /usr/local/bin/gsed sed
+            export PATH=$PWD:$PATH
+
       - name: Fix icons path
-        run: sed -i 's/fdroid/repo/icons//repo/icons//g' fdroid/index.html
+        run: ./sed -i 's/fdroid/repo/icons//repo/icons//g' fdroid/index.html
 
       - name: Copy qrcode.png to fdroid folder and fix qrcode path
         run: mkdir -p fdroid/.github; cp .github/qrcode.png fdroid/.github/qrcode.png
