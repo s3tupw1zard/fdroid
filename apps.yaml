@@ -197,4 +197,19 @@ GitNex:
   categories: 
   - Development
 
-  
+Plex-MOD:
+  git: https://git.mnlx.cc/fdroid-apps/Plex-MOD-Android
+  license: MIT
+  authorname: s3tupw1zard
+  website: https://git.mnlx.cc/fdroid-apps/Plex-MOD-Android
+  sourcecode: https://git.mnlx.cc/fdroid-apps/Plex-MOD-Android
+  issuetracker: https://git.mnlx.cc/fdroid-apps/Plex-MOD-Android/issues
+  changelog: https://git.mnlx.cc/fdroid-apps/Plex-MOD-Android/releases
+
+  name: "Plex MOD"
+  description: |
+    Just a Plex Mod.
+    Psst.
+
+  categories: 
+  - Streaming
