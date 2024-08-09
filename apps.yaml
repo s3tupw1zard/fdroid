@@ -164,3 +164,35 @@ Revanced-Manager:
 
   categories: 
   - System, Streaming
+
+GitNex:
+  git: https://codeberg.org/gitnex/GitNex
+  license: GNU GENERAL PUBLIC LICENSE
+  authorname: mmarif
+  website: https://gitnex.com/
+  sourcecode: https://codeberg.org/gitnex/GitNex
+  issuetracker: https://codeberg.org/gitnex/GitNex/issues
+  changelog: https://codeberg.org/gitnex/GitNex/releases
+
+  name: "GitNex"
+  description: |
+    Note about Forgejo and Gitea version
+    Please make sure that you are on the latest stable release or later for a better app experience.
+
+    Check the version compatibility page at https://codeberg.org/gitnex/GitNex/wiki/Compatibility, which lists all the supported versions along with their compatibility ratios.
+
+    Features
+    Multiple accounts support
+    File and directory browser
+    File viewer
+    Create files
+    Explore repositories / issues / organizations / users
+    Pull requests
+    Files diff for PRs
+    Notifications
+    Notes
+    Repositories / issues list
+    & more at https://codeberg.org/gitnex/GitNex/wiki/Features
+
+  categories: 
+  - System, Streaming
