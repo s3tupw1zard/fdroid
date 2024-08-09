@@ -1,0 +1,1 @@
+{"repo": {"timestamp": 1723182719000, "version": 20002, "name": "My First F-Droid Archive Demo", "icon": "icon.png", "description": "Dies sind die Apps, die aus dem Hauptrepository archiviert wurden.", "address": "https://raw.githubusercontent.com/s3tupw1zard/fdroid/main/fdroid/archive"}, "requests": {"install": [], "uninstall": []}, "apps": [], "packages": {}}
