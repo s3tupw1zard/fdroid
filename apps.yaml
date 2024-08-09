@@ -2,6 +2,14 @@
   # you can use any name here, but you should look at the existing categories first
 grocy:
   git: https://github.com/patzly/grocy-android
+  license: GPL-3.0-only
+  authorname: Patrick Zedler
+  authoremail: patrick@zedler.xyz
+  website: https://grocy.info/
+  sourcecode: https://github.com/patzly/grocy-android
+  issuetracker: https://github.com/patzly/grocy-android/issues
+  changelog: https://github.com/patzly/grocy-android/releases
+
   name: "Grocy"
   description: |
     Grocy Android is an open-source Android client for grocy (source code). Grocy is a self-hosted groceries & household management solution for your home.
