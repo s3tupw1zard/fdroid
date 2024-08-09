@@ -6,10 +6,9 @@ This repository is a template for an [F-Droid](https://f-droid.org) repo using G
 ### Apps
 
 <!-- This table is auto-generated. Do not edit -->
-
 | Icon | Name | Description | Version |
-| ---- | ---- | ----------- | ------- |
-
+| --- | --- | --- | --- |
+| <a href="https://github.com/patzly/grocy-android"><img src="fdroid/repo/icons/xyz.zedler.patrick.grocy.56.png" alt="Grocy icon" width="36px" height="36px"></a> | [**Grocy**](https://github.com/patzly/grocy-android) | ERP beyond your fridge, now on your phone – An awesome companion app for grocy | 3.5.2 (56) |
 <!-- end apps table -->
 
 ### How to use
