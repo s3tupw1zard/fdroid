@@ -9,17 +9,23 @@
     "--delete-unknown"
   ],
   "disabled": [],
-  "endTimestamp": 1723202287365,
+  "endTimestamp": 1723214575682,
   "failedBuilds": {},
   "jarsigner": "/usr/lib/jvm/default-java/bin/jarsigner",
   "keytool": "/usr/lib/jvm/default-java/bin/keytool",
   "needsUpdate": [],
   "noPackages": [
+    "com.dergoogler.mmrl",
+    "com.looker.droidify",
+    "io.github.pyoncord.manager",
     "xyz.zedler.patrick.grocy"
   ],
   "noUpdateCheck": [
+    "com.dergoogler.mmrl",
+    "com.looker.droidify",
+    "io.github.pyoncord.manager",
     "xyz.zedler.patrick.grocy"
   ],
-  "startTimestamp": 1723202279000,
+  "startTimestamp": 1723214560000,
   "subcommand": "update"
 }

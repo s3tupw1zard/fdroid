@@ -1,8 +1,320 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="icon.png" name="s3tupw1zard's F-Droid Archive" pubkey="308204f5308202dda003020102020452117297300d06092a864886f70d01010b0500302a3110300e060355040b1307462d44726f6964311630140603550403130d616e64726f69642d6275696c643020170d3234303830393034353934335a180f32303531313232363034353934335a302a3110300e060355040b1307462d44726f6964311630140603550403130d616e64726f69642d6275696c6430820222300d06092a864886f70d01010105000382020f003082020a02820201008f426bc8b3c8c0d7e0b57c9e6dbd39f334c109ed9c22f7def55c91a38eece773d8cd644816fafd1108904857e88d07fab16e746300a2c9e774351baa1c96a5420c1be2478bb80bc869aafb9bcc1e2d439004ea2aaece420389f708d98d9e521ac59abed1b0b68118b0db0b1d504dc082882e2380048525d404faabaf895619a79c97d90b1eab9ce50a83f2e53cf955588174ee19ab69fd2c47c7c3388ea7a8f663d1841479d1bdfe18084dcfeeb0e8210ac1973a60eff3827e6717b2ba87d6ffdd6c2ddb88f16aeb21edbbd23ff9577ea830171163ab28bc2d1640e07892a71370001051ccba28a79769e0164eb4e9a49bdfe0e62a54570810471a37b2f1a95213f89b864e88977ae20fe3d9b71cccf9562c9383b4ef08d265b225e4312f702ac8b2b939b84aa0592c3b2d5bb2d66dd6c07ca83536283788f5bcb207f6b13fabbc1eb4f76b5e11c4c6d0b85dd63e9e4e77eee9455e7dbaa81bd68d90dc9672c4f2993dc0add14f5819280a0399cb6046fd10b5a67fc05eb4be4da19cf90c8228ebf327dc6d507087d4b7ce1e235c87e7467013d1e16c5ad94750b1e8cd519b9563a498ef5cf5cd0a1a282033415ac125590041aeb4ce8528890c1dd7a535c3be8b8219663e014a7edac4d109bef4785044292e29484f454b434319cc114a5398e62f2621d9924127b06f90de72512e9fdc1e1e9594b11f063fe64473e294c7a30203010001a321301f301d0603551d0e041604144c0499dcbb3d016d4a91fe15890ba8edc897a17f300d06092a864886f70d01010b05000382020100509afd1b88085c1951f03594264b744c0f4a7603b5b7c52e8041d2e854bfd691a6d3ca84e0f2d01e2dc5bdfa9024f9a3b97f8dfc12da8b85b0d52e6339a821683b1171ac1ac9679cc6879ef4bcb23f02d615ffe43ff64ac245118169f3222a1f46f7d6a8aa7ca80eb47528400a0c2e49960ade8c8cdb4fcc359d236193d2093df355193b4b64abe5531adaae4ce4a7108f9ce6ade29b57bfa72becb947f30d52831c82eed7800b3217e0af2d473479cc530b1ab69226c213530c96173904f1c68f4cc5500fc87b0fb88f3a8a70de7abbee15610b28e62a67d627e3b8ca714151fa1e34c484c25aeab661f3fa81b896b20a8e4ef8791a69ffcc9d4137ee66589b2eff3ce3641c7f8f1e9c6b46a9ee4faff60064c299156b5ef20f70dd1a29056a843bcc30e9b3315431a98c982ec8ff807b91712b36952e12daa7dcb1880b33cfff7e6df5dc1df8320eba3ba4098637b1a785d23ba2756d2fb34341ba2f20ef5cc2f095ab7da6dbd9cb78aa0e0384448ec3294e377b66c6b17ffc0f150bf0a4523cf5122644205fb59251f5107e0a3a561c37388b508d43d2c13d0cbc3e3cf40529fee60f5a3b929ded92ecf9f9aebec4cac38461c0c4cc226b44c9c13ad91fc7f32f2d721a8a8190e4b0a85786e359d69af3fbf8acf6f4b3ac658f9c7bf111cc4c303385595cf8d87a3796ef334755052138342d7d781cd88108840fa3e623d3" timestamp="1723202281" url="https://s3tupw1zard.github.io/fdroid/archive" version="20002">
+	<repo icon="icon.png" name="s3tupw1zard's F-Droid Archive" pubkey="308204f5308202dda003020102020452117297300d06092a864886f70d01010b0500302a3110300e060355040b1307462d44726f6964311630140603550403130d616e64726f69642d6275696c643020170d3234303830393034353934335a180f32303531313232363034353934335a302a3110300e060355040b1307462d44726f6964311630140603550403130d616e64726f69642d6275696c6430820222300d06092a864886f70d01010105000382020f003082020a02820201008f426bc8b3c8c0d7e0b57c9e6dbd39f334c109ed9c22f7def55c91a38eece773d8cd644816fafd1108904857e88d07fab16e746300a2c9e774351baa1c96a5420c1be2478bb80bc869aafb9bcc1e2d439004ea2aaece420389f708d98d9e521ac59abed1b0b68118b0db0b1d504dc082882e2380048525d404faabaf895619a79c97d90b1eab9ce50a83f2e53cf955588174ee19ab69fd2c47c7c3388ea7a8f663d1841479d1bdfe18084dcfeeb0e8210ac1973a60eff3827e6717b2ba87d6ffdd6c2ddb88f16aeb21edbbd23ff9577ea830171163ab28bc2d1640e07892a71370001051ccba28a79769e0164eb4e9a49bdfe0e62a54570810471a37b2f1a95213f89b864e88977ae20fe3d9b71cccf9562c9383b4ef08d265b225e4312f702ac8b2b939b84aa0592c3b2d5bb2d66dd6c07ca83536283788f5bcb207f6b13fabbc1eb4f76b5e11c4c6d0b85dd63e9e4e77eee9455e7dbaa81bd68d90dc9672c4f2993dc0add14f5819280a0399cb6046fd10b5a67fc05eb4be4da19cf90c8228ebf327dc6d507087d4b7ce1e235c87e7467013d1e16c5ad94750b1e8cd519b9563a498ef5cf5cd0a1a282033415ac125590041aeb4ce8528890c1dd7a535c3be8b8219663e014a7edac4d109bef4785044292e29484f454b434319cc114a5398e62f2621d9924127b06f90de72512e9fdc1e1e9594b11f063fe64473e294c7a30203010001a321301f301d0603551d0e041604144c0499dcbb3d016d4a91fe15890ba8edc897a17f300d06092a864886f70d01010b05000382020100509afd1b88085c1951f03594264b744c0f4a7603b5b7c52e8041d2e854bfd691a6d3ca84e0f2d01e2dc5bdfa9024f9a3b97f8dfc12da8b85b0d52e6339a821683b1171ac1ac9679cc6879ef4bcb23f02d615ffe43ff64ac245118169f3222a1f46f7d6a8aa7ca80eb47528400a0c2e49960ade8c8cdb4fcc359d236193d2093df355193b4b64abe5531adaae4ce4a7108f9ce6ade29b57bfa72becb947f30d52831c82eed7800b3217e0af2d473479cc530b1ab69226c213530c96173904f1c68f4cc5500fc87b0fb88f3a8a70de7abbee15610b28e62a67d627e3b8ca714151fa1e34c484c25aeab661f3fa81b896b20a8e4ef8791a69ffcc9d4137ee66589b2eff3ce3641c7f8f1e9c6b46a9ee4faff60064c299156b5ef20f70dd1a29056a843bcc30e9b3315431a98c982ec8ff807b91712b36952e12daa7dcb1880b33cfff7e6df5dc1df8320eba3ba4098637b1a785d23ba2756d2fb34341ba2f20ef5cc2f095ab7da6dbd9cb78aa0e0384448ec3294e377b66c6b17ffc0f150bf0a4523cf5122644205fb59251f5107e0a3a561c37388b508d43d2c13d0cbc3e3cf40529fee60f5a3b929ded92ecf9f9aebec4cac38461c0c4cc226b44c9c13ad91fc7f32f2d721a8a8190e4b0a85786e359d69af3fbf8acf6f4b3ac658f9c7bf111cc4c303385595cf8d87a3796ef334755052138342d7d781cd88108840fa3e623d3" timestamp="1723214561" url="https://s3tupw1zard.github.io/fdroid/archive" version="20002">
 		<description>The repository of older versions of packages from the main demo repository. This only for my private use. Use it at your own risk.</description>
 	</repo>
+	<application id="com.looker.droidify">
+		<id>com.looker.droidify</id>
+		<added>2024-08-09</added>
+		<lastupdated>2024-08-09</lastupdated>
+		<name>Droid-ify</name>
+		<summary>F-Droid client with Material UI. </summary>
+		<desc>A quick material F-Droid client
+
+Features:
+
+* Material F-Droid style
+* No cards or inappropriate animations
+* Fast repository syncing
+* Standard Android components and minimal dependencies
+
+Available in:
+
+- Brazillian Portugese
+- English
+- Finnish
+- French
+- German
+- Greek
+- Hungarian
+- Italian
+- Norwegian Bokmål
+- Peninsular Arabic
+- Polish
+- Russian
+- Simplified Chinese
+- Spanish
+- Turkish
+
+A direct adaptation/modification of Foxy-Droid
+
+Copylefted libre software, licensed GPLv3+. \
+Use, study, change, and share; with all.
+</desc>
+		<license>GPL-3.0</license>
+		<categories>System</categories>
+		<category>System</category>
+		<web></web>
+		<source>https://github.com/Droid-ify/client</source>
+		<tracker></tracker>
+		<author>Droid-ify</author>
+		<marketversion>0.6.3</marketversion>
+		<marketvercode>630</marketvercode>
+		<package>
+			<version>0.5.9 Patch 3</version>
+			<versioncode>593</versioncode>
+			<apkname>droid-ify-client_v0.5.9.3.apk</apkname>
+			<hash type="sha256">f5f3ba0edd511df1be1831199e17b4eb7595bab32c6efc2c7d6c2148c9040b1b</hash>
+			<size>4213527</size>
+			<sdkver>23</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2024-08-09</added>
+			<sig>e773f35bff238ef8b5b8761022716c08</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_DATA_SYNC,INTERNET,POST_NOTIFICATIONS,QUERY_ALL_PACKAGES,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,REQUEST_INSTALL_PACKAGES,RUN_USER_INITIATED_JOBS,UPDATE_PACKAGES_WITHOUT_USER_ACTION,WAKE_LOCK,com.looker.droidify.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,moe.shizuku.manager.permission.API_V23</permissions>
+		</package>
+		<package>
+			<version>0.5.9 Patch 2</version>
+			<versioncode>592</versioncode>
+			<apkname>droid-ify-client_v0.5.9.2.apk</apkname>
+			<hash type="sha256">fb43b3b1d2c0e3c6f81c765476b2148aee05a53dff2ac1cda7fab3321b8ec5a8</hash>
+			<size>4213527</size>
+			<sdkver>23</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2024-08-09</added>
+			<sig>e773f35bff238ef8b5b8761022716c08</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,POST_NOTIFICATIONS,QUERY_ALL_PACKAGES,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,REQUEST_INSTALL_PACKAGES,RUN_USER_INITIATED_JOBS,UPDATE_PACKAGES_WITHOUT_USER_ACTION,WAKE_LOCK,com.looker.droidify.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,moe.shizuku.manager.permission.API_V23</permissions>
+		</package>
+		<package>
+			<version>0.5.9 Patch 1</version>
+			<versioncode>591</versioncode>
+			<apkname>droid-ify-client_v0.5.9.1.apk</apkname>
+			<hash type="sha256">195950eb7a8439439a1c097f328d0aa3f568aa39850eeb363340fd4afa47ba9c</hash>
+			<size>3702387</size>
+			<sdkver>23</sdkver>
+			<targetSdkVersion>33</targetSdkVersion>
+			<added>2024-08-09</added>
+			<sig>e773f35bff238ef8b5b8761022716c08</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,POST_NOTIFICATIONS,QUERY_ALL_PACKAGES,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,REQUEST_INSTALL_PACKAGES,UPDATE_PACKAGES_WITHOUT_USER_ACTION,WAKE_LOCK,com.looker.droidify.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,moe.shizuku.manager.permission.API_V23</permissions>
+		</package>
+		<package>
+			<version>0.5.9</version>
+			<versioncode>590</versioncode>
+			<apkname>droid-ify-client_v0.5.9.apk</apkname>
+			<hash type="sha256">77aea93b968c942c9bb8857c00057ec17158ce11e8b064976cfd7746ceacdf1a</hash>
+			<size>3695725</size>
+			<sdkver>23</sdkver>
+			<targetSdkVersion>33</targetSdkVersion>
+			<added>2024-08-09</added>
+			<sig>e773f35bff238ef8b5b8761022716c08</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,POST_NOTIFICATIONS,QUERY_ALL_PACKAGES,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,REQUEST_INSTALL_PACKAGES,UPDATE_PACKAGES_WITHOUT_USER_ACTION,WAKE_LOCK,com.looker.droidify.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,moe.shizuku.manager.permission.API_V23</permissions>
+		</package>
+		<package>
+			<version>0.5.8.4</version>
+			<versioncode>584</versioncode>
+			<apkname>droid-ify-client_v0.5.8.4.apk</apkname>
+			<hash type="sha256">2ac8cc7a7266535ddda78c695a0bbdc850a0df62e53bbcba5419ede880bd767a</hash>
+			<size>3586471</size>
+			<sdkver>23</sdkver>
+			<targetSdkVersion>33</targetSdkVersion>
+			<added>2024-08-09</added>
+			<sig>e773f35bff238ef8b5b8761022716c08</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,POST_NOTIFICATIONS,QUERY_ALL_PACKAGES,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,REQUEST_INSTALL_PACKAGES,UPDATE_PACKAGES_WITHOUT_USER_ACTION,WAKE_LOCK,com.looker.droidify.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,moe.shizuku.manager.permission.API_V23</permissions>
+		</package>
+		<package>
+			<version>0.5.8.3</version>
+			<versioncode>583</versioncode>
+			<apkname>droid-ify-client_v0.5.8.3.apk</apkname>
+			<hash type="sha256">6b08f679c2a8b7859706891ca025184ac3aab2f897672ef2d4438858c8c79cd1</hash>
+			<size>3657719</size>
+			<sdkver>23</sdkver>
+			<targetSdkVersion>33</targetSdkVersion>
+			<added>2024-08-09</added>
+			<sig>e773f35bff238ef8b5b8761022716c08</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,POST_NOTIFICATIONS,QUERY_ALL_PACKAGES,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,REQUEST_INSTALL_PACKAGES,UPDATE_PACKAGES_WITHOUT_USER_ACTION,WAKE_LOCK,com.looker.droidify.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,moe.shizuku.manager.permission.API_V23</permissions>
+		</package>
+		<package>
+			<version>0.5.8.2</version>
+			<versioncode>582</versioncode>
+			<apkname>droid-ify-client_v0.5.8.2.apk</apkname>
+			<hash type="sha256">9ef4958f86b7600a01a965bda3597b58b3ead52c5a37d31f609d3c9f86aabf0a</hash>
+			<size>3655167</size>
+			<sdkver>23</sdkver>
+			<targetSdkVersion>33</targetSdkVersion>
+			<added>2024-08-09</added>
+			<sig>e773f35bff238ef8b5b8761022716c08</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,POST_NOTIFICATIONS,QUERY_ALL_PACKAGES,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,REQUEST_INSTALL_PACKAGES,UPDATE_PACKAGES_WITHOUT_USER_ACTION,WAKE_LOCK,com.looker.droidify.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,moe.shizuku.manager.permission.API_V23</permissions>
+		</package>
+		<package>
+			<version>0.5.8.1</version>
+			<versioncode>581</versioncode>
+			<apkname>droid-ify-client_v0.5.8.1.apk</apkname>
+			<hash type="sha256">306762862e0a41b4dc9ab267ddf9908403f91bc401dec9f237a29a81c8a8ed3b</hash>
+			<size>3360413</size>
+			<sdkver>23</sdkver>
+			<targetSdkVersion>33</targetSdkVersion>
+			<added>2024-08-09</added>
+			<sig>e773f35bff238ef8b5b8761022716c08</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,POST_NOTIFICATIONS,QUERY_ALL_PACKAGES,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,REQUEST_INSTALL_PACKAGES,UPDATE_PACKAGES_WITHOUT_USER_ACTION,WAKE_LOCK,com.looker.droidify.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,moe.shizuku.manager.permission.API_V23</permissions>
+		</package>
+		<package>
+			<version>0.5.8</version>
+			<versioncode>58</versioncode>
+			<apkname>droid-ify-client_v0.5.8.apk</apkname>
+			<hash type="sha256">abdd8f2dd3cdf55a1451f67ff54f4f739f942eedbd5b726d4c4dab1f78c4e45e</hash>
+			<size>3360467</size>
+			<sdkver>23</sdkver>
+			<targetSdkVersion>33</targetSdkVersion>
+			<added>2024-08-09</added>
+			<sig>e773f35bff238ef8b5b8761022716c08</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,POST_NOTIFICATIONS,QUERY_ALL_PACKAGES,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,REQUEST_INSTALL_PACKAGES,UPDATE_PACKAGES_WITHOUT_USER_ACTION,WAKE_LOCK,com.looker.droidify.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,moe.shizuku.manager.permission.API_V23</permissions>
+		</package>
+		<package>
+			<version>0.5.7</version>
+			<versioncode>57</versioncode>
+			<apkname>droid-ify-client_v0.5.7.apk</apkname>
+			<hash type="sha256">ba87575c9a492d933a2590c2d693d655fe252d29496049fc3193f7939301c111</hash>
+			<size>3679585</size>
+			<sdkver>23</sdkver>
+			<targetSdkVersion>33</targetSdkVersion>
+			<added>2024-08-09</added>
+			<sig>e773f35bff238ef8b5b8761022716c08</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,POST_NOTIFICATIONS,QUERY_ALL_PACKAGES,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,REQUEST_INSTALL_PACKAGES,UPDATE_PACKAGES_WITHOUT_USER_ACTION,WAKE_LOCK,com.looker.droidify.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,moe.shizuku.manager.permission.API_V23</permissions>
+		</package>
+		<package>
+			<version>0.5.6</version>
+			<versioncode>56</versioncode>
+			<apkname>droid-ify-client_v0.5.6.apk</apkname>
+			<hash type="sha256">eacc9e88a82e2d46350b8bdb67b67b6c6d4b7353ebcb549955ce440377667763</hash>
+			<size>3829795</size>
+			<sdkver>23</sdkver>
+			<targetSdkVersion>33</targetSdkVersion>
+			<added>2024-08-09</added>
+			<sig>e773f35bff238ef8b5b8761022716c08</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,POST_NOTIFICATIONS,QUERY_ALL_PACKAGES,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,REQUEST_INSTALL_PACKAGES,UPDATE_PACKAGES_WITHOUT_USER_ACTION,WAKE_LOCK,com.looker.droidify.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,moe.shizuku.manager.permission.API_V23</permissions>
+		</package>
+		<package>
+			<version>0.5.5</version>
+			<versioncode>55</versioncode>
+			<apkname>droid-ify-client_v0.5.5.apk</apkname>
+			<hash type="sha256">0fb142919b8c8630932e600c105a6490f49a3e339655c4ada22ac238d1fd3251</hash>
+			<size>3785040</size>
+			<sdkver>23</sdkver>
+			<targetSdkVersion>33</targetSdkVersion>
+			<added>2024-08-09</added>
+			<sig>e773f35bff238ef8b5b8761022716c08</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,POST_NOTIFICATIONS,QUERY_ALL_PACKAGES,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,REQUEST_INSTALL_PACKAGES,UPDATE_PACKAGES_WITHOUT_USER_ACTION,WAKE_LOCK,com.looker.droidify.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,moe.shizuku.manager.permission.API_V23</permissions>
+		</package>
+		<package>
+			<version>0.5.3</version>
+			<versioncode>53</versioncode>
+			<apkname>droid-ify-client_v0.5.3-fix.apk</apkname>
+			<hash type="sha256">8e18828b63b3ba3e2ebe94924c97a64f1f714a9aa14cadc6a1c860575e2314c9</hash>
+			<size>3730951</size>
+			<sdkver>23</sdkver>
+			<targetSdkVersion>33</targetSdkVersion>
+			<added>2024-08-09</added>
+			<sig>e773f35bff238ef8b5b8761022716c08</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,POST_NOTIFICATIONS,QUERY_ALL_PACKAGES,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,REQUEST_INSTALL_PACKAGES,UPDATE_PACKAGES_WITHOUT_USER_ACTION,WAKE_LOCK,com.looker.droidify.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,moe.shizuku.manager.permission.API_V23</permissions>
+		</package>
+		<package>
+			<version>0.5.2</version>
+			<versioncode>52</versioncode>
+			<apkname>droid-ify-client_v0.5.2.apk</apkname>
+			<hash type="sha256">0b956463bd0474dc6a818e1625200eafaeec1e03d9832779e09af3ffa846f4db</hash>
+			<size>3507580</size>
+			<sdkver>23</sdkver>
+			<targetSdkVersion>33</targetSdkVersion>
+			<added>2024-08-09</added>
+			<sig>e773f35bff238ef8b5b8761022716c08</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,POST_NOTIFICATIONS,QUERY_ALL_PACKAGES,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,REQUEST_INSTALL_PACKAGES,UPDATE_PACKAGES_WITHOUT_USER_ACTION,WAKE_LOCK,com.looker.droidify.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,moe.shizuku.manager.permission.API_V23</permissions>
+		</package>
+		<package>
+			<version>0.5.1</version>
+			<versioncode>51</versioncode>
+			<apkname>droid-ify-client_v0.5.1.apk</apkname>
+			<hash type="sha256">72cdfc4624d63b49615d3da2848286a32b33d41c42f92e6a8ec147230f319740</hash>
+			<size>3547124</size>
+			<sdkver>23</sdkver>
+			<targetSdkVersion>33</targetSdkVersion>
+			<added>2024-08-09</added>
+			<sig>e773f35bff238ef8b5b8761022716c08</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,POST_NOTIFICATIONS,QUERY_ALL_PACKAGES,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,REQUEST_INSTALL_PACKAGES,UPDATE_PACKAGES_WITHOUT_USER_ACTION,WAKE_LOCK,com.looker.droidify.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,moe.shizuku.manager.permission.API_V23</permissions>
+		</package>
+		<package>
+			<version>0.5.0</version>
+			<versioncode>50</versioncode>
+			<apkname>droid-ify-client_v0.5.0.apk</apkname>
+			<hash type="sha256">6e76a1b6da5f780e9d39575a48a7ad587b16f7e58ab94977141b2ff7c0ae5a3d</hash>
+			<size>3523833</size>
+			<sdkver>23</sdkver>
+			<targetSdkVersion>33</targetSdkVersion>
+			<added>2024-08-09</added>
+			<sig>e773f35bff238ef8b5b8761022716c08</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,POST_NOTIFICATIONS,QUERY_ALL_PACKAGES,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,REQUEST_INSTALL_PACKAGES,UPDATE_PACKAGES_WITHOUT_USER_ACTION,WAKE_LOCK,com.looker.droidify.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,moe.shizuku.manager.permission.API_V23</permissions>
+		</package>
+		<package>
+			<version>0.4.9</version>
+			<versioncode>49</versioncode>
+			<apkname>droid-ify-client_v0.4.9.apk</apkname>
+			<hash type="sha256">50dc07ddf7c137e5cc005053274f89b7514bfb8f0b68a2ae3208f1f9a81451f7</hash>
+			<size>3467848</size>
+			<sdkver>23</sdkver>
+			<targetSdkVersion>32</targetSdkVersion>
+			<added>2024-08-09</added>
+			<sig>59b39d5cc79794aa98aab5f7c7d6fbfa</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,QUERY_ALL_PACKAGES,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,REQUEST_INSTALL_PACKAGES,UPDATE_PACKAGES_WITHOUT_USER_ACTION,WAKE_LOCK,moe.shizuku.manager.permission.API_V23</permissions>
+		</package>
+		<package>
+			<version>0.4.8</version>
+			<versioncode>48</versioncode>
+			<apkname>droid-ify-client_v0.4.8.apk</apkname>
+			<hash type="sha256">abaf67b0892554ab7dc6f2e7b4e110088538e778f5a3dc120445116a76f77421</hash>
+			<size>3469049</size>
+			<sdkver>23</sdkver>
+			<targetSdkVersion>32</targetSdkVersion>
+			<added>2024-08-09</added>
+			<sig>59b39d5cc79794aa98aab5f7c7d6fbfa</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,QUERY_ALL_PACKAGES,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,REQUEST_INSTALL_PACKAGES,UPDATE_PACKAGES_WITHOUT_USER_ACTION,WAKE_LOCK,moe.shizuku.manager.permission.API_V23</permissions>
+		</package>
+		<package>
+			<version>0.4.7</version>
+			<versioncode>47</versioncode>
+			<apkname>droid-ify-client_v0.4.7.apk</apkname>
+			<hash type="sha256">020732519f9ed3dbab647577f1ebef1a0990e6f5bd9089b2583bf0c1c77b8830</hash>
+			<size>3063148</size>
+			<sdkver>23</sdkver>
+			<targetSdkVersion>32</targetSdkVersion>
+			<added>2024-08-09</added>
+			<sig>59b39d5cc79794aa98aab5f7c7d6fbfa</sig>
+			<permissions>FOREGROUND_SERVICE,INTERNET,QUERY_ALL_PACKAGES,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,REQUEST_INSTALL_PACKAGES,UPDATE_PACKAGES_WITHOUT_USER_ACTION,moe.shizuku.manager.permission.API_V23</permissions>
+		</package>
+		<package>
+			<version>0.4.6</version>
+			<versioncode>46</versioncode>
+			<apkname>droid-ify-client_v0.4.6.apk</apkname>
+			<hash type="sha256">6476c54ae13002c4933e3a6918957cd23a5bd7eea8c7757edc71e7dc58d37eba</hash>
+			<size>3066268</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>31</targetSdkVersion>
+			<added>2024-08-09</added>
+			<sig>59b39d5cc79794aa98aab5f7c7d6fbfa</sig>
+			<permissions>FOREGROUND_SERVICE,INTERNET,QUERY_ALL_PACKAGES,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,REQUEST_INSTALL_PACKAGES,UPDATE_PACKAGES_WITHOUT_USER_ACTION</permissions>
+		</package>
+		<package>
+			<version>0.4.5</version>
+			<versioncode>45</versioncode>
+			<apkname>droid-ify-client_v0.4.5.apk</apkname>
+			<hash type="sha256">a480960973156f5de2449036f2c846c4b2508ab28b0204e275c380156299bce5</hash>
+			<size>3058715</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>31</targetSdkVersion>
+			<added>2024-08-09</added>
+			<sig>59b39d5cc79794aa98aab5f7c7d6fbfa</sig>
+			<permissions>FOREGROUND_SERVICE,INTERNET,QUERY_ALL_PACKAGES,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,REQUEST_INSTALL_PACKAGES,UPDATE_PACKAGES_WITHOUT_USER_ACTION</permissions>
+		</package>
+		<package>
+			<version>0.4.4</version>
+			<versioncode>44</versioncode>
+			<apkname>droid-ify-client_v0.4.4.apk</apkname>
+			<hash type="sha256">6e130e79fe6dfdeef239a802045758ac6f984d2173ac900271339400103d4645</hash>
+			<size>3052802</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>31</targetSdkVersion>
+			<added>2024-08-09</added>
+			<sig>59b39d5cc79794aa98aab5f7c7d6fbfa</sig>
+			<permissions>FOREGROUND_SERVICE,INTERNET,QUERY_ALL_PACKAGES,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,REQUEST_INSTALL_PACKAGES,UPDATE_PACKAGES_WITHOUT_USER_ACTION</permissions>
+		</package>
+	</application>
 	<application id="xyz.zedler.patrick.grocy">
 		<id>xyz.zedler.patrick.grocy</id>
 		<added>2024-08-09</added>
@@ -442,6 +754,426 @@ Features:
 			<added>2024-08-09</added>
 			<sig>729b324a7bda2063a68a108ed7a671a5</sig>
 			<permissions>ACCESS_NETWORK_STATE,CAMERA,INTERNET,VIBRATE</permissions>
+		</package>
+	</application>
+	<application id="com.dergoogler.mmrl">
+		<id>com.dergoogler.mmrl</id>
+		<added>2024-08-09</added>
+		<lastupdated>2024-08-09</lastupdated>
+		<name>MMRL</name>
+		<summary>Introducing Magisk Module Repo Loader (MMRL) - the ultimate module manager fo...</summary>
+		<desc>Introducing Magisk Module Repo Loader (MMRL) - the ultimate module manager for Magisk, KernelSU and APatch on Android. This highly configurable app allows users to manage modules effortlessly, all while being completely free of ads.
+
+## Requirements:
+- Android 8.0 or later
+- (MMRL-CLI)[https://github.com/DerGoogler/MMRL-CLI]
+- 4-5 GB RAM (lower may possible)
+## Features:
+- Basics: Literally basics
+- (ModFS)[https://github.com/DerGoogler/MMRL/tree/master/docs/ModFS.md]: Customizable Module Filesystem
+- (ModConf)[https://github.com/DerGoogler/MMRL/blob/master/docs/ModConf/README.md]: Provide dynamic created pages for modules
+- Custom Repos: Load any repo that uses the MRepo or the GR Fork
+
+Read the (documentation)[https://github.com/DerGoogler/MMRL/tree/master/docs] to explore more of our functions like Shell, SuFile and more
+
+### Supported root manager:
+- [x] [Magisk](https://github.com/topjohnwu/Magisk)
+- [x] [Magisk Delta](https://github.com/HuskyDG/magisk-files)
+- [x] [KernelSU](https://github.com/tiann/KernelSU)
+- [x] [APatch](https://github.com/bmax121/APatch)
+</desc>
+		<license>MIT</license>
+		<categories>System, Root</categories>
+		<category>System, Root</category>
+		<web></web>
+		<source>https://github.com/DerGoogler/MMRL</source>
+		<tracker></tracker>
+		<author>DerGoogler</author>
+		<marketversion>2.20.21</marketversion>
+		<marketvercode>22021</marketvercode>
+		<package>
+			<version>2.17.15</version>
+			<versioncode>21715</versioncode>
+			<apkname>MMRL_v2.17.15.apk</apkname>
+			<hash type="sha256">7905ee718201f20d508ad41b1574596e2cd4b904d16b2ba33622391aadb83061</hash>
+			<size>5863382</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2024-08-09</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,WAKE_LOCK</permissions>
+		</package>
+		<package>
+			<version>2.16.13</version>
+			<versioncode>21613</versioncode>
+			<apkname>MMRL_v2.16.13.apk</apkname>
+			<hash type="sha256">17a4717a3d636b50c527d5e4d5d7a0ee10199ebb1b2460a92338bd5de473e72e</hash>
+			<size>5739233</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2024-08-09</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,com.dergoogler.mmrl.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+		</package>
+		<package>
+			<version>2.15.12</version>
+			<versioncode>21512</versioncode>
+			<apkname>MMRL_v2.15.12.apk</apkname>
+			<hash type="sha256">54527160befb7540d1604a646a02fdbdada3c61f9172ba993947354bb9ec8ce2</hash>
+			<size>5652858</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2024-08-09</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,com.dergoogler.mmrl.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+		</package>
+		<package>
+			<version>2.15.11</version>
+			<versioncode>21511</versioncode>
+			<apkname>MMRL_v2.15.11.apk</apkname>
+			<hash type="sha256">4413790efa704643934cb55e2c10bc34b64d1c11b1473b11f0bbca07a33579bc</hash>
+			<size>5652542</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2024-08-09</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,com.dergoogler.mmrl.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+		</package>
+		<package>
+			<version>2.15.10</version>
+			<versioncode>21510</versioncode>
+			<apkname>MMRL_v2.15.10.apk</apkname>
+			<hash type="sha256">751c641581d14721d12cb33bd822b6fce3e792ae67f569b84628257031b6fbf9</hash>
+			<size>5651626</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2024-08-09</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,com.dergoogler.mmrl.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+		</package>
+		<package>
+			<version>2.14.10</version>
+			<versioncode>21410</versioncode>
+			<apkname>MMRL_v2.14.10.apk</apkname>
+			<hash type="sha256">ce8ad468c66ceb2ffa6e6030dac63de1871aa72990b24250393bf7b679e0df3f</hash>
+			<size>5638452</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2024-08-09</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,com.dergoogler.mmrl.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+		</package>
+		<package>
+			<version>2.13.9</version>
+			<versioncode>2139</versioncode>
+			<apkname>MMRL_v2.13.9.apk</apkname>
+			<hash type="sha256">4d2579317e1b36d6a75c286130951237d33307553a8d942d2b061dd781ee2de8</hash>
+			<size>5510792</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2024-08-09</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,com.dergoogler.mmrl.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+		</package>
+		<package>
+			<version>1.13.9</version>
+			<versioncode>1139</versioncode>
+			<apkname>MMRL_v1.13.9.apk</apkname>
+			<hash type="sha256">120d667edbaa72f838a1aee6b437b3530994e2b44886a2f0e3e28fe4472b526d</hash>
+			<size>12349816</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2024-08-09</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,com.dergoogler.mmrl.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<uses-permission maxSdkVersion="32" name="android.permission.READ_EXTERNAL_STORAGE"/>
+			<uses-permission maxSdkVersion="32" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a</nativecode>
+		</package>
+		<package>
+			<version>1.13.8</version>
+			<versioncode>1138</versioncode>
+			<apkname>MMRL_v1.13.8.apk</apkname>
+			<hash type="sha256">f9908fc21e4acb098edf30d93a0c2e564b5a83e6a1046735c5cf16b4d4c98dd1</hash>
+			<size>12349840</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2024-08-09</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,com.dergoogler.mmrl.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<uses-permission maxSdkVersion="32" name="android.permission.READ_EXTERNAL_STORAGE"/>
+			<uses-permission maxSdkVersion="32" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a</nativecode>
+		</package>
+		<package>
+			<version>1.12.8</version>
+			<versioncode>1128</versioncode>
+			<apkname>MMRL_v1.12.8.apk</apkname>
+			<hash type="sha256">7289e7c2b75698419f33ac0667ecbe3f9f4bfe61c8b99104fa9a8df5edc6575f</hash>
+			<size>12223846</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2024-08-09</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,com.dergoogler.mmrl.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<uses-permission maxSdkVersion="32" name="android.permission.READ_EXTERNAL_STORAGE"/>
+			<uses-permission maxSdkVersion="32" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a</nativecode>
+		</package>
+		<package>
+			<version>1.11.8</version>
+			<versioncode>1118</versioncode>
+			<apkname>MMRL_v1.11.8.apk</apkname>
+			<hash type="sha256">2758d496ba73d11548b4c5697e4c5a8589aff9969301c8fe2fe13b581531bc8f</hash>
+			<size>12223814</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2024-08-09</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,com.dergoogler.mmrl.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<uses-permission maxSdkVersion="32" name="android.permission.READ_EXTERNAL_STORAGE"/>
+			<uses-permission maxSdkVersion="32" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a</nativecode>
+		</package>
+		<package>
+			<version>1.10.7</version>
+			<versioncode>1107</versioncode>
+			<apkname>MMRL_v1.10.7.apk</apkname>
+			<hash type="sha256">9df36007fc197088c0d27f01a73dbf1699e8fe952b92b19095f260a2fce237f7</hash>
+			<size>12223442</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2024-08-09</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,com.dergoogler.mmrl.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<uses-permission maxSdkVersion="32" name="android.permission.READ_EXTERNAL_STORAGE"/>
+			<uses-permission maxSdkVersion="32" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a</nativecode>
+		</package>
+		<package>
+			<version>1.10.6</version>
+			<versioncode>1106</versioncode>
+			<apkname>MMRL_v1.10.6.apk</apkname>
+			<hash type="sha256">3ea9b9a45a61a9cde87b4dcec01c1bee210cd09225845a976f5e8ee42ace4a90</hash>
+			<size>12231046</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2024-08-09</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,com.dergoogler.mmrl.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<uses-permission maxSdkVersion="32" name="android.permission.READ_EXTERNAL_STORAGE"/>
+			<uses-permission maxSdkVersion="32" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a</nativecode>
+		</package>
+		<package>
+			<version>1.9.6</version>
+			<versioncode>196</versioncode>
+			<apkname>MMRL_v1.9.6.apk</apkname>
+			<hash type="sha256">af6b441a0c96bbec80faf0ac2c6ea6dd8149db18e9c0dfa58fcaa3fdb7b61086</hash>
+			<size>12195534</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2024-08-09</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,com.dergoogler.mmrl.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<uses-permission maxSdkVersion="32" name="android.permission.READ_EXTERNAL_STORAGE"/>
+			<uses-permission maxSdkVersion="32" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a</nativecode>
+		</package>
+		<package>
+			<version>1.9.5</version>
+			<versioncode>195</versioncode>
+			<apkname>MMRL_v1.9.5.apk</apkname>
+			<hash type="sha256">e0beee46d508d30627f9ab17f9c17be847236379f1b9bbba87eb051984a80b40</hash>
+			<size>12195490</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2024-08-09</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,com.dergoogler.mmrl.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<uses-permission maxSdkVersion="32" name="android.permission.READ_EXTERNAL_STORAGE"/>
+			<uses-permission maxSdkVersion="32" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a</nativecode>
+		</package>
+		<package>
+			<version>1.8.5</version>
+			<versioncode>185</versioncode>
+			<apkname>MMRL_v1.8.5.apk</apkname>
+			<hash type="sha256">e6d5e2a47dc0aa7f8aa833c5a407b4b5f21958e3a200af29992b4ea871eb2c3e</hash>
+			<size>14301546</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2024-08-09</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,com.dergoogler.mmrl.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<nativecode>arm64-v8a</nativecode>
+		</package>
+		<package>
+			<version>1.7.5</version>
+			<versioncode>175</versioncode>
+			<apkname>MMRL_v1.7.5.apk</apkname>
+			<hash type="sha256">0b71efdd0f31395d607bc4ff7ca28e00c60c865b2bddbaa9a78ae790de14eeed</hash>
+			<size>10583059</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>26</targetSdkVersion>
+			<added>2024-08-09</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,com.dergoogler.mmrl.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<nativecode>arm64-v8a</nativecode>
+		</package>
+		<package>
+			<version>1.7.4</version>
+			<versioncode>174</versioncode>
+			<apkname>MMRL_v1.7.4.apk</apkname>
+			<hash type="sha256">420163e4871d3c52fa43efc2783b738402cda60d278acc42befc39edd1a4bee6</hash>
+			<size>10581729</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>26</targetSdkVersion>
+			<added>2024-08-09</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,com.dergoogler.mmrl.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<nativecode>arm64-v8a</nativecode>
+		</package>
+		<package>
+			<version>1.7.3</version>
+			<versioncode>173</versioncode>
+			<apkname>MMRL_v1.7.3.apk</apkname>
+			<hash type="sha256">4a7329fc3dafeb02a68c80d734887ae5ec576f150cad537cc2e9c803ed3e5ce8</hash>
+			<size>10589913</size>
+			<sdkver>33</sdkver>
+			<targetSdkVersion>33</targetSdkVersion>
+			<added>2024-08-09</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,com.dergoogler.mmrl.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<nativecode>arm64-v8a</nativecode>
+		</package>
+		<package>
+			<version>1.7.1</version>
+			<versioncode>171</versioncode>
+			<apkname>MMRL_v1.7.1.apk</apkname>
+			<hash type="sha256">3daaf247967e42873352a2b58860015c665c81e50fa18ad9a78643b85f0af204</hash>
+			<size>9882841</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>26</targetSdkVersion>
+			<added>2024-08-09</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>INTERNET,MANAGE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,com.dergoogler.mmrl.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<nativecode>arm64-v8a</nativecode>
+		</package>
+		<package>
+			<version>1.7.0</version>
+			<versioncode>170</versioncode>
+			<apkname>MMRL_v1.7.0.apk</apkname>
+			<hash type="sha256">38e63572595349ab1859a93761e385ab15134bf5735190e89e3868a45cfb4f89</hash>
+			<size>11737632</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>33</targetSdkVersion>
+			<added>2024-08-09</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>INTERNET,MANAGE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,com.dergoogler.mmrl.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<nativecode>arm64-v8a</nativecode>
+		</package>
+		<package>
+			<version>1.6.5</version>
+			<versioncode>165</versioncode>
+			<apkname>MMRL_v1.6.5.apk</apkname>
+			<hash type="sha256">05be842f2b2ce2af46a79e5454b273e28300cb7d9b96036b0f6edbdfa493c2f3</hash>
+			<size>11735261</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>33</targetSdkVersion>
+			<added>2024-08-09</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>INTERNET,MANAGE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,com.dergoogler.mmrl.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<nativecode>arm64-v8a</nativecode>
+		</package>
+		<package>
+			<version>1.6.4</version>
+			<versioncode>164</versioncode>
+			<apkname>MMRL_v1.6.4.apk</apkname>
+			<hash type="sha256">77750fbabfc732ca99b1360950db2480ffc95cd1c453bf8ea27be279cc69596f</hash>
+			<size>28301714</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>33</targetSdkVersion>
+			<added>2024-08-09</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>INTERNET,MANAGE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,com.dergoogler.mmrl.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>1.6.3</version>
+			<versioncode>163</versioncode>
+			<apkname>MMRL_v1.6.3.apk</apkname>
+			<hash type="sha256">296e52646b0ad0fc69276c7948a39ea0ec029f5ce68191b37365c3d6cca558fc</hash>
+			<size>28300106</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>33</targetSdkVersion>
+			<added>2024-08-09</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>INTERNET,MANAGE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,com.dergoogler.mmrl.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>1.6.2</version>
+			<versioncode>162</versioncode>
+			<apkname>MMRL_v1.6.2.apk</apkname>
+			<hash type="sha256">04d15ea5976835ca4c1370318d7f2247ebd55bd21ddd229009ee7307cd7c5b19</hash>
+			<size>28490702</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>33</targetSdkVersion>
+			<added>2024-08-09</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>INTERNET,MANAGE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,com.dergoogler.mmrl.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>1.6.1</version>
+			<versioncode>161</versioncode>
+			<apkname>MMRL_v1.6.1.apk</apkname>
+			<hash type="sha256">88d7c75d37ecb2bfd61d496d6e06aaf33f8fe447d39d8e3f03edcd1d576301c3</hash>
+			<size>28489898</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>33</targetSdkVersion>
+			<added>2024-08-09</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>INTERNET,MANAGE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,com.dergoogler.mmrl.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>1.6.0</version>
+			<versioncode>160</versioncode>
+			<apkname>MMRL_1.6.0-beta.apk</apkname>
+			<hash type="sha256">eacafb746ca7d86bf94575eaaf71c87dd6a73521de27ed66c41003abce6c42ac</hash>
+			<size>6658178</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>33</targetSdkVersion>
+			<added>2024-08-09</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>INTERNET,MANAGE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,com.dergoogler.mmrl.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+		</package>
+		<package>
+			<version>1.4.1</version>
+			<versioncode>141</versioncode>
+			<apkname>MMRL_1.4.1-141.apk</apkname>
+			<hash type="sha256">5e5abc0d440824cff5abc73259f267a8217da41ade32040b5bf4bfa466e80f1d</hash>
+			<size>3451691</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>32</targetSdkVersion>
+			<added>2024-08-09</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>INTERNET,MANAGE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
+		</package>
+		<package>
+			<version>1.4.0@alpha-2</version>
+			<versioncode>140</versioncode>
+			<apkname>MMRL_1.4.0Alpha-2.apk</apkname>
+			<hash type="sha256">c9ada775a912827393ce74fc7054b51b930d4387616f04039a600b7b03d3e025</hash>
+			<size>27349956</size>
+			<sdkver>28</sdkver>
+			<targetSdkVersion>32</targetSdkVersion>
+			<added>2024-08-09</added>
+			<sig>540480bcf62aea562549755418702e5b</sig>
+			<permissions>INTERNET,MANAGE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,com.dergoogler.mmrl.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
 		</package>
 	</application>
 </fdroid>

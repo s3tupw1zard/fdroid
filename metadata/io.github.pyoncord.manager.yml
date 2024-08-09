@@ -1,0 +1,13 @@
+AuthorName: pyoncord
+Categories:
+    - Phone & SMS, Connectivity
+CurrentVersion: 1.0.6
+CurrentVersionCode: 1006
+Description: |
+    Bunny Manager install a Discord mod that supports themes and plugins.
+IssueTracker: ""
+License: OSL-3.0
+Name: Bunny-Manager
+SourceCode: https://github.com/pyoncord/BunnyManager
+Summary: Install Bunny on an Android device with ease!
+WebSite: ""
