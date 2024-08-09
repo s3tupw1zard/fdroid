@@ -95,3 +95,37 @@ bunny-manager:
 
   categories: 
   - Phone & SMS, Connectivity
+
+MMRL:
+  git: https://github.com/DerGoogler/MMRL
+  license: MIT
+  authorname: DerGoogler
+  website: https://github.com/DerGoogler/MMRL
+  sourcecode: https://github.com/DerGoogler/MMRL
+  issuetracker: https://github.com/DerGoogler/MMRL/issues
+  changelog: https://github.com/DerGoogler/MMRL/releases
+
+  name: "MMRL"
+  description: |
+    Introducing Magisk Module Repo Loader (MMRL) - the ultimate module manager for Magisk, KernelSU and APatch on Android. This highly configurable app allows users to manage modules effortlessly, all while being completely free of ads.
+
+    ## Requirements:
+    - Android 8.0 or later
+    - (MMRL-CLI)[https://github.com/DerGoogler/MMRL-CLI]
+    - 4-5 GB RAM (lower may possible)
+    ## Features:
+    - Basics: Literally basics
+    - (ModFS)[https://github.com/DerGoogler/MMRL/tree/master/docs/ModFS.md]: Customizable Module Filesystem
+    - (ModConf)[https://github.com/DerGoogler/MMRL/blob/master/docs/ModConf/README.md]: Provide dynamic created pages for modules
+    - Custom Repos: Load any repo that uses the MRepo or the GR Fork
+
+    Read the (documentation)[https://github.com/DerGoogler/MMRL/tree/master/docs] to explore more of our functions like Shell, SuFile and more
+
+    ### Supported root manager:
+    - [x] [Magisk](https://github.com/topjohnwu/Magisk)
+    - [x] [Magisk Delta](https://github.com/HuskyDG/magisk-files)
+    - [x] [KernelSU](https://github.com/tiann/KernelSU)
+    - [x] [APatch](https://github.com/bmax121/APatch)
+
+  categories: 
+  - System, Root
