@@ -62,8 +62,15 @@ jobs:
         run: bash update.sh 2>&1
         env:
           GH_ACCESS_TOKEN: ${{ secrets.GH_ACCESS_TOKEN }}
-      - name: Copy Main README.md file to fdroid directory
-        run: cp README.md fdroid/README.md
+
+      - name: Converts Markdown to HTML
+        uses: jaywcjlove/markdown-to-html-cli@main
+        with:
+          source: README.md
+          output: fdroid/index.html
+          github-corners: https://github.com/jaywcjlove/markdown-to-html-cli
+          favicon: '<link rel="icon" type="image/png" sizes="32x32" href="favicon/favicon.png">'
+
       - name: Remove saved secrets
         run: rm fdroid/keystore.p12; rm fdroid/config.yml
       - name: Deploy to GH Pages
