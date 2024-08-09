@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1723194741000,
+    "timestamp": 1723195486000,
     "version": 20002,
     "name": "s3tupw1zard's F-Droid Repo",
     "icon": "icon.png",
@@ -24,10 +24,10 @@
       "name": "Grocy",
       "sourceCode": "https://github.com/patzly/grocy-android",
       "summary": "ERP beyond your fridge, now on your phone \u2013 An awesome companion app for grocy",
-      "added": 1723194682000,
+      "added": 1723161600000,
       "icon": "xyz.zedler.patrick.grocy.56.png",
       "packageName": "xyz.zedler.patrick.grocy",
-      "lastUpdated": 1723194722000,
+      "lastUpdated": 1723161600000,
       "localized": {
         "en-US": {
           "phoneScreenshots": [
@@ -45,7 +45,7 @@
   "packages": {
     "xyz.zedler.patrick.grocy": [
       {
-        "added": 1723194722000,
+        "added": 1723161600000,
         "apkName": "grocy_v3.5.2.apk",
         "hash": "1f22a84a5e69a353e5e647a49e502baee29740789290d61fa8a3cc781b6f00de",
         "hashType": "sha256",
@@ -111,7 +111,7 @@
         "versionName": "3.5.2"
       },
       {
-        "added": 1723194720000,
+        "added": 1723161600000,
         "apkName": "grocy_v3.5.1.apk",
         "hash": "e5caec9f63ddc4087116cfc3d4fe27613c239a7926306807ccb1f9a6cff58fb8",
         "hashType": "sha256",
@@ -177,7 +177,7 @@
         "versionName": "3.5.1"
       },
       {
-        "added": 1723194719000,
+        "added": 1723161600000,
         "apkName": "grocy_v3.5.0.apk",
         "hash": "92f31069df435a6d4ed7948ad0a3ce0f4dbd496da0952b62165964311e4d013a",
         "hashType": "sha256",
@@ -243,7 +243,7 @@
         "versionName": "3.5.0"
       },
       {
-        "added": 1723194718000,
+        "added": 1723161600000,
         "apkName": "grocy_v3.4.2.apk",
         "hash": "107d9e30e11ab9e8352776b01c26154ab0909ed50f273bbf8bbbf4d08a336f13",
         "hashType": "sha256",
@@ -309,7 +309,7 @@
         "versionName": "3.4.2"
       },
       {
-        "added": 1723194716000,
+        "added": 1723161600000,
         "apkName": "grocy_v3.4.1.apk",
         "hash": "51f73250286aa405c90a026365217efcca616e3a2fc448452092773bde0cf30a",
         "hashType": "sha256",
@@ -375,7 +375,7 @@
         "versionName": "3.4.1"
       },
       {
-        "added": 1723194715000,
+        "added": 1723161600000,
         "apkName": "grocy_v3.4.0.apk",
         "hash": "cc62bcf79fe33c6ea6a45cd911bfdf3c392dd5649ad3b8a87d62426acb613c92",
         "hashType": "sha256",
