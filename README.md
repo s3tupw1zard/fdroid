@@ -3,6 +3,12 @@
 GAF-DRoid stands for Github Actions F-Droid and was originally created by [@xarantolus](https://github.com/xarantolus/fdroid).
 This repository is a template for an [F-Droid](https://f-droid.org) repo using GitHub Actions for hosting.
 
+## F-Droid Repositories
+
+|                                                              🗃️ Main Repository                                                             |                                                               📦 Archive Repository                                                               |
+|:------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------:|
+| <a href="https://s3tupw1zard.github.io/fdroid/repo/?fingerprint=30C8B33215CDFDA5C78BCB3D1B7E4B0F8F050697820D7BE320E29D61A72ECC60">Main</a> | <a href="https://s3tupw1zard.github.io/fdroid/archive/?fingerprint=30C8B33215CDFDA5C78BCB3D1B7E4B0F8F050697820D7BE320E29D61A72ECC60">Archive</a> |
+
 ### Apps
 
 <!-- This table is auto-generated. Do not edit -->
