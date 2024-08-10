@@ -166,6 +166,7 @@ revanced-manager:
   - System, Streaming
 
 gitnex:
+  repotype: git
   git: https://codeberg.org/gitnex/GitNex
   license: GNU GENERAL PUBLIC LICENSE
   authorname: mmarif
