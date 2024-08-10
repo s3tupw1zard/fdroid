@@ -1,0 +1,14 @@
+AuthorName: M M Arif
+Categories:
+  - Internet
+Description: |
+    GitNex
+IssueTracker: "https://codeberg.org/gitnex/GitNex/issues"
+License: GPL-3.0-only
+Name: GitNex
+RepoType: git
+SourceCode: https://codeberg.org/gitnex/GitNex
+WebSite: "https://gitnex.com"
+Translation: https://crowdin.com/project/GitNex
+Changelog: https://codeberg.org/gitnex/GitNex/releases
+Donate: https://www.patreon.com/mmarif
