@@ -168,13 +168,13 @@ with open(INPUT_YAML) as file:
         body_st = []
         prettyTable = PrettyTable()
 
-        prettyTable.field_names = ["Field", "Example Value", "Required", "Description"]
+        prettyTable.field_names = ["Icon", "Name", "Description", "Version"]
 
         if not PRINT_HTML:
-            prettyTable.align["Field"] = "l"
-            prettyTable.align["Example Value"] = "l"
-            prettyTable.align["Required"] = "c"
-            prettyTable.align["Description"] = "l"
+            prettyTable.align["Icon"] = "c"
+            prettyTable.align["Name"] = "c"
+            prettyTable.align["Description"] = "c"
+            prettyTable.align["Version"] = "c"
 
         if isinstance(yaml_file_object, list):
             dic = yaml_file_object[i]
